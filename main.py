@@ -1,8 +1,9 @@
-from typing import List, Tuple, Optional, Dict, Callable
+from typing import List, Tuple, Optional, Dict
 from dataclasses import dataclass
 from collections import defaultdict
-import unicodedata, re, os
+import unicodedata, re, os, json
 from rapidfuzz import fuzz, process
+
 # ============== VN Normalization & Helpers =================
 
 _WS_RE = re.compile(r"\s+")
@@ -11,28 +12,21 @@ _PUNCT_AS_SPACE = re.compile(r"[^\w\s]", flags=re.UNICODE)
 # Designator tokens that may appear in the QUERY (never in your lists)
 _DESIGNATOR_TOKENS = {
     # province/city
-    "tinh","thanh","pho","thanhpho","tp","t","t p","t p","tx","t x","thi","thi_xa","thi xa",
+    "tinh","thanh","pho","thanhpho","tp","t","t p","t p","tx","t x","thi","thi_xa",
     # district-level
-    "quan","q","huyen","h","thi_tran","thi tran","tt",
+    "quan","q","huyen","h","thi_tran","tt","Q"
     # ward-level
     "phuong","p","xa","x",
 }
 
 _ALIAS_PATTERNS = {
-    # --- Numeric expansions ---
-    r"\bq\s*0*([1-9][0-9]?)\b": r"quan \1",        # Q3, Q.03 → quan 3
-    r"\bp\s*0*([1-9][0-9]?)\b": r"phuong \1",      # P1, P.01 → phuong 1
-    r"\btx\b": "thi xa",
-    r"\btt\b": "thi tran",
-    r"\btp\b": "thanh pho",
-
-    # --- Hồ Chí Minh ---
+    r"\bq\s*0*([1-9][0-9]?)\b": r"quan \1",
+    r"\bp\s*0*([1-9][0-9]?)\b": r"phuong \1",
+    r"\btx\b": "thi_xa",
+    r"\btt\b": "thi_tran",
+    r"\btp\b": "thanh_pho",
     r"\b(tp\s*\.?\s*hcm|tphcm|hcm|sai\s*gon)\b": "ho chi minh",
-
-    # --- Thừa Thiên Huế ---
     r"\b(thuathienhue|tt\s*hue|t\s*thien\s*hue|tth|t\s*t\s*h)\b": "thua thien hue",
-
-    # --- Hà Nội ---
     r"\b(hn|tp\s*hn)\b": "ha noi",
 }
 
@@ -57,10 +51,8 @@ def _remove_designators(tokens: List[str]) -> List[str]:
 
 def _normalize_query_for_match(s: str) -> str:
     s = _normalize_core(s)
-    s = _expand_aliases(s)           # <--- regex replacements
-    tokens = s.split()
-    toks = _remove_designators(tokens)
-    print(toks)
+    s = _expand_aliases(s)
+    toks = _remove_designators(s.split())
     return " ".join(toks)
 
 def _normalize_catalog_name(s: str) -> str:
@@ -127,11 +119,9 @@ class _NGramIndex:
         pre.sort(key=lambda x: x[1], reverse=True)
         return [sid for sid, _ in pre[:limit]]
 
-    
     def rf_extract_one(self, nq: str, choices: list[str], cutoff: float):
         if not choices:
-            return None  # nothing to match
-        
+            return None
         res = process.extractOne(nq, choices, scorer=fuzz.partial_ratio, score_cutoff=cutoff)
         if res is None:
             return None
@@ -141,14 +131,10 @@ class _NGramIndex:
     def extract_one(self, nq: str, pr_min: float, shortlist_sids: list[int]):
         if not shortlist_sids:
             return None
-        
         choices = [self._norm_list[sid] for sid in shortlist_sids]
-
-        # 1st try: strict cutoff
         got = self.rf_extract_one(nq, choices, pr_min)
         if got is None:
             return None
-
         choice, base, idx = got
         sid = shortlist_sids[idx]
         e = self.entries[sid]
@@ -158,33 +144,19 @@ class _NGramIndex:
 # Token removal
 # =========================
 
-
 def _remove_by_span(q_norm: str, cand_norm: str, *, cutoff: float = 60.0) -> str:
-    """
-    Remove the exact matched substring of `cand_norm` inside `q_norm`
-    using RapidFuzz alignment. Falls back to token-multiset removal if
-    no substring alignment meets cutoff.
-    """
     if not q_norm or not cand_norm:
         return q_norm
-
-    # 1) Try substring alignment (precise start/end indices in the QUERY)
-    #    Works great for "tp hcm" vs "ho chi minh" AFTER alias expansion.
     try:
         result = fuzz.partial_ratio_alignment(q_norm, cand_norm, score_cutoff=cutoff)
-        # If we’re here, score >= cutoff and we have a concrete span [qs:qe)
         new_q = (q_norm[:result.src_start] + " " + q_norm[result.src_end:]).strip()
         return re.sub(r"\s+", " ", new_q)
-    except Exception as e:
-        print(e)
-        pass  # RF v2/v3 both have this; the try/except is just defensive
-
-    # 2) Fallback: remove by token multiset ONCE (order-insensitive)
+    except Exception:
+        pass
     q_tokens = q_norm.split()
     need = {}
     for t in cand_norm.split():
         need[t] = need.get(t, 0) + 1
-
     out = []
     for t in q_tokens:
         if need.get(t, 0) > 0:
@@ -202,11 +174,29 @@ class Solution:
         self.province_path = 'list_province.txt'
         self.district_path = 'list_district.txt'
         self.ward_path     = 'list_ward.txt'
+        self.json_path     = 'genai_public_standard_address_vn.json'
 
         self.province_idx = _NGramIndex(n=3)
         self.district_idx = _NGramIndex(n=3)
         self.ward_idx     = _NGramIndex(n=3)
 
+        # --- Load JSON mapping ---
+        self.province_to_districts = defaultdict(set)
+        self.district_to_wards     = defaultdict(set)
+
+        if os.path.exists(self.json_path):
+            with open(self.json_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                for rec in data:
+                    p = rec.get("province")
+                    d = rec.get("district")
+                    w = rec.get("ward")
+                    if p and d:
+                        self.province_to_districts[_normalize_catalog_name(p)].add(d)
+                    if d and w:
+                        self.district_to_wards[_normalize_catalog_name(d)].add(w)
+
+        # --- Load txt files ---
         def _load_lines(path: str) -> List[str]:
             if not os.path.exists(path):
                 return []
@@ -238,34 +228,48 @@ class Solution:
 
     def process(self, s: str):
         nq0 = _normalize_query_for_match(s)
-        print("Normalized query:", nq0)
-
-        # Province first (end of string)
+        # Province
         pickP = self._pick_one(self.province_idx, nq0, self.province_min, 0.15, 200)
         pname, nq1 = "", nq0
         if pickP:
             _, pname, pnorm, _ = pickP
             nq1 = _remove_by_span(nq0, pnorm, cutoff=self.province_min)
-            print("  After province removal:", nq1)
 
-        # District second (middle)
-        pickD = self._pick_one(self.district_idx, nq1, self.district_min, 0.15, 400)
-        dname, nq2 = "", nq1
+        # District (lọc theo tỉnh)
+        pickD, dname, nq2 = None, "", nq1
+        if pname:
+            pdnorm = _normalize_catalog_name(pname)
+            valid_districts = self.province_to_districts.get(pdnorm, set())
+            if valid_districts:
+                sids = [self.district_idx.add(d) for d in valid_districts]
+                pickD = self.district_idx.extract_one(nq1, pr_min=self.district_min, shortlist_sids=sids)
+        if not pickD:
+            pickD = self._pick_one(self.district_idx, nq1, self.district_min, 0.15, 400)
+
         if pickD:
             _, dname, dnorm, _ = pickD
             nq2 = _remove_by_span(nq1, dnorm, cutoff=self.district_min)
-            print("  After district removal:", nq2)
 
-        # Ward last (front)
-        pickW = self._pick_one(self.ward_idx, nq2, self.ward_min, 0.12, 600)
-        wname = ""
+        # Ward (lọc theo huyện)
+        pickW, wname = None, ""
+        if dname:
+            dnorm = _normalize_catalog_name(dname)
+            valid_wards = self.district_to_wards.get(dnorm, set())
+            if valid_wards:
+                sids = [self.ward_idx.add(w) for w in valid_wards]
+                pickW = self.ward_idx.extract_one(nq2, pr_min=self.ward_min, shortlist_sids=sids)
+        if not pickW:
+            pickW = self._pick_one(self.ward_idx, nq2, self.ward_min, 0.12, 600)
+
         if pickW:
             _, wname, _, _ = pickW
-            print("  After ward removal: (not needed, just for debug)")
 
         return {"province": pname or "", "district": dname or "", "ward": wname or ""}
-        
-    
+
+# =========================
+# Test
+# =========================
+
 solution = Solution()
 import time
 start_time = time.perf_counter_ns()
