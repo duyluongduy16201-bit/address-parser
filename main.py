@@ -228,6 +228,7 @@ class Solution:
 
     def process(self, s: str):
         nq0 = _normalize_query_for_match(s)
+        print(f"Normalized query: '{nq0}'")
         # Province
         pickP = self._pick_one(self.province_idx, nq0, self.province_min, 0.15, 200)
         pname, nq1 = "", nq0
@@ -273,6 +274,6 @@ class Solution:
 solution = Solution()
 import time
 start_time = time.perf_counter_ns()
-result = solution.process("TT Tân Bình Huyện Yên Sơn, Tuyên Quang")
+result = solution.process("357/28,Ng-T- Thuật,P1,Q3,TP.HồChíMinh.")
 end_time = time.perf_counter_ns()
 print(f"Processing time: {(end_time - start_time) / 1_000_000} ms, result = {result}")
