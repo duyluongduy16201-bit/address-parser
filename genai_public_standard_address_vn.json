@@ -702,7 +702,7 @@
   {
     "province": "Hà Nội",
     "district": "Sóc Sơn",
-    "ward": "Thị trấn Sóc Sơn"
+    "ward": "Sóc Sơn"
   },
   {
     "province": "Hà Nội",
@@ -827,7 +827,7 @@
   {
     "province": "Hà Nội",
     "district": "Đông Anh",
-    "ward": "Thị trấn Đông Anh"
+    "ward": "Đông Anh"
   },
   {
     "province": "Hà Nội",
@@ -947,7 +947,7 @@
   {
     "province": "Hà Nội",
     "district": "Gia Lâm",
-    "ward": "Thị trấn Yên Viên"
+    "ward": "Yên Viên"
   },
   {
     "province": "Hà Nội",
@@ -1012,7 +1012,7 @@
   {
     "province": "Hà Nội",
     "district": "Gia Lâm",
-    "ward": "Thị trấn Trâu Quỳ"
+    "ward": "Trâu Quỳ"
   },
   {
     "province": "Hà Nội",
@@ -1107,7 +1107,7 @@
   {
     "province": "Hà Nội",
     "district": "Thanh Trì",
-    "ward": "Thị trấn Văn Điển"
+    "ward": "Văn Điển"
   },
   {
     "province": "Hà Nội",
@@ -1252,7 +1252,7 @@
   {
     "province": "Hà Nội",
     "district": "Mê Linh",
-    "ward": "Thị trấn Chi Đông"
+    "ward": "Chi Đông"
   },
   {
     "province": "Hà Nội",
@@ -1282,7 +1282,7 @@
   {
     "province": "Hà Nội",
     "district": "Mê Linh",
-    "ward": "Thị trấn Quang Minh"
+    "ward": "Quang Minh"
   },
   {
     "province": "Hà Nội",
@@ -1426,83 +1426,83 @@
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Lê Lợi"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Phú Thịnh"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Ngô Quyền"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Quang Trung"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Sơn Lộc"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Xuân Khanh"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Đường Lâm"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Viên Sơn"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Xuân Sơn"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Trung Hưng"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Thanh Mỹ"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Trung Sơn Trầm"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Kim Sơn"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Sơn Đông"
   },
   {
     "province": "Hà Nội",
-    "district": "Thị Sơn Tây",
+    "district": "Sơn Tây",
     "ward": "Cổ Đông"
   },
   {
     "province": "Hà Nội",
     "district": "Ba Vì",
-    "ward": "Thị trấn Tây Đằng"
+    "ward": "Tây Đằng"
   },
   {
     "province": "Hà Nội",
@@ -1657,7 +1657,7 @@
   {
     "province": "Hà Nội",
     "district": "Phúc Thọ",
-    "ward": "Thị trấn Phúc Thọ"
+    "ward": "Phúc Thọ"
   },
   {
     "province": "Hà Nội",
@@ -1762,7 +1762,7 @@
   {
     "province": "Hà Nội",
     "district": "Đan Phượng",
-    "ward": "Thị trấn Phùng"
+    "ward": "Phùng"
   },
   {
     "province": "Hà Nội",
@@ -1842,7 +1842,7 @@
   {
     "province": "Hà Nội",
     "district": "Hoài Đức",
-    "ward": "Thị trấn Trạm Trôi"
+    "ward": "Trạm Trôi"
   },
   {
     "province": "Hà Nội",
@@ -1947,7 +1947,7 @@
   {
     "province": "Hà Nội",
     "district": "Quốc Oai",
-    "ward": "Thị trấn Quốc Oai"
+    "ward": "Quốc Oai"
   },
   {
     "province": "Hà Nội",
@@ -2062,7 +2062,7 @@
   {
     "province": "Hà Nội",
     "district": "Thạch Thất",
-    "ward": "Thị trấn Liên Quan"
+    "ward": "Liên Quan"
   },
   {
     "province": "Hà Nội",
@@ -2162,12 +2162,12 @@
   {
     "province": "Hà Nội",
     "district": "Chương Mỹ",
-    "ward": "Thị trấn Chúc Sơn"
+    "ward": "Chúc Sơn"
   },
   {
     "province": "Hà Nội",
     "district": "Chương Mỹ",
-    "ward": "Thị trấn Xuân Mai"
+    "ward": "Xuân Mai"
   },
   {
     "province": "Hà Nội",
@@ -2322,7 +2322,7 @@
   {
     "province": "Hà Nội",
     "district": "Thanh Oai",
-    "ward": "Thị trấn Kim Bài"
+    "ward": "Kim Bài"
   },
   {
     "province": "Hà Nội",
@@ -2427,7 +2427,7 @@
   {
     "province": "Hà Nội",
     "district": "Thường Tín",
-    "ward": "Thị trấn Thường Tín"
+    "ward": "Thường Tín"
   },
   {
     "province": "Hà Nội",
@@ -2572,12 +2572,12 @@
   {
     "province": "Hà Nội",
     "district": "Phú Xuyên",
-    "ward": "Thị trấn Phú Minh"
+    "ward": "Phú Minh"
   },
   {
     "province": "Hà Nội",
     "district": "Phú Xuyên",
-    "ward": "Thị trấn Phú Xuyên"
+    "ward": "Phú Xuyên"
   },
   {
     "province": "Hà Nội",
@@ -2707,7 +2707,7 @@
   {
     "province": "Hà Nội",
     "district": "Ứng Hòa",
-    "ward": "Thị trấn Vân Đình"
+    "ward": "Vân Đình"
   },
   {
     "province": "Hà Nội",
@@ -2852,7 +2852,7 @@
   {
     "province": "Hà Nội",
     "district": "Mỹ Đức",
-    "ward": "Thị trấn Đại Nghĩa"
+    "ward": "Đại Nghĩa"
   },
   {
     "province": "Hà Nội",
@@ -3002,7 +3002,7 @@
   {
     "province": "Hà Giang",
     "district": "Đồng Văn",
-    "ward": "Thị trấn Phó Bảng"
+    "ward": "Phó Bảng"
   },
   {
     "province": "Hà Giang",
@@ -3017,7 +3017,7 @@
   {
     "province": "Hà Giang",
     "district": "Đồng Văn",
-    "ward": "Thị trấn Đồng Văn"
+    "ward": "Đồng Văn"
   },
   {
     "province": "Hà Giang",
@@ -3097,7 +3097,7 @@
   {
     "province": "Hà Giang",
     "district": "Mèo Vạc",
-    "ward": "Thị trấn Mèo Vạc"
+    "ward": "Mèo Vạc"
   },
   {
     "province": "Hà Giang",
@@ -3187,7 +3187,7 @@
   {
     "province": "Hà Giang",
     "district": "Yên Minh",
-    "ward": "Thị trấn Yên Minh"
+    "ward": "Yên Minh"
   },
   {
     "province": "Hà Giang",
@@ -3277,7 +3277,7 @@
   {
     "province": "Hà Giang",
     "district": "Quản Bạ",
-    "ward": "Thị trấn Tam Sơn"
+    "ward": "Tam Sơn"
   },
   {
     "province": "Hà Giang",
@@ -3357,12 +3357,12 @@
   {
     "province": "Hà Giang",
     "district": "Vị Xuyên",
-    "ward": "Thị trấn Vị Xuyên"
+    "ward": "Vị Xuyên"
   },
   {
     "province": "Hà Giang",
     "district": "Vị Xuyên",
-    "ward": "Thị trấn Nông Trường Việt Lâm"
+    "ward": "Nông Trường Việt Lâm"
   },
   {
     "province": "Hà Giang",
@@ -3477,7 +3477,7 @@
   {
     "province": "Hà Giang",
     "district": "Bắc Mê",
-    "ward": "Thị trấn Yên Phú"
+    "ward": "Yên Phú"
   },
   {
     "province": "Hà Giang",
@@ -3527,7 +3527,7 @@
   {
     "province": "Hà Giang",
     "district": "Hoàng Su Phì",
-    "ward": "Thị trấn Vinh Quang"
+    "ward": "Vinh Quang"
   },
   {
     "province": "Hà Giang",
@@ -3647,7 +3647,7 @@
   {
     "province": "Hà Giang",
     "district": "Xín Mần",
-    "ward": "Thị trấn Cốc Pài"
+    "ward": "Cốc Pài"
   },
   {
     "province": "Hà Giang",
@@ -3737,12 +3737,12 @@
   {
     "province": "Hà Giang",
     "district": "Bắc Quang",
-    "ward": "Thị trấn Việt Quang"
+    "ward": "Việt Quang"
   },
   {
     "province": "Hà Giang",
     "district": "Bắc Quang",
-    "ward": "Thị trấn Vĩnh Tuy"
+    "ward": "Vĩnh Tuy"
   },
   {
     "province": "Hà Giang",
@@ -3877,7 +3877,7 @@
   {
     "province": "Hà Giang",
     "district": "Quang Bình",
-    "ward": "Thị trấn Yên Bình"
+    "ward": "Yên Bình"
   },
   {
     "province": "Hà Giang",
@@ -3982,7 +3982,7 @@
   {
     "province": "Cao Bằng",
     "district": "Bảo Lâm",
-    "ward": "Thị trấn Pác Miầu"
+    "ward": "Pác Miầu"
   },
   {
     "province": "Cao Bằng",
@@ -4047,7 +4047,7 @@
   {
     "province": "Cao Bằng",
     "district": "Bảo Lạc",
-    "ward": "Thị trấn Bảo Lạc"
+    "ward": "Bảo Lạc"
   },
   {
     "province": "Cao Bằng",
@@ -4132,7 +4132,7 @@
   {
     "province": "Cao Bằng",
     "district": "Hà Quảng",
-    "ward": "Thị trấn Thông Nông"
+    "ward": "Thông Nông"
   },
   {
     "province": "Cao Bằng",
@@ -4177,7 +4177,7 @@
   {
     "province": "Cao Bằng",
     "district": "Hà Quảng",
-    "ward": "Thị trấn Xuân Hòa"
+    "ward": "Xuân Hòa"
   },
   {
     "province": "Cao Bằng",
@@ -4237,7 +4237,7 @@
   {
     "province": "Cao Bằng",
     "district": "Trùng Khánh",
-    "ward": "Thị trấn Trà Lĩnh"
+    "ward": "Trà Lĩnh"
   },
   {
     "province": "Cao Bằng",
@@ -4272,7 +4272,7 @@
   {
     "province": "Cao Bằng",
     "district": "Trùng Khánh",
-    "ward": "Thị trấn Trùng Khánh"
+    "ward": "Trùng Khánh"
   },
   {
     "province": "Cao Bằng",
@@ -4382,7 +4382,7 @@
   {
     "province": "Cao Bằng",
     "district": "Hạ Lang",
-    "ward": "Thị trấn Thanh Nhật"
+    "ward": "Thanh Nhật"
   },
   {
     "province": "Cao Bằng",
@@ -4402,7 +4402,7 @@
   {
     "province": "Cao Bằng",
     "district": "Hạ Lang",
-    "ward": "Thị Hoa"
+    "ward": "Hoa"
   },
   {
     "province": "Cao Bằng",
@@ -4412,7 +4412,7 @@
   {
     "province": "Cao Bằng",
     "district": "Quảng Hòa",
-    "ward": "Thị trấn Quảng Uyên"
+    "ward": "Quảng Uyên"
   },
   {
     "province": "Cao Bằng",
@@ -4467,7 +4467,7 @@
   {
     "province": "Cao Bằng",
     "district": "Quảng Hòa",
-    "ward": "Thị trấn Tà Lùng"
+    "ward": "Tà Lùng"
   },
   {
     "province": "Cao Bằng",
@@ -4492,7 +4492,7 @@
   {
     "province": "Cao Bằng",
     "district": "Quảng Hòa",
-    "ward": "Thị trấn Hoà Thuận"
+    "ward": "Hoà Thuận"
   },
   {
     "province": "Cao Bằng",
@@ -4502,7 +4502,7 @@
   {
     "province": "Cao Bằng",
     "district": "Hoà An",
-    "ward": "Thị trấn Nước Hai"
+    "ward": "Nước Hai"
   },
   {
     "province": "Cao Bằng",
@@ -4577,12 +4577,12 @@
   {
     "province": "Cao Bằng",
     "district": "Nguyên Bình",
-    "ward": "Thị trấn Nguyên Bình"
+    "ward": "Nguyên Bình"
   },
   {
     "province": "Cao Bằng",
     "district": "Nguyên Bình",
-    "ward": "Thị trấn Tĩnh Túc"
+    "ward": "Tĩnh Túc"
   },
   {
     "province": "Cao Bằng",
@@ -4662,7 +4662,7 @@
   {
     "province": "Cao Bằng",
     "district": "Thạch An",
-    "ward": "Thị trấn Đông Khê"
+    "ward": "Đông Khê"
   },
   {
     "province": "Cao Bằng",
@@ -4732,7 +4732,7 @@
   {
     "province": "Bắc Kạn",
     "district": "Bắc Kạn",
-    "ward": "Nguyễn Thị Minh Khai"
+    "ward": "Nguyễn Minh Khai"
   },
   {
     "province": "Bắc Kạn",
@@ -4822,7 +4822,7 @@
   {
     "province": "Bắc Kạn",
     "district": "Ba Bể",
-    "ward": "Thị trấn Chợ Rã"
+    "ward": "Chợ Rã"
   },
   {
     "province": "Bắc Kạn",
@@ -4897,7 +4897,7 @@
   {
     "province": "Bắc Kạn",
     "district": "Ngân Sơn",
-    "ward": "Thị trấn Nà Phặc"
+    "ward": "Nà Phặc"
   },
   {
     "province": "Bắc Kạn",
@@ -4947,7 +4947,7 @@
   {
     "province": "Bắc Kạn",
     "district": "Bạch Thông",
-    "ward": "Thị trấn Phủ Thông"
+    "ward": "Phủ Thông"
   },
   {
     "province": "Bắc Kạn",
@@ -5017,7 +5017,7 @@
   {
     "province": "Bắc Kạn",
     "district": "Chợ Đồn",
-    "ward": "Thị trấn Bằng Lũng"
+    "ward": "Bằng Lũng"
   },
   {
     "province": "Bắc Kạn",
@@ -5117,7 +5117,7 @@
   {
     "province": "Bắc Kạn",
     "district": "Chợ Mới",
-    "ward": "Thị trấn Đồng Tâm"
+    "ward": "Đồng Tâm"
   },
   {
     "province": "Bắc Kạn",
@@ -5212,7 +5212,7 @@
   {
     "province": "Bắc Kạn",
     "district": "Na Rì",
-    "ward": "Thị trấn Yến Lạc"
+    "ward": "Yến Lạc"
   },
   {
     "province": "Bắc Kạn",
@@ -5362,7 +5362,7 @@
   {
     "province": "Tuyên Quang",
     "district": "Lâm Bình",
-    "ward": "Thị trấn Lăng Can"
+    "ward": "Lăng Can"
   },
   {
     "province": "Tuyên Quang",
@@ -5397,7 +5397,7 @@
   {
     "province": "Tuyên Quang",
     "district": "Na Hang",
-    "ward": "Thị trấn Na Hang"
+    "ward": "Na Hang"
   },
   {
     "province": "Tuyên Quang",
@@ -5457,7 +5457,7 @@
   {
     "province": "Tuyên Quang",
     "district": "Chiêm Hóa",
-    "ward": "Thị trấn Vĩnh Lộc"
+    "ward": "Vĩnh Lộc"
   },
   {
     "province": "Tuyên Quang",
@@ -5577,7 +5577,7 @@
   {
     "province": "Tuyên Quang",
     "district": "Hàm Yên",
-    "ward": "Thị trấn Tân Yên"
+    "ward": "Tân Yên"
   },
   {
     "province": "Tuyên Quang",
@@ -5742,7 +5742,7 @@
   {
     "province": "Tuyên Quang",
     "district": "Yên Sơn",
-    "ward": "Thị trấn Yên Sơn"
+    "ward": "Yên Sơn"
   },
   {
     "province": "Tuyên Quang",
@@ -5812,7 +5812,7 @@
   {
     "province": "Tuyên Quang",
     "district": "Sơn Dương",
-    "ward": "Thị trấn Sơn Dương"
+    "ward": "Sơn Dương"
   },
   {
     "province": "Tuyên Quang",
@@ -6047,7 +6047,7 @@
   {
     "province": "Lào Cai",
     "district": "Bát Xát",
-    "ward": "Thị trấn Bát Xát"
+    "ward": "Bát Xát"
   },
   {
     "province": "Lào Cai",
@@ -6167,7 +6167,7 @@
   {
     "province": "Lào Cai",
     "district": "Mường Khương",
-    "ward": "Thị trấn Mường Khương"
+    "ward": "Mường Khương"
   },
   {
     "province": "Lào Cai",
@@ -6247,7 +6247,7 @@
   {
     "province": "Lào Cai",
     "district": "Si Ma Cai",
-    "ward": "Thị trấn Si Ma Cai"
+    "ward": "Si Ma Cai"
   },
   {
     "province": "Lào Cai",
@@ -6282,7 +6282,7 @@
   {
     "province": "Lào Cai",
     "district": "Bắc Hà",
-    "ward": "Thị trấn Bắc Hà"
+    "ward": "Bắc Hà"
   },
   {
     "province": "Lào Cai",
@@ -6377,17 +6377,17 @@
   {
     "province": "Lào Cai",
     "district": "Bảo Thắng",
-    "ward": "Thị trấn N.T Phong Hải"
+    "ward": "N.T Phong Hải"
   },
   {
     "province": "Lào Cai",
     "district": "Bảo Thắng",
-    "ward": "Thị trấn Phố Lu"
+    "ward": "Phố Lu"
   },
   {
     "province": "Lào Cai",
     "district": "Bảo Thắng",
-    "ward": "Thị trấn Tằng Loỏng"
+    "ward": "Tằng Loỏng"
   },
   {
     "province": "Lào Cai",
@@ -6447,7 +6447,7 @@
   {
     "province": "Lào Cai",
     "district": "Bảo Yên",
-    "ward": "Thị trấn Phố Ràng"
+    "ward": "Phố Ràng"
   },
   {
     "province": "Lào Cai",
@@ -6526,88 +6526,88 @@
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Sa Pa"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Sa Pả"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Ô Quý Hồ"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Ngũ Chỉ Sơn"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Phan Si Păng"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Trung Chải"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Tả Phìn"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Hàm Rồng"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Hoàng Liên"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Thanh Bình"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Cầu Mây"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Mường Hoa"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Tả Van"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Mường Bo"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Bản Hồ"
   },
   {
     "province": "Lào Cai",
-    "district": "Thị Sa Pa",
+    "district": "Sa Pa",
     "ward": "Liên Minh"
   },
   {
     "province": "Lào Cai",
     "district": "Văn Bàn",
-    "ward": "Thị trấn Khánh Yên"
+    "ward": "Khánh Yên"
   },
   {
     "province": "Lào Cai",
@@ -6776,17 +6776,17 @@
   },
   {
     "province": "Điện Biên",
-    "district": "Thị Mường Lay",
+    "district": "Mường Lay",
     "ward": "Sông Đà"
   },
   {
     "province": "Điện Biên",
-    "district": "Thị Mường Lay",
+    "district": "Mường Lay",
     "ward": "Na Lay"
   },
   {
     "province": "Điện Biên",
-    "district": "Thị Mường Lay",
+    "district": "Mường Lay",
     "ward": "Lay Nưa"
   },
   {
@@ -6847,7 +6847,7 @@
   {
     "province": "Điện Biên",
     "district": "Mường Chà",
-    "ward": "Thị Trấn Mường Chà"
+    "ward": "Mường Chà"
   },
   {
     "province": "Điện Biên",
@@ -6907,7 +6907,7 @@
   {
     "province": "Điện Biên",
     "district": "Tủa Chùa",
-    "ward": "Thị trấn Tủa Chùa"
+    "ward": "Tủa Chùa"
   },
   {
     "province": "Điện Biên",
@@ -6967,7 +6967,7 @@
   {
     "province": "Điện Biên",
     "district": "Tuần Giáo",
-    "ward": "Thị trấn Tuần Giáo"
+    "ward": "Tuần Giáo"
   },
   {
     "province": "Điện Biên",
@@ -7167,7 +7167,7 @@
   {
     "province": "Điện Biên",
     "district": "Điện Biên Đông",
-    "ward": "Thị trấn Điện Biên Đông"
+    "ward": "Điện Biên Đông"
   },
   {
     "province": "Điện Biên",
@@ -7237,7 +7237,7 @@
   {
     "province": "Điện Biên",
     "district": "Mường Ảng",
-    "ward": "Thị trấn Mường Ảng"
+    "ward": "Mường Ảng"
   },
   {
     "province": "Điện Biên",
@@ -7397,7 +7397,7 @@
   {
     "province": "Lai Châu",
     "district": "Tam Đường",
-    "ward": "Thị trấn Tam Đường"
+    "ward": "Tam Đường"
   },
   {
     "province": "Lai Châu",
@@ -7462,7 +7462,7 @@
   {
     "province": "Lai Châu",
     "district": "Mường Tè",
-    "ward": "Thị trấn Mường Tè"
+    "ward": "Mường Tè"
   },
   {
     "province": "Lai Châu",
@@ -7532,7 +7532,7 @@
   {
     "province": "Lai Châu",
     "district": "Sìn Hồ",
-    "ward": "Thị trấn Sìn Hồ"
+    "ward": "Sìn Hồ"
   },
   {
     "province": "Lai Châu",
@@ -7652,7 +7652,7 @@
   {
     "province": "Lai Châu",
     "district": "Phong Thổ",
-    "ward": "Thị trấn Phong Thổ"
+    "ward": "Phong Thổ"
   },
   {
     "province": "Lai Châu",
@@ -7727,7 +7727,7 @@
   {
     "province": "Lai Châu",
     "district": "Than Uyên",
-    "ward": "Thị trấn Than Uyên"
+    "ward": "Than Uyên"
   },
   {
     "province": "Lai Châu",
@@ -7787,7 +7787,7 @@
   {
     "province": "Lai Châu",
     "district": "Tân Uyên",
-    "ward": "Thị trấn Tân Uyên"
+    "ward": "Tân Uyên"
   },
   {
     "province": "Lai Châu",
@@ -7837,7 +7837,7 @@
   {
     "province": "Lai Châu",
     "district": "Nậm Nhùn",
-    "ward": "Thị trấn Nậm Nhùn"
+    "ward": "Nậm Nhùn"
   },
   {
     "province": "Lai Châu",
@@ -8007,7 +8007,7 @@
   {
     "province": "Sơn La",
     "district": "Thuận Châu",
-    "ward": "Thị trấn Thuận Châu"
+    "ward": "Thuận Châu"
   },
   {
     "province": "Sơn La",
@@ -8152,7 +8152,7 @@
   {
     "province": "Sơn La",
     "district": "Mường La",
-    "ward": "Thị trấn Ít Ong"
+    "ward": "Ít Ong"
   },
   {
     "province": "Sơn La",
@@ -8232,7 +8232,7 @@
   {
     "province": "Sơn La",
     "district": "Bắc Yên",
-    "ward": "Thị trấn Bắc Yên"
+    "ward": "Bắc Yên"
   },
   {
     "province": "Sơn La",
@@ -8312,7 +8312,7 @@
   {
     "province": "Sơn La",
     "district": "Phù Yên",
-    "ward": "Thị trấn Phù Yên"
+    "ward": "Phù Yên"
   },
   {
     "province": "Sơn La",
@@ -8447,12 +8447,12 @@
   {
     "province": "Sơn La",
     "district": "Mộc Châu",
-    "ward": "Thị trấn Mộc Châu"
+    "ward": "Mộc Châu"
   },
   {
     "province": "Sơn La",
     "district": "Mộc Châu",
-    "ward": "Thị trấn NT Mộc Châu"
+    "ward": "NT Mộc Châu"
   },
   {
     "province": "Sơn La",
@@ -8522,7 +8522,7 @@
   {
     "province": "Sơn La",
     "district": "Yên Châu",
-    "ward": "Thị trấn Yên Châu"
+    "ward": "Yên Châu"
   },
   {
     "province": "Sơn La",
@@ -8597,7 +8597,7 @@
   {
     "province": "Sơn La",
     "district": "Mai Sơn",
-    "ward": "Thị trấn Hát Lót"
+    "ward": "Hát Lót"
   },
   {
     "province": "Sơn La",
@@ -8707,7 +8707,7 @@
   {
     "province": "Sơn La",
     "district": "Sông Mã",
-    "ward": "Thị trấn Sông Mã"
+    "ward": "Sông Mã"
   },
   {
     "province": "Sơn La",
@@ -8986,78 +8986,78 @@
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Pú Trạng"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Trung Tâm"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Tân An"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Cầu Thia"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Nghĩa Lợi"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Nghĩa Phúc"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Nghĩa An"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Nghĩa Lộ"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Sơn A"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Phù Nham"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Thanh Lương"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Hạnh Sơn"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Phúc Sơn"
   },
   {
     "province": "Yên Bái",
-    "district": "Thị Nghĩa Lộ",
+    "district": "Nghĩa Lộ",
     "ward": "Thạch Lương"
   },
   {
     "province": "Yên Bái",
     "district": "Lục Yên",
-    "ward": "Thị trấn Yên Thế"
+    "ward": "Yên Thế"
   },
   {
     "province": "Yên Bái",
@@ -9177,7 +9177,7 @@
   {
     "province": "Yên Bái",
     "district": "Văn Yên",
-    "ward": "Thị trấn Mậu A"
+    "ward": "Mậu A"
   },
   {
     "province": "Yên Bái",
@@ -9302,7 +9302,7 @@
   {
     "province": "Yên Bái",
     "district": "Mù Căng Chải",
-    "ward": "Thị trấn Mù Căng Chải"
+    "ward": "Mù Căng Chải"
   },
   {
     "province": "Yên Bái",
@@ -9372,7 +9372,7 @@
   {
     "province": "Yên Bái",
     "district": "Trấn Yên",
-    "ward": "Thị trấn Cổ Phúc"
+    "ward": "Cổ Phúc"
   },
   {
     "province": "Yên Bái",
@@ -9477,7 +9477,7 @@
   {
     "province": "Yên Bái",
     "district": "Trạm Tấu",
-    "ward": "Thị trấn Trạm Tấu"
+    "ward": "Trạm Tấu"
   },
   {
     "province": "Yên Bái",
@@ -9537,12 +9537,12 @@
   {
     "province": "Yên Bái",
     "district": "Văn Chấn",
-    "ward": "Thị trấn NT Liên Sơn"
+    "ward": "NT Liên Sơn"
   },
   {
     "province": "Yên Bái",
     "district": "Văn Chấn",
-    "ward": "Thị trấn NT Trần Phú"
+    "ward": "NT Trần Phú"
   },
   {
     "province": "Yên Bái",
@@ -9607,7 +9607,7 @@
   {
     "province": "Yên Bái",
     "district": "Văn Chấn",
-    "ward": "Thị trấn Sơn Thịnh"
+    "ward": "Sơn Thịnh"
   },
   {
     "province": "Yên Bái",
@@ -9657,12 +9657,12 @@
   {
     "province": "Yên Bái",
     "district": "Yên Bình",
-    "ward": "Thị trấn Yên Bình"
+    "ward": "Yên Bình"
   },
   {
     "province": "Yên Bái",
     "district": "Yên Bình",
-    "ward": "Thị trấn Thác Bà"
+    "ward": "Thác Bà"
   },
   {
     "province": "Yên Bái",
@@ -9872,7 +9872,7 @@
   {
     "province": "Hoà Bình",
     "district": "Đà Bắc",
-    "ward": "Thị trấn Đà Bắc"
+    "ward": "Đà Bắc"
   },
   {
     "province": "Hoà Bình",
@@ -9957,7 +9957,7 @@
   {
     "province": "Hoà Bình",
     "district": "Lương Sơn",
-    "ward": "Thị trấn Lương Sơn"
+    "ward": "Lương Sơn"
   },
   {
     "province": "Hoà Bình",
@@ -10012,7 +10012,7 @@
   {
     "province": "Hoà Bình",
     "district": "Kim Bôi",
-    "ward": "Thị trấn Bo"
+    "ward": "Bo"
   },
   {
     "province": "Hoà Bình",
@@ -10097,7 +10097,7 @@
   {
     "province": "Hoà Bình",
     "district": "Cao Phong",
-    "ward": "Thị trấn Cao Phong"
+    "ward": "Cao Phong"
   },
   {
     "province": "Hoà Bình",
@@ -10147,7 +10147,7 @@
   {
     "province": "Hoà Bình",
     "district": "Tân Lạc",
-    "ward": "Thị trấn Mãn Đức"
+    "ward": "Mãn Đức"
   },
   {
     "province": "Hoà Bình",
@@ -10232,7 +10232,7 @@
   {
     "province": "Hoà Bình",
     "district": "Mai Châu",
-    "ward": "Thị trấn Mai Châu"
+    "ward": "Mai Châu"
   },
   {
     "province": "Hoà Bình",
@@ -10307,7 +10307,7 @@
   {
     "province": "Hoà Bình",
     "district": "Lạc Sơn",
-    "ward": "Thị trấn Vụ Bản"
+    "ward": "Vụ Bản"
   },
   {
     "province": "Hoà Bình",
@@ -10427,7 +10427,7 @@
   {
     "province": "Hoà Bình",
     "district": "Yên Thủy",
-    "ward": "Thị trấn Hàng Trạm"
+    "ward": "Hàng Trạm"
   },
   {
     "province": "Hoà Bình",
@@ -10482,12 +10482,12 @@
   {
     "province": "Hoà Bình",
     "district": "Lạc Thủy",
-    "ward": "Thị trấn Ba Hàng Đồi"
+    "ward": "Ba Hàng Đồi"
   },
   {
     "province": "Hoà Bình",
     "district": "Lạc Thủy",
-    "ward": "Thị trấn Chi Nê"
+    "ward": "Chi Nê"
   },
   {
     "province": "Hoà Bình",
@@ -10742,7 +10742,7 @@
   {
     "province": "Thái Nguyên",
     "district": "Định Hóa",
-    "ward": "Thị trấn Chợ Chu"
+    "ward": "Chợ Chu"
   },
   {
     "province": "Thái Nguyên",
@@ -10857,12 +10857,12 @@
   {
     "province": "Thái Nguyên",
     "district": "Phú Lương",
-    "ward": "Thị trấn Giang Tiên"
+    "ward": "Giang Tiên"
   },
   {
     "province": "Thái Nguyên",
     "district": "Phú Lương",
-    "ward": "Thị trấn Đu"
+    "ward": "Đu"
   },
   {
     "province": "Thái Nguyên",
@@ -10932,12 +10932,12 @@
   {
     "province": "Thái Nguyên",
     "district": "Đồng Hỷ",
-    "ward": "Thị trấn Sông Cầu"
+    "ward": "Sông Cầu"
   },
   {
     "province": "Thái Nguyên",
     "district": "Đồng Hỷ",
-    "ward": "Thị trấn Trại Cau"
+    "ward": "Trại Cau"
   },
   {
     "province": "Thái Nguyên",
@@ -11007,7 +11007,7 @@
   {
     "province": "Thái Nguyên",
     "district": "Võ Nhai",
-    "ward": "Thị trấn Đình Cả"
+    "ward": "Đình Cả"
   },
   {
     "province": "Thái Nguyên",
@@ -11082,12 +11082,12 @@
   {
     "province": "Thái Nguyên",
     "district": "Đại Từ",
-    "ward": "Thị trấn Hùng Sơn"
+    "ward": "Hùng Sơn"
   },
   {
     "province": "Thái Nguyên",
     "district": "Đại Từ",
-    "ward": "Thị trấn Quân Chu"
+    "ward": "Quân Chu"
   },
   {
     "province": "Thái Nguyên",
@@ -11231,98 +11231,98 @@
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Bãi Bông"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Bắc Sơn"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Ba Hàng"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Phúc Tân"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Phúc Thuận"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Hồng Tiến"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Minh Đức"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Đắc Sơn"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Đồng Tiến"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Thành Công"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Tiên Phong"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Vạn Phái"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Nam Tiến"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Tân Hương"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Đông Cao"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Trung Thành"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Tân Phú"
   },
   {
     "province": "Thái Nguyên",
-    "district": "Thị Phổ Yên",
+    "district": "Phổ Yên",
     "ward": "Thuận Thành"
   },
   {
     "province": "Thái Nguyên",
     "district": "Phú Bình",
-    "ward": "Thị trấn Hương Sơn"
+    "ward": "Hương Sơn"
   },
   {
     "province": "Thái Nguyên",
@@ -11462,7 +11462,7 @@
   {
     "province": "Lạng Sơn",
     "district": "Tràng Định",
-    "ward": "Thị trấn Thất Khê"
+    "ward": "Thất Khê"
   },
   {
     "province": "Lạng Sơn",
@@ -11647,7 +11647,7 @@
   {
     "province": "Lạng Sơn",
     "district": "Bình Gia",
-    "ward": "Thị trấn Bình Gia"
+    "ward": "Bình Gia"
   },
   {
     "province": "Lạng Sơn",
@@ -11667,7 +11667,7 @@
   {
     "province": "Lạng Sơn",
     "district": "Văn Lãng",
-    "ward": "Thị trấn Na Sầm"
+    "ward": "Na Sầm"
   },
   {
     "province": "Lạng Sơn",
@@ -11747,12 +11747,12 @@
   {
     "province": "Lạng Sơn",
     "district": "Cao Lộc",
-    "ward": "Thị trấn Đồng Đăng"
+    "ward": "Đồng Đăng"
   },
   {
     "province": "Lạng Sơn",
     "district": "Cao Lộc",
-    "ward": "Thị trấn Cao Lộc"
+    "ward": "Cao Lộc"
   },
   {
     "province": "Lạng Sơn",
@@ -11857,7 +11857,7 @@
   {
     "province": "Lạng Sơn",
     "district": "Văn Quan",
-    "ward": "Thị trấn Văn Quan"
+    "ward": "Văn Quan"
   },
   {
     "province": "Lạng Sơn",
@@ -11942,7 +11942,7 @@
   {
     "province": "Lạng Sơn",
     "district": "Bắc Sơn",
-    "ward": "Thị trấn Bắc Sơn"
+    "ward": "Bắc Sơn"
   },
   {
     "province": "Lạng Sơn",
@@ -12032,7 +12032,7 @@
   {
     "province": "Lạng Sơn",
     "district": "Hữu Lũng",
-    "ward": "Thị trấn Hữu Lũng"
+    "ward": "Hữu Lũng"
   },
   {
     "province": "Lạng Sơn",
@@ -12147,12 +12147,12 @@
   {
     "province": "Lạng Sơn",
     "district": "Chi Lăng",
-    "ward": "Thị trấn Đồng Mỏ"
+    "ward": "Đồng Mỏ"
   },
   {
     "province": "Lạng Sơn",
     "district": "Chi Lăng",
-    "ward": "Thị trấn Chi Lăng"
+    "ward": "Chi Lăng"
   },
   {
     "province": "Lạng Sơn",
@@ -12247,12 +12247,12 @@
   {
     "province": "Lạng Sơn",
     "district": "Lộc Bình",
-    "ward": "Thị trấn Na Dương"
+    "ward": "Na Dương"
   },
   {
     "province": "Lạng Sơn",
     "district": "Lộc Bình",
-    "ward": "Thị trấn Lộc Bình"
+    "ward": "Lộc Bình"
   },
   {
     "province": "Lạng Sơn",
@@ -12352,12 +12352,12 @@
   {
     "province": "Lạng Sơn",
     "district": "Đình Lập",
-    "ward": "Thị trấn Đình Lập"
+    "ward": "Đình Lập"
   },
   {
     "province": "Lạng Sơn",
     "district": "Đình Lập",
-    "ward": "Thị trấn NT Thái Bình"
+    "ward": "NT Thái Bình"
   },
   {
     "province": "Lạng Sơn",
@@ -12792,7 +12792,7 @@
   {
     "province": "Quảng Ninh",
     "district": "Bình Liêu",
-    "ward": "Thị trấn Bình Liêu"
+    "ward": "Bình Liêu"
   },
   {
     "province": "Quảng Ninh",
@@ -12827,7 +12827,7 @@
   {
     "province": "Quảng Ninh",
     "district": "Tiên Yên",
-    "ward": "Thị trấn Tiên Yên"
+    "ward": "Tiên Yên"
   },
   {
     "province": "Quảng Ninh",
@@ -12882,7 +12882,7 @@
   {
     "province": "Quảng Ninh",
     "district": "Đầm Hà",
-    "ward": "Thị trấn Đầm Hà"
+    "ward": "Đầm Hà"
   },
   {
     "province": "Quảng Ninh",
@@ -12927,7 +12927,7 @@
   {
     "province": "Quảng Ninh",
     "district": "Hải Hà",
-    "ward": "Thị trấn Quảng Hà"
+    "ward": "Quảng Hà"
   },
   {
     "province": "Quảng Ninh",
@@ -12982,7 +12982,7 @@
   {
     "province": "Quảng Ninh",
     "district": "Ba Chẽ",
-    "ward": "Thị trấn Ba Chẽ"
+    "ward": "Ba Chẽ"
   },
   {
     "province": "Quảng Ninh",
@@ -13022,7 +13022,7 @@
   {
     "province": "Quảng Ninh",
     "district": "Vân Đồn",
-    "ward": "Thị trấn Cái Rồng"
+    "ward": "Cái Rồng"
   },
   {
     "province": "Quảng Ninh",
@@ -13081,208 +13081,208 @@
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Mạo Khê"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Đông Triều"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "An Sinh"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Tràng Lương"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Bình Khê"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Việt Dân"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Tân Việt"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Bình Dương"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Đức Chính"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Tràng An"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Nguyễn Huệ"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Thủy An"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Xuân Sơn"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Hồng Thái Tây"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Hồng Thái Đông"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Hoàng Quế"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Yên Thọ"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Hồng Phong"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Kim Sơn"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Hưng Đạo"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Đông Triều",
+    "district": "Đông Triều",
     "ward": "Yên Đức"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Quảng Yên"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Đông Mai"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Minh Thành"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Sông Khoai"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Hiệp Hòa"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Cộng Hòa"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Tiền An"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Hoàng Tân"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Tân An"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Yên Giang"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Nam Hoà"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Hà An"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Cẩm La"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Phong Hải"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Yên Hải"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Liên Hòa"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Phong Cốc"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Liên Vị"
   },
   {
     "province": "Quảng Ninh",
-    "district": "Thị Quảng Yên",
+    "district": "Quảng Yên",
     "ward": "Tiền Phong"
   },
   {
     "province": "Quảng Ninh",
     "district": "Cô Tô",
-    "ward": "Thị trấn Cô Tô"
+    "ward": "Cô Tô"
   },
   {
     "province": "Quảng Ninh",
@@ -13457,7 +13457,7 @@
   {
     "province": "Bắc Giang",
     "district": "Yên Thế",
-    "ward": "Thị trấn Phồn Xương"
+    "ward": "Phồn Xương"
   },
   {
     "province": "Bắc Giang",
@@ -13467,7 +13467,7 @@
   {
     "province": "Bắc Giang",
     "district": "Yên Thế",
-    "ward": "Thị trấn Bố Hạ"
+    "ward": "Bố Hạ"
   },
   {
     "province": "Bắc Giang",
@@ -13477,7 +13477,7 @@
   {
     "province": "Bắc Giang",
     "district": "Tân Yên",
-    "ward": "Thị trấn Nhã Nam"
+    "ward": "Nhã Nam"
   },
   {
     "province": "Bắc Giang",
@@ -13532,7 +13532,7 @@
   {
     "province": "Bắc Giang",
     "district": "Tân Yên",
-    "ward": "Thị trấn Cao Thượng"
+    "ward": "Cao Thượng"
   },
   {
     "province": "Bắc Giang",
@@ -13582,7 +13582,7 @@
   {
     "province": "Bắc Giang",
     "district": "Lạng Giang",
-    "ward": "Thị trấn Vôi"
+    "ward": "Vôi"
   },
   {
     "province": "Bắc Giang",
@@ -13622,7 +13622,7 @@
   {
     "province": "Bắc Giang",
     "district": "Lạng Giang",
-    "ward": "Thị trấn Kép"
+    "ward": "Kép"
   },
   {
     "province": "Bắc Giang",
@@ -13687,7 +13687,7 @@
   {
     "province": "Bắc Giang",
     "district": "Lục Nam",
-    "ward": "Thị trấn Đồi Ngô"
+    "ward": "Đồi Ngô"
   },
   {
     "province": "Bắc Giang",
@@ -13812,7 +13812,7 @@
   {
     "province": "Bắc Giang",
     "district": "Lục Ngạn",
-    "ward": "Thị trấn Chũ"
+    "ward": "Chũ"
   },
   {
     "province": "Bắc Giang",
@@ -13957,12 +13957,12 @@
   {
     "province": "Bắc Giang",
     "district": "Sơn Động",
-    "ward": "Thị trấn An Châu"
+    "ward": "An Châu"
   },
   {
     "province": "Bắc Giang",
     "district": "Sơn Động",
-    "ward": "Thị trấn Tây Yên Tử"
+    "ward": "Tây Yên Tử"
   },
   {
     "province": "Bắc Giang",
@@ -14042,12 +14042,12 @@
   {
     "province": "Bắc Giang",
     "district": "Yên Dũng",
-    "ward": "Thị trấn Nham Biền"
+    "ward": "Nham Biền"
   },
   {
     "province": "Bắc Giang",
     "district": "Yên Dũng",
-    "ward": "Thị trấn Tân An"
+    "ward": "Tân An"
   },
   {
     "province": "Bắc Giang",
@@ -14162,7 +14162,7 @@
   {
     "province": "Bắc Giang",
     "district": "Việt Yên",
-    "ward": "Thị trấn Bích Động"
+    "ward": "Bích Động"
   },
   {
     "province": "Bắc Giang",
@@ -14192,7 +14192,7 @@
   {
     "province": "Bắc Giang",
     "district": "Việt Yên",
-    "ward": "Thị trấn Nếnh"
+    "ward": "Nếnh"
   },
   {
     "province": "Bắc Giang",
@@ -14262,7 +14262,7 @@
   {
     "province": "Bắc Giang",
     "district": "Hiệp Hòa",
-    "ward": "Thị trấn Thắng"
+    "ward": "Thắng"
   },
   {
     "province": "Bắc Giang",
@@ -14451,53 +14451,53 @@
   },
   {
     "province": "Phú Thọ",
-    "district": "Thị Phú Thọ",
+    "district": "Phú Thọ",
     "ward": "Hùng Vương"
   },
   {
     "province": "Phú Thọ",
-    "district": "Thị Phú Thọ",
+    "district": "Phú Thọ",
     "ward": "Phong Châu"
   },
   {
     "province": "Phú Thọ",
-    "district": "Thị Phú Thọ",
+    "district": "Phú Thọ",
     "ward": "Âu Cơ"
   },
   {
     "province": "Phú Thọ",
-    "district": "Thị Phú Thọ",
+    "district": "Phú Thọ",
     "ward": "Hà Lộc"
   },
   {
     "province": "Phú Thọ",
-    "district": "Thị Phú Thọ",
+    "district": "Phú Thọ",
     "ward": "Phú Hộ"
   },
   {
     "province": "Phú Thọ",
-    "district": "Thị Phú Thọ",
+    "district": "Phú Thọ",
     "ward": "Văn Lung"
   },
   {
     "province": "Phú Thọ",
-    "district": "Thị Phú Thọ",
+    "district": "Phú Thọ",
     "ward": "Thanh Minh"
   },
   {
     "province": "Phú Thọ",
-    "district": "Thị Phú Thọ",
+    "district": "Phú Thọ",
     "ward": "Hà Thạch"
   },
   {
     "province": "Phú Thọ",
-    "district": "Thị Phú Thọ",
+    "district": "Phú Thọ",
     "ward": "Thanh Vinh"
   },
   {
     "province": "Phú Thọ",
     "district": "Đoan Hùng",
-    "ward": "Thị trấn Đoan Hùng"
+    "ward": "Đoan Hùng"
   },
   {
     "province": "Phú Thọ",
@@ -14607,7 +14607,7 @@
   {
     "province": "Phú Thọ",
     "district": "Hạ Hoà",
-    "ward": "Thị trấn Hạ Hoà"
+    "ward": "Hạ Hoà"
   },
   {
     "province": "Phú Thọ",
@@ -14707,7 +14707,7 @@
   {
     "province": "Phú Thọ",
     "district": "Thanh Ba",
-    "ward": "Thị trấn Thanh Ba"
+    "ward": "Thanh Ba"
   },
   {
     "province": "Phú Thọ",
@@ -14802,7 +14802,7 @@
   {
     "province": "Phú Thọ",
     "district": "Phù Ninh",
-    "ward": "Thị trấn Phong Châu"
+    "ward": "Phong Châu"
   },
   {
     "province": "Phú Thọ",
@@ -14887,7 +14887,7 @@
   {
     "province": "Phú Thọ",
     "district": "Yên Lập",
-    "ward": "Thị trấn Yên Lập"
+    "ward": "Yên Lập"
   },
   {
     "province": "Phú Thọ",
@@ -14972,7 +14972,7 @@
   {
     "province": "Phú Thọ",
     "district": "Cẩm Khê",
-    "ward": "Thị trấn Cẩm Khê"
+    "ward": "Cẩm Khê"
   },
   {
     "province": "Phú Thọ",
@@ -15092,7 +15092,7 @@
   {
     "province": "Phú Thọ",
     "district": "Tam Nông",
-    "ward": "Thị trấn Hưng Hoá"
+    "ward": "Hưng Hoá"
   },
   {
     "province": "Phú Thọ",
@@ -15152,7 +15152,7 @@
   {
     "province": "Phú Thọ",
     "district": "Lâm Thao",
-    "ward": "Thị trấn Lâm Thao"
+    "ward": "Lâm Thao"
   },
   {
     "province": "Phú Thọ",
@@ -15162,7 +15162,7 @@
   {
     "province": "Phú Thọ",
     "district": "Lâm Thao",
-    "ward": "Thị trấn Hùng Sơn"
+    "ward": "Hùng Sơn"
   },
   {
     "province": "Phú Thọ",
@@ -15212,7 +15212,7 @@
   {
     "province": "Phú Thọ",
     "district": "Thanh Sơn",
-    "ward": "Thị trấn Thanh Sơn"
+    "ward": "Thanh Sơn"
   },
   {
     "province": "Phú Thọ",
@@ -15347,7 +15347,7 @@
   {
     "province": "Phú Thọ",
     "district": "Thanh Thuỷ",
-    "ward": "Thị trấn Thanh Thủy"
+    "ward": "Thanh Thủy"
   },
   {
     "province": "Phú Thọ",
@@ -15562,7 +15562,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Lập Thạch",
-    "ward": "Thị trấn Lập Thạch"
+    "ward": "Lập Thạch"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15592,7 +15592,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Lập Thạch",
-    "ward": "Thị trấn Hoa Sơn"
+    "ward": "Hoa Sơn"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15662,7 +15662,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Tam Dương",
-    "ward": "Thị trấn Hợp Hòa"
+    "ward": "Hợp Hòa"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15727,12 +15727,12 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Tam Đảo",
-    "ward": "Thị trấn Tam Đảo"
+    "ward": "Tam Đảo"
   },
   {
     "province": "Vĩnh Phúc",
     "district": "Tam Đảo",
-    "ward": "Thị trấn Hợp Châu"
+    "ward": "Hợp Châu"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15752,7 +15752,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Tam Đảo",
-    "ward": "Thị trấn Đại Đình"
+    "ward": "Đại Đình"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15772,12 +15772,12 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Bình Xuyên",
-    "ward": "Thị trấn Hương Canh"
+    "ward": "Hương Canh"
   },
   {
     "province": "Vĩnh Phúc",
     "district": "Bình Xuyên",
-    "ward": "Thị trấn Gia Khánh"
+    "ward": "Gia Khánh"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15787,7 +15787,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Bình Xuyên",
-    "ward": "Thị trấn Bá Hiến"
+    "ward": "Bá Hiến"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15817,7 +15817,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Bình Xuyên",
-    "ward": "Thị trấn Đạo Đức"
+    "ward": "Đạo Đức"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15827,7 +15827,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Bình Xuyên",
-    "ward": "Thị trấn Thanh Lãng"
+    "ward": "Thanh Lãng"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15837,7 +15837,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Yên Lạc",
-    "ward": "Thị trấn Yên Lạc"
+    "ward": "Yên Lạc"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15922,7 +15922,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Vĩnh Tường",
-    "ward": "Thị trấn Vĩnh Tường"
+    "ward": "Vĩnh Tường"
   },
   {
     "province": "Vĩnh Phúc",
@@ -15982,7 +15982,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Vĩnh Tường",
-    "ward": "Thị Trấn Thổ Tang"
+    "ward": "Thổ Tang"
   },
   {
     "province": "Vĩnh Phúc",
@@ -16032,7 +16032,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Vĩnh Tường",
-    "ward": "Thị trấn Tứ Trưng"
+    "ward": "Tứ Trưng"
   },
   {
     "province": "Vĩnh Phúc",
@@ -16112,7 +16112,7 @@
   {
     "province": "Vĩnh Phúc",
     "district": "Sông Lô",
-    "ward": "Thị trấn Tam Sơn"
+    "ward": "Tam Sơn"
   },
   {
     "province": "Vĩnh Phúc",
@@ -16157,7 +16157,7 @@
   {
     "province": "Bắc Ninh",
     "district": "Bắc Ninh",
-    "ward": "Thị Cầu"
+    "ward": "Cầu"
   },
   {
     "province": "Bắc Ninh",
@@ -16242,7 +16242,7 @@
   {
     "province": "Bắc Ninh",
     "district": "Yên Phong",
-    "ward": "Thị trấn Chờ"
+    "ward": "Chờ"
   },
   {
     "province": "Bắc Ninh",
@@ -16312,7 +16312,7 @@
   {
     "province": "Bắc Ninh",
     "district": "Quế Võ",
-    "ward": "Thị trấn Phố Mới"
+    "ward": "Phố Mới"
   },
   {
     "province": "Bắc Ninh",
@@ -16417,7 +16417,7 @@
   {
     "province": "Bắc Ninh",
     "district": "Tiên Du",
-    "ward": "Thị trấn Lim"
+    "ward": "Lim"
   },
   {
     "province": "Bắc Ninh",
@@ -16486,68 +16486,68 @@
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Đông Ngàn"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Tam Sơn"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Hương Mạc"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Tương Giang"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Phù Khê"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Đồng Kỵ"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Trang Hạ"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Đồng Nguyên"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Châu Khê"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Tân Hồng"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Đình Bảng"
   },
   {
     "province": "Bắc Ninh",
-    "district": "Thị Từ Sơn",
+    "district": "Từ Sơn",
     "ward": "Phù Chẩn"
   },
   {
     "province": "Bắc Ninh",
     "district": "Thuận Thành",
-    "ward": "Thị trấn Hồ"
+    "ward": "Hồ"
   },
   {
     "province": "Bắc Ninh",
@@ -16637,7 +16637,7 @@
   {
     "province": "Bắc Ninh",
     "district": "Gia Bình",
-    "ward": "Thị trấn Gia Bình"
+    "ward": "Gia Bình"
   },
   {
     "province": "Bắc Ninh",
@@ -16707,7 +16707,7 @@
   {
     "province": "Bắc Ninh",
     "district": "Lương Tài",
-    "ward": "Thị trấn Thứa"
+    "ward": "Thứa"
   },
   {
     "province": "Bắc Ninh",
@@ -16997,7 +16997,7 @@
   {
     "province": "Hải Dương",
     "district": "Nam Sách",
-    "ward": "Thị trấn Nam Sách"
+    "ward": "Nam Sách"
   },
   {
     "province": "Hải Dương",
@@ -17091,123 +17091,123 @@
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "An Lưu"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Bạch Đằng"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Thất Hùng"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Lê Ninh"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Hoành Sơn"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Phạm Thái"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Duy Tân"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Tân Dân"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Minh Tân"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Quang Thành"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Hiệp Hòa"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Phú Thứ"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Thăng Long"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Lạc Long"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "An Sinh"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Hiệp Sơn"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Thượng Quận"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "An Phụ"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Hiệp An"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Long Xuyên"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Thái Thịnh"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Hiến Thành"
   },
   {
     "province": "Hải Dương",
-    "district": "Thị Kinh Môn",
+    "district": "Kinh Môn",
     "ward": "Minh Hòa"
   },
   {
     "province": "Hải Dương",
     "district": "Kim Thành",
-    "ward": "Thị trấn Phú Thái"
+    "ward": "Phú Thái"
   },
   {
     "province": "Hải Dương",
@@ -17297,7 +17297,7 @@
   {
     "province": "Hải Dương",
     "district": "Thanh Hà",
-    "ward": "Thị trấn Thanh Hà"
+    "ward": "Thanh Hà"
   },
   {
     "province": "Hải Dương",
@@ -17397,12 +17397,12 @@
   {
     "province": "Hải Dương",
     "district": "Cẩm Giàng",
-    "ward": "Thị trấn Cẩm Giang"
+    "ward": "Cẩm Giang"
   },
   {
     "province": "Hải Dương",
     "district": "Cẩm Giàng",
-    "ward": "Thị trấn Lai Cách"
+    "ward": "Lai Cách"
   },
   {
     "province": "Hải Dương",
@@ -17482,7 +17482,7 @@
   {
     "province": "Hải Dương",
     "district": "Bình Giang",
-    "ward": "Thị trấn Kẻ Sặt"
+    "ward": "Kẻ Sặt"
   },
   {
     "province": "Hải Dương",
@@ -17562,7 +17562,7 @@
   {
     "province": "Hải Dương",
     "district": "Gia Lộc",
-    "ward": "Thị trấn Gia Lộc"
+    "ward": "Gia Lộc"
   },
   {
     "province": "Hải Dương",
@@ -17652,7 +17652,7 @@
   {
     "province": "Hải Dương",
     "district": "Tứ Kỳ",
-    "ward": "Thị trấn Tứ Kỳ"
+    "ward": "Tứ Kỳ"
   },
   {
     "province": "Hải Dương",
@@ -17767,7 +17767,7 @@
   {
     "province": "Hải Dương",
     "district": "Ninh Giang",
-    "ward": "Thị trấn Ninh Giang"
+    "ward": "Ninh Giang"
   },
   {
     "province": "Hải Dương",
@@ -17867,7 +17867,7 @@
   {
     "province": "Hải Dương",
     "district": "Thanh Miện",
-    "ward": "Thị trấn Thanh Miện"
+    "ward": "Thanh Miện"
   },
   {
     "province": "Hải Dương",
@@ -18282,12 +18282,12 @@
   {
     "province": "Hải Phòng",
     "district": "Thuỷ Nguyên",
-    "ward": "Thị trấn Núi Đèo"
+    "ward": "Núi Đèo"
   },
   {
     "province": "Hải Phòng",
     "district": "Thuỷ Nguyên",
-    "ward": "Thị trấn Minh Đức"
+    "ward": "Minh Đức"
   },
   {
     "province": "Hải Phòng",
@@ -18467,7 +18467,7 @@
   {
     "province": "Hải Phòng",
     "district": "An Dương",
-    "ward": "Thị trấn An Dương"
+    "ward": "An Dương"
   },
   {
     "province": "Hải Phòng",
@@ -18547,7 +18547,7 @@
   {
     "province": "Hải Phòng",
     "district": "An Lão",
-    "ward": "Thị trấn An Lão"
+    "ward": "An Lão"
   },
   {
     "province": "Hải Phòng",
@@ -18592,7 +18592,7 @@
   {
     "province": "Hải Phòng",
     "district": "An Lão",
-    "ward": "Thị trấn Trường Sơn"
+    "ward": "Trường Sơn"
   },
   {
     "province": "Hải Phòng",
@@ -18632,7 +18632,7 @@
   {
     "province": "Hải Phòng",
     "district": "Kiến Thuỵ",
-    "ward": "Thị trấn Núi Đối"
+    "ward": "Núi Đối"
   },
   {
     "province": "Hải Phòng",
@@ -18722,7 +18722,7 @@
   {
     "province": "Hải Phòng",
     "district": "Tiên Lãng",
-    "ward": "Thị trấn Tiên Lãng"
+    "ward": "Tiên Lãng"
   },
   {
     "province": "Hải Phòng",
@@ -18827,7 +18827,7 @@
   {
     "province": "Hải Phòng",
     "district": "Vĩnh Bảo",
-    "ward": "Thị trấn Vĩnh Bảo"
+    "ward": "Vĩnh Bảo"
   },
   {
     "province": "Hải Phòng",
@@ -18977,12 +18977,12 @@
   {
     "province": "Hải Phòng",
     "district": "Cát Hải",
-    "ward": "Thị trấn Cát Bà"
+    "ward": "Cát Bà"
   },
   {
     "province": "Hải Phòng",
     "district": "Cát Hải",
-    "ward": "Thị trấn Cát Hải"
+    "ward": "Cát Hải"
   },
   {
     "province": "Hải Phòng",
@@ -19127,7 +19127,7 @@
   {
     "province": "Hưng Yên",
     "district": "Văn Lâm",
-    "ward": "Thị trấn Như Quỳnh"
+    "ward": "Như Quỳnh"
   },
   {
     "province": "Hưng Yên",
@@ -19182,7 +19182,7 @@
   {
     "province": "Hưng Yên",
     "district": "Văn Giang",
-    "ward": "Thị trấn Văn Giang"
+    "ward": "Văn Giang"
   },
   {
     "province": "Hưng Yên",
@@ -19237,7 +19237,7 @@
   {
     "province": "Hưng Yên",
     "district": "Yên Mỹ",
-    "ward": "Thị trấn Yên Mỹ"
+    "ward": "Yên Mỹ"
   },
   {
     "province": "Hưng Yên",
@@ -19321,73 +19321,73 @@
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Bần Yên Nhân"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Phan Đình Phùng"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Cẩm Xá"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Dương Quang"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Hòa Phong"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Nhân Hòa"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Dị Sử"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Bạch Sam"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Minh Đức"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Phùng Chí Kiên"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Xuân Dục"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Ngọc Lâm"
   },
   {
     "province": "Hưng Yên",
-    "district": "Thị Mỹ Hào",
+    "district": "Mỹ Hào",
     "ward": "Hưng Long"
   },
   {
     "province": "Hưng Yên",
     "district": "Ân Thi",
-    "ward": "Thị trấn Ân Thi"
+    "ward": "Ân Thi"
   },
   {
     "province": "Hưng Yên",
@@ -19492,7 +19492,7 @@
   {
     "province": "Hưng Yên",
     "district": "Khoái Châu",
-    "ward": "Thị trấn Khoái Châu"
+    "ward": "Khoái Châu"
   },
   {
     "province": "Hưng Yên",
@@ -19617,7 +19617,7 @@
   {
     "province": "Hưng Yên",
     "district": "Kim Động",
-    "ward": "Thị trấn Lương Bằng"
+    "ward": "Lương Bằng"
   },
   {
     "province": "Hưng Yên",
@@ -19702,7 +19702,7 @@
   {
     "province": "Hưng Yên",
     "district": "Tiên Lữ",
-    "ward": "Thị trấn Vương"
+    "ward": "Vương"
   },
   {
     "province": "Hưng Yên",
@@ -19777,7 +19777,7 @@
   {
     "province": "Hưng Yên",
     "district": "Phù Cừ",
-    "ward": "Thị trấn Trần Cao"
+    "ward": "Trần Cao"
   },
   {
     "province": "Hưng Yên",
@@ -19942,7 +19942,7 @@
   {
     "province": "Thái Bình",
     "district": "Quỳnh Phụ",
-    "ward": "Thị trấn Quỳnh Côi"
+    "ward": "Quỳnh Côi"
   },
   {
     "province": "Thái Bình",
@@ -20027,7 +20027,7 @@
   {
     "province": "Thái Bình",
     "district": "Quỳnh Phụ",
-    "ward": "Thị trấn An Bài"
+    "ward": "An Bài"
   },
   {
     "province": "Thái Bình",
@@ -20127,7 +20127,7 @@
   {
     "province": "Thái Bình",
     "district": "Hưng Hà",
-    "ward": "Thị trấn Hưng Hà"
+    "ward": "Hưng Hà"
   },
   {
     "province": "Thái Bình",
@@ -20172,7 +20172,7 @@
   {
     "province": "Thái Bình",
     "district": "Hưng Hà",
-    "ward": "Thị trấn Hưng Nhân"
+    "ward": "Hưng Nhân"
   },
   {
     "province": "Thái Bình",
@@ -20302,7 +20302,7 @@
   {
     "province": "Thái Bình",
     "district": "Đông Hưng",
-    "ward": "Thị trấn Đông Hưng"
+    "ward": "Đông Hưng"
   },
   {
     "province": "Thái Bình",
@@ -20487,7 +20487,7 @@
   {
     "province": "Thái Bình",
     "district": "Thái Thụy",
-    "ward": "Thị trấn Diêm Điền"
+    "ward": "Diêm Điền"
   },
   {
     "province": "Thái Bình",
@@ -20667,7 +20667,7 @@
   {
     "province": "Thái Bình",
     "district": "Tiền Hải",
-    "ward": "Thị trấn Tiền Hải"
+    "ward": "Tiền Hải"
   },
   {
     "province": "Thái Bình",
@@ -20827,7 +20827,7 @@
   {
     "province": "Thái Bình",
     "district": "Kiến Xương",
-    "ward": "Thị trấn Kiến Xương"
+    "ward": "Kiến Xương"
   },
   {
     "province": "Thái Bình",
@@ -20992,7 +20992,7 @@
   {
     "province": "Thái Bình",
     "district": "Vũ Thư",
-    "ward": "Thị trấn Vũ Thư"
+    "ward": "Vũ Thư"
   },
   {
     "province": "Thái Bình",
@@ -21246,88 +21246,88 @@
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Đồng Văn"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Hòa Mạc"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Mộc Bắc"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Châu Giang"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Bạch Thượng"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Duy Minh"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Mộc Nam"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Duy Hải"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Chuyên Ngoại"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Yên Bắc"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Trác Văn"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Tiên Nội"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Hoàng Đông"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Yên Nam"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Tiên Ngoại"
   },
   {
     "province": "Hà Nam",
-    "district": "Thị Duy Tiên",
+    "district": "Duy Tiên",
     "ward": "Tiên Sơn"
   },
   {
     "province": "Hà Nam",
     "district": "Kim Bảng",
-    "ward": "Thị trấn Quế"
+    "ward": "Quế"
   },
   {
     "province": "Hà Nam",
@@ -21397,7 +21397,7 @@
   {
     "province": "Hà Nam",
     "district": "Kim Bảng",
-    "ward": "Thị trấn Ba Sao"
+    "ward": "Ba Sao"
   },
   {
     "province": "Hà Nam",
@@ -21417,7 +21417,7 @@
   {
     "province": "Hà Nam",
     "district": "Thanh Liêm",
-    "ward": "Thị trấn Kiện Khê"
+    "ward": "Kiện Khê"
   },
   {
     "province": "Hà Nam",
@@ -21452,7 +21452,7 @@
   {
     "province": "Hà Nam",
     "district": "Thanh Liêm",
-    "ward": "Thị trấn Tân Thanh"
+    "ward": "Tân Thanh"
   },
   {
     "province": "Hà Nam",
@@ -21497,7 +21497,7 @@
   {
     "province": "Hà Nam",
     "district": "Bình Lục",
-    "ward": "Thị trấn Bình Mỹ"
+    "ward": "Bình Mỹ"
   },
   {
     "province": "Hà Nam",
@@ -21632,7 +21632,7 @@
   {
     "province": "Hà Nam",
     "district": "Lý Nhân",
-    "ward": "Thị trấn Vĩnh Trụ"
+    "ward": "Vĩnh Trụ"
   },
   {
     "province": "Hà Nam",
@@ -21817,7 +21817,7 @@
   {
     "province": "Nam Định",
     "district": "Mỹ Lộc",
-    "ward": "Thị trấn Mỹ Lộc"
+    "ward": "Mỹ Lộc"
   },
   {
     "province": "Nam Định",
@@ -21872,7 +21872,7 @@
   {
     "province": "Nam Định",
     "district": "Vụ Bản",
-    "ward": "Thị trấn Gôi"
+    "ward": "Gôi"
   },
   {
     "province": "Nam Định",
@@ -21962,7 +21962,7 @@
   {
     "province": "Nam Định",
     "district": "Ý Yên",
-    "ward": "Thị trấn Lâm"
+    "ward": "Lâm"
   },
   {
     "province": "Nam Định",
@@ -22112,12 +22112,12 @@
   {
     "province": "Nam Định",
     "district": "Nghĩa Hưng",
-    "ward": "Thị trấn Liễu Đề"
+    "ward": "Liễu Đề"
   },
   {
     "province": "Nam Định",
     "district": "Nghĩa Hưng",
-    "ward": "Thị trấn Rạng Đông"
+    "ward": "Rạng Đông"
   },
   {
     "province": "Nam Định",
@@ -22187,7 +22187,7 @@
   {
     "province": "Nam Định",
     "district": "Nghĩa Hưng",
-    "ward": "Thị trấn Quỹ Nhất"
+    "ward": "Quỹ Nhất"
   },
   {
     "province": "Nam Định",
@@ -22232,7 +22232,7 @@
   {
     "province": "Nam Định",
     "district": "Nam Trực",
-    "ward": "Thị trấn Nam Giang"
+    "ward": "Nam Giang"
   },
   {
     "province": "Nam Định",
@@ -22332,7 +22332,7 @@
   {
     "province": "Nam Định",
     "district": "Trực Ninh",
-    "ward": "Thị trấn Cổ Lễ"
+    "ward": "Cổ Lễ"
   },
   {
     "province": "Nam Định",
@@ -22382,7 +22382,7 @@
   {
     "province": "Nam Định",
     "district": "Trực Ninh",
-    "ward": "Thị trấn Cát Thành"
+    "ward": "Cát Thành"
   },
   {
     "province": "Nam Định",
@@ -22417,7 +22417,7 @@
   {
     "province": "Nam Định",
     "district": "Trực Ninh",
-    "ward": "Thị trấn Ninh Cường"
+    "ward": "Ninh Cường"
   },
   {
     "province": "Nam Định",
@@ -22437,7 +22437,7 @@
   {
     "province": "Nam Định",
     "district": "Xuân Trường",
-    "ward": "Thị trấn Xuân Trường"
+    "ward": "Xuân Trường"
   },
   {
     "province": "Nam Định",
@@ -22537,12 +22537,12 @@
   {
     "province": "Nam Định",
     "district": "Giao Thủy",
-    "ward": "Thị trấn Ngô Đồng"
+    "ward": "Ngô Đồng"
   },
   {
     "province": "Nam Định",
     "district": "Giao Thủy",
-    "ward": "Thị trấn Quất Lâm"
+    "ward": "Quất Lâm"
   },
   {
     "province": "Nam Định",
@@ -22647,17 +22647,17 @@
   {
     "province": "Nam Định",
     "district": "Hải Hậu",
-    "ward": "Thị trấn Yên Định"
+    "ward": "Yên Định"
   },
   {
     "province": "Nam Định",
     "district": "Hải Hậu",
-    "ward": "Thị trấn Cồn"
+    "ward": "Cồn"
   },
   {
     "province": "Nam Định",
     "district": "Hải Hậu",
-    "ward": "Thị trấn Thịnh Long"
+    "ward": "Thịnh Long"
   },
   {
     "province": "Nam Định",
@@ -22932,7 +22932,7 @@
   {
     "province": "Ninh Bình",
     "district": "Nho Quan",
-    "ward": "Thị trấn Nho Quan"
+    "ward": "Nho Quan"
   },
   {
     "province": "Ninh Bình",
@@ -23067,7 +23067,7 @@
   {
     "province": "Ninh Bình",
     "district": "Gia Viễn",
-    "ward": "Thị trấn Me"
+    "ward": "Me"
   },
   {
     "province": "Ninh Bình",
@@ -23172,7 +23172,7 @@
   {
     "province": "Ninh Bình",
     "district": "Hoa Lư",
-    "ward": "Thị trấn Thiên Tôn"
+    "ward": "Thiên Tôn"
   },
   {
     "province": "Ninh Bình",
@@ -23227,7 +23227,7 @@
   {
     "province": "Ninh Bình",
     "district": "Yên Khánh",
-    "ward": "Thị trấn Yên Ninh"
+    "ward": "Yên Ninh"
   },
   {
     "province": "Ninh Bình",
@@ -23322,12 +23322,12 @@
   {
     "province": "Ninh Bình",
     "district": "Kim Sơn",
-    "ward": "Thị trấn Phát Diệm"
+    "ward": "Phát Diệm"
   },
   {
     "province": "Ninh Bình",
     "district": "Kim Sơn",
-    "ward": "Thị trấn Bình Minh"
+    "ward": "Bình Minh"
   },
   {
     "province": "Ninh Bình",
@@ -23447,7 +23447,7 @@
   {
     "province": "Ninh Bình",
     "district": "Yên Mô",
-    "ward": "Thị trấn Yên Thịnh"
+    "ward": "Yên Thịnh"
   },
   {
     "province": "Ninh Bình",
@@ -23701,37 +23701,37 @@
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Bỉm Sơn",
+    "district": "Bỉm Sơn",
     "ward": "Bắc Sơn"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Bỉm Sơn",
+    "district": "Bỉm Sơn",
     "ward": "Ba Đình"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Bỉm Sơn",
+    "district": "Bỉm Sơn",
     "ward": "Lam Sơn"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Bỉm Sơn",
+    "district": "Bỉm Sơn",
     "ward": "Ngọc Trạo"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Bỉm Sơn",
+    "district": "Bỉm Sơn",
     "ward": "Đông Sơn"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Bỉm Sơn",
+    "district": "Bỉm Sơn",
     "ward": "Phú Sơn"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Bỉm Sơn",
+    "district": "Bỉm Sơn",
     "ward": "Quang Trung"
   },
   {
@@ -23792,7 +23792,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Mường Lát",
-    "ward": "Thị trấn Mường Lát"
+    "ward": "Mường Lát"
   },
   {
     "province": "Thanh Hóa",
@@ -23832,7 +23832,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Quan Hóa",
-    "ward": "Thị trấn Hồi Xuân"
+    "ward": "Hồi Xuân"
   },
   {
     "province": "Thanh Hóa",
@@ -23907,7 +23907,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Bá Thước",
-    "ward": "Thị trấn Cành Nàng"
+    "ward": "Cành Nàng"
   },
   {
     "province": "Thanh Hóa",
@@ -24052,7 +24052,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Quan Sơn",
-    "ward": "Thị trấn Sơn Lư"
+    "ward": "Sơn Lư"
   },
   {
     "province": "Thanh Hóa",
@@ -24112,7 +24112,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Lang Chánh",
-    "ward": "Thị trấn Lang Chánh"
+    "ward": "Lang Chánh"
   },
   {
     "province": "Thanh Hóa",
@@ -24122,7 +24122,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Ngọc Lặc",
-    "ward": "Thị Trấn Ngọc Lặc"
+    "ward": "Ngọc Lặc"
   },
   {
     "province": "Thanh Hóa",
@@ -24227,7 +24227,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Cẩm Thủy",
-    "ward": "Thị trấn Phong Sơn"
+    "ward": "Phong Sơn"
   },
   {
     "province": "Thanh Hóa",
@@ -24312,12 +24312,12 @@
   {
     "province": "Thanh Hóa",
     "district": "Thạch Thành",
-    "ward": "Thị trấn Kim Tân"
+    "ward": "Kim Tân"
   },
   {
     "province": "Thanh Hóa",
     "district": "Thạch Thành",
-    "ward": "Thị trấn Vân Du"
+    "ward": "Vân Du"
   },
   {
     "province": "Thanh Hóa",
@@ -24437,7 +24437,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Hà Trung",
-    "ward": "Thị trấn Hà Trung"
+    "ward": "Hà Trung"
   },
   {
     "province": "Thanh Hóa",
@@ -24537,7 +24537,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Vĩnh Lộc",
-    "ward": "Thị trấn Vĩnh Lộc"
+    "ward": "Vĩnh Lộc"
   },
   {
     "province": "Thanh Hóa",
@@ -24602,12 +24602,12 @@
   {
     "province": "Thanh Hóa",
     "district": "Yên Định",
-    "ward": "Thị trấn Thống Nhất"
+    "ward": "Thống Nhất"
   },
   {
     "province": "Thanh Hóa",
     "district": "Yên Định",
-    "ward": "Thị trấn Yên Lâm"
+    "ward": "Yên Lâm"
   },
   {
     "province": "Thanh Hóa",
@@ -24622,7 +24622,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Yên Định",
-    "ward": "Thị trấn Quý Lộc"
+    "ward": "Quý Lộc"
   },
   {
     "province": "Thanh Hóa",
@@ -24712,7 +24712,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Yên Định",
-    "ward": "Thị trấn Quán Lào"
+    "ward": "Quán Lào"
   },
   {
     "province": "Thanh Hóa",
@@ -24737,7 +24737,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Thọ Xuân",
-    "ward": "Thị trấn Thọ Xuân"
+    "ward": "Thọ Xuân"
   },
   {
     "province": "Thanh Hóa",
@@ -24822,12 +24822,12 @@
   {
     "province": "Thanh Hóa",
     "district": "Thọ Xuân",
-    "ward": "Thị trấn Sao Vàng"
+    "ward": "Sao Vàng"
   },
   {
     "province": "Thanh Hóa",
     "district": "Thọ Xuân",
-    "ward": "Thị trấn Lam Sơn"
+    "ward": "Lam Sơn"
   },
   {
     "province": "Thanh Hóa",
@@ -24932,7 +24932,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Thường Xuân",
-    "ward": "Thị trấn Thường Xuân"
+    "ward": "Thường Xuân"
   },
   {
     "province": "Thanh Hóa",
@@ -24962,7 +24962,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Triệu Sơn",
-    "ward": "Thị trấn Triệu Sơn"
+    "ward": "Triệu Sơn"
   },
   {
     "province": "Thanh Hóa",
@@ -25042,7 +25042,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Triệu Sơn",
-    "ward": "Thị trấn Nưa"
+    "ward": "Nưa"
   },
   {
     "province": "Thanh Hóa",
@@ -25132,7 +25132,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Thiệu Hóa",
-    "ward": "Thị trấn Thiệu Hóa"
+    "ward": "Thiệu Hóa"
   },
   {
     "province": "Thanh Hóa",
@@ -25257,7 +25257,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Hoằng Hóa",
-    "ward": "Thị trấn Bút Sơn"
+    "ward": "Bút Sơn"
   },
   {
     "province": "Thanh Hóa",
@@ -25442,7 +25442,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Hậu Lộc",
-    "ward": "Thị trấn Hậu Lộc"
+    "ward": "Hậu Lộc"
   },
   {
     "province": "Thanh Hóa",
@@ -25557,7 +25557,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Nga Sơn",
-    "ward": "Thị trấn Nga Sơn"
+    "ward": "Nga Sơn"
   },
   {
     "province": "Thanh Hóa",
@@ -25677,7 +25677,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Như Xuân",
-    "ward": "Thị trấn Yên Cát"
+    "ward": "Yên Cát"
   },
   {
     "province": "Thanh Hóa",
@@ -25757,7 +25757,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Như Thanh",
-    "ward": "Thị trấn Bến Sung"
+    "ward": "Bến Sung"
   },
   {
     "province": "Thanh Hóa",
@@ -25827,7 +25827,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Nông Cống",
-    "ward": "Thị trấn Nông Cống"
+    "ward": "Nông Cống"
   },
   {
     "province": "Thanh Hóa",
@@ -25972,7 +25972,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Đông Sơn",
-    "ward": "Thị trấn Rừng Thông"
+    "ward": "Rừng Thông"
   },
   {
     "province": "Thanh Hóa",
@@ -26042,7 +26042,7 @@
   {
     "province": "Thanh Hóa",
     "district": "Quảng Xương",
-    "ward": "Thị trấn Tân Phong"
+    "ward": "Tân Phong"
   },
   {
     "province": "Thanh Hóa",
@@ -26171,157 +26171,157 @@
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải Hòa"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải Châu"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Thanh Thủy"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Thanh Sơn"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải Ninh"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Anh Sơn"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Ngọc Lĩnh"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải An"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Các Sơn"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Tân Dân"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải Lĩnh"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Định Hải"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Phú Sơn"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Ninh Hải"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Nguyên Bình"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải Nhân"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Bình Minh"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải Thanh"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Phú Lâm"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Xuân Lâm"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Trúc Lâm"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải Bình"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Tân Trường"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Tùng Lâm"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Tĩnh Hải"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Mai Lâm"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Trường Lâm"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải Yến"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải Thượng"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Nghi Sơn"
   },
   {
     "province": "Thanh Hóa",
-    "district": "Thị Nghi Sơn",
+    "district": "Nghi Sơn",
     "ward": "Hải Hà"
   },
   {
@@ -26451,88 +26451,88 @@
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Cửa Lò",
+    "district": "Cửa Lò",
     "ward": "Nghi Thuỷ"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Cửa Lò",
+    "district": "Cửa Lò",
     "ward": "Nghi Tân"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Cửa Lò",
+    "district": "Cửa Lò",
     "ward": "Thu Thuỷ"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Cửa Lò",
+    "district": "Cửa Lò",
     "ward": "Nghi Hòa"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Cửa Lò",
+    "district": "Cửa Lò",
     "ward": "Nghi Hải"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Cửa Lò",
+    "district": "Cửa Lò",
     "ward": "Nghi Hương"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Cửa Lò",
+    "district": "Cửa Lò",
     "ward": "Nghi Thu"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Thái Hoà",
+    "district": "Thái Hoà",
     "ward": "Hoà Hiếu"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Thái Hoà",
+    "district": "Thái Hoà",
     "ward": "Quang Phong"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Thái Hoà",
+    "district": "Thái Hoà",
     "ward": "Quang Tiến"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Thái Hoà",
+    "district": "Thái Hoà",
     "ward": "Long Sơn"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Thái Hoà",
+    "district": "Thái Hoà",
     "ward": "Nghĩa Tiến"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Thái Hoà",
+    "district": "Thái Hoà",
     "ward": "Nghĩa Mỹ"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Thái Hoà",
+    "district": "Thái Hoà",
     "ward": "Tây Hiếu"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Thái Hoà",
+    "district": "Thái Hoà",
     "ward": "Nghĩa Thuận"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Thái Hoà",
+    "district": "Thái Hoà",
     "ward": "Đông Hiếu"
   },
   {
     "province": "Nghệ An",
     "district": "Quế Phong",
-    "ward": "Thị trấn Kim Sơn"
+    "ward": "Kim Sơn"
   },
   {
     "province": "Nghệ An",
@@ -26597,7 +26597,7 @@
   {
     "province": "Nghệ An",
     "district": "Quỳ Châu",
-    "ward": "Thị trấn Tân Lạc"
+    "ward": "Tân Lạc"
   },
   {
     "province": "Nghệ An",
@@ -26657,7 +26657,7 @@
   {
     "province": "Nghệ An",
     "district": "Kỳ Sơn",
-    "ward": "Thị trấn Mường Xén"
+    "ward": "Mường Xén"
   },
   {
     "province": "Nghệ An",
@@ -26762,7 +26762,7 @@
   {
     "province": "Nghệ An",
     "district": "Tương Dương",
-    "ward": "Thị trấn Thạch Giám"
+    "ward": "Thạch Giám"
   },
   {
     "province": "Nghệ An",
@@ -26847,7 +26847,7 @@
   {
     "province": "Nghệ An",
     "district": "Nghĩa Đàn",
-    "ward": "Thị trấn Nghĩa Đàn"
+    "ward": "Nghĩa Đàn"
   },
   {
     "province": "Nghệ An",
@@ -26962,7 +26962,7 @@
   {
     "province": "Nghệ An",
     "district": "Quỳ Hợp",
-    "ward": "Thị trấn Quỳ Hợp"
+    "ward": "Quỳ Hợp"
   },
   {
     "province": "Nghệ An",
@@ -27067,7 +27067,7 @@
   {
     "province": "Nghệ An",
     "district": "Quỳnh Lưu",
-    "ward": "Thị trấn Cầu Giát"
+    "ward": "Cầu Giát"
   },
   {
     "province": "Nghệ An",
@@ -27232,7 +27232,7 @@
   {
     "province": "Nghệ An",
     "district": "Con Cuông",
-    "ward": "Thị trấn Con Cuông"
+    "ward": "Con Cuông"
   },
   {
     "province": "Nghệ An",
@@ -27297,7 +27297,7 @@
   {
     "province": "Nghệ An",
     "district": "Tân Kỳ",
-    "ward": "Thị trấn Tân Kỳ"
+    "ward": "Tân Kỳ"
   },
   {
     "province": "Nghệ An",
@@ -27407,7 +27407,7 @@
   {
     "province": "Nghệ An",
     "district": "Anh Sơn",
-    "ward": "Thị trấn Anh Sơn"
+    "ward": "Anh Sơn"
   },
   {
     "province": "Nghệ An",
@@ -27512,7 +27512,7 @@
   {
     "province": "Nghệ An",
     "district": "Diễn Châu",
-    "ward": "Thị trấn Diễn Châu"
+    "ward": "Diễn Châu"
   },
   {
     "province": "Nghệ An",
@@ -27697,7 +27697,7 @@
   {
     "province": "Nghệ An",
     "district": "Yên Thành",
-    "ward": "Thị trấn Yên Thành"
+    "ward": "Yên Thành"
   },
   {
     "province": "Nghệ An",
@@ -27892,7 +27892,7 @@
   {
     "province": "Nghệ An",
     "district": "Đô Lương",
-    "ward": "Thị trấn Đô Lương"
+    "ward": "Đô Lương"
   },
   {
     "province": "Nghệ An",
@@ -28057,7 +28057,7 @@
   {
     "province": "Nghệ An",
     "district": "Thanh Chương",
-    "ward": "Thị trấn Thanh Chương"
+    "ward": "Thanh Chương"
   },
   {
     "province": "Nghệ An",
@@ -28247,7 +28247,7 @@
   {
     "province": "Nghệ An",
     "district": "Nghi Lộc",
-    "ward": "Thị trấn Quán Hành"
+    "ward": "Quán Hành"
   },
   {
     "province": "Nghệ An",
@@ -28422,7 +28422,7 @@
   {
     "province": "Nghệ An",
     "district": "Nam Đàn",
-    "ward": "Thị trấn Nam Đàn"
+    "ward": "Nam Đàn"
   },
   {
     "province": "Nghệ An",
@@ -28487,7 +28487,7 @@
   {
     "province": "Nghệ An",
     "district": "Hưng Nguyên",
-    "ward": "Thị trấn Hưng Nguyên"
+    "ward": "Hưng Nguyên"
   },
   {
     "province": "Nghệ An",
@@ -28576,52 +28576,52 @@
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Hoàng Mai",
+    "district": "Hoàng Mai",
     "ward": "Quỳnh Vinh"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Hoàng Mai",
+    "district": "Hoàng Mai",
     "ward": "Quỳnh Lộc"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Hoàng Mai",
+    "district": "Hoàng Mai",
     "ward": "Quỳnh Thiện"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Hoàng Mai",
+    "district": "Hoàng Mai",
     "ward": "Quỳnh Lập"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Hoàng Mai",
+    "district": "Hoàng Mai",
     "ward": "Quỳnh Trang"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Hoàng Mai",
+    "district": "Hoàng Mai",
     "ward": "Mai Hùng"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Hoàng Mai",
+    "district": "Hoàng Mai",
     "ward": "Quỳnh Dị"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Hoàng Mai",
+    "district": "Hoàng Mai",
     "ward": "Quỳnh Xuân"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Hoàng Mai",
+    "district": "Hoàng Mai",
     "ward": "Quỳnh Phương"
   },
   {
     "province": "Nghệ An",
-    "district": "Thị Hoàng Mai",
+    "district": "Hoàng Mai",
     "ward": "Quỳnh Liên"
   },
   {
@@ -28701,43 +28701,43 @@
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Hồng Lĩnh",
+    "district": "Hồng Lĩnh",
     "ward": "Bắc Hồng"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Hồng Lĩnh",
+    "district": "Hồng Lĩnh",
     "ward": "Nam Hồng"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Hồng Lĩnh",
+    "district": "Hồng Lĩnh",
     "ward": "Trung Lương"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Hồng Lĩnh",
+    "district": "Hồng Lĩnh",
     "ward": "Đức Thuận"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Hồng Lĩnh",
+    "district": "Hồng Lĩnh",
     "ward": "Đậu Liêu"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Hồng Lĩnh",
+    "district": "Hồng Lĩnh",
     "ward": "Thuận Lộc"
   },
   {
     "province": "Hà Tĩnh",
     "district": "Hương Sơn",
-    "ward": "Thị trấn Phố Châu"
+    "ward": "Phố Châu"
   },
   {
     "province": "Hà Tĩnh",
     "district": "Hương Sơn",
-    "ward": "Thị trấn  Tây Sơn"
+    "ward": " Tây Sơn"
   },
   {
     "province": "Hà Tĩnh",
@@ -28857,7 +28857,7 @@
   {
     "province": "Hà Tĩnh",
     "district": "Đức Thọ",
-    "ward": "Thị trấn Đức Thọ"
+    "ward": "Đức Thọ"
   },
   {
     "province": "Hà Tĩnh",
@@ -28937,7 +28937,7 @@
   {
     "province": "Hà Tĩnh",
     "district": "Vũ Quang",
-    "ward": "Thị trấn Vũ Quang"
+    "ward": "Vũ Quang"
   },
   {
     "province": "Hà Tĩnh",
@@ -28987,7 +28987,7 @@
   {
     "province": "Hà Tĩnh",
     "district": "Nghi Xuân",
-    "ward": "Thị trấn Xuân An"
+    "ward": "Xuân An"
   },
   {
     "province": "Hà Tĩnh",
@@ -29017,7 +29017,7 @@
   {
     "province": "Hà Tĩnh",
     "district": "Nghi Xuân",
-    "ward": "Thị trấn Tiên Điền"
+    "ward": "Tiên Điền"
   },
   {
     "province": "Hà Tĩnh",
@@ -29072,7 +29072,7 @@
   {
     "province": "Hà Tĩnh",
     "district": "Can Lộc",
-    "ward": "Thị trấn Nghèn"
+    "ward": "Nghèn"
   },
   {
     "province": "Hà Tĩnh",
@@ -29147,7 +29147,7 @@
   {
     "province": "Hà Tĩnh",
     "district": "Can Lộc",
-    "ward": "Thị trấn Đồng Lộc"
+    "ward": "Đồng Lộc"
   },
   {
     "province": "Hà Tĩnh",
@@ -29162,7 +29162,7 @@
   {
     "province": "Hà Tĩnh",
     "district": "Hương Khê",
-    "ward": "Thị trấn Hương Khê"
+    "ward": "Hương Khê"
   },
   {
     "province": "Hà Tĩnh",
@@ -29267,7 +29267,7 @@
   {
     "province": "Hà Tĩnh",
     "district": "Thạch Hà",
-    "ward": "Thị trấn Thạch Hà"
+    "ward": "Thạch Hà"
   },
   {
     "province": "Hà Tĩnh",
@@ -29377,12 +29377,12 @@
   {
     "province": "Hà Tĩnh",
     "district": "Cẩm Xuyên",
-    "ward": "Thị trấn Cẩm Xuyên"
+    "ward": "Cẩm Xuyên"
   },
   {
     "province": "Hà Tĩnh",
     "district": "Cẩm Xuyên",
-    "ward": "Thị trấn Thiên Cầm"
+    "ward": "Thiên Cầm"
   },
   {
     "province": "Hà Tĩnh",
@@ -29622,7 +29622,7 @@
   {
     "province": "Hà Tĩnh",
     "district": "Lộc Hà",
-    "ward": "Thị trấn Lộc Hà"
+    "ward": "Lộc Hà"
   },
   {
     "province": "Hà Tĩnh",
@@ -29651,57 +29651,57 @@
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Hưng Trí"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Kỳ Ninh"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Kỳ Lợi"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Kỳ Hà"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Kỳ Trinh"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Kỳ Thịnh"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Kỳ Hoa"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Kỳ Phương"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Kỳ Long"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Kỳ Liên"
   },
   {
     "province": "Hà Tĩnh",
-    "district": "Thị Kỳ Anh",
+    "district": "Kỳ Anh",
     "ward": "Kỳ Nam"
   },
   {
@@ -29782,7 +29782,7 @@
   {
     "province": "Quảng Bình",
     "district": "Minh Hóa",
-    "ward": "Thị trấn Quy Đạt"
+    "ward": "Quy Đạt"
   },
   {
     "province": "Quảng Bình",
@@ -29857,7 +29857,7 @@
   {
     "province": "Quảng Bình",
     "district": "Tuyên Hóa",
-    "ward": "Thị trấn Đồng Lê"
+    "ward": "Đồng Lê"
   },
   {
     "province": "Quảng Bình",
@@ -30037,12 +30037,12 @@
   {
     "province": "Quảng Bình",
     "district": "Bố Trạch",
-    "ward": "Thị trấn Hoàn Lão"
+    "ward": "Hoàn Lão"
   },
   {
     "province": "Quảng Bình",
     "district": "Bố Trạch",
-    "ward": "Thị trấn NT Việt Trung"
+    "ward": "NT Việt Trung"
   },
   {
     "province": "Quảng Bình",
@@ -30122,7 +30122,7 @@
   {
     "province": "Quảng Bình",
     "district": "Bố Trạch",
-    "ward": "Thị trấn Phong Nha"
+    "ward": "Phong Nha"
   },
   {
     "province": "Quảng Bình",
@@ -30177,7 +30177,7 @@
   {
     "province": "Quảng Bình",
     "district": "Quảng Ninh",
-    "ward": "Thị trấn Quán Hàu"
+    "ward": "Quán Hàu"
   },
   {
     "province": "Quảng Bình",
@@ -30252,12 +30252,12 @@
   {
     "province": "Quảng Bình",
     "district": "Lệ Thủy",
-    "ward": "Thị trấn NT Lệ Ninh"
+    "ward": "NT Lệ Ninh"
   },
   {
     "province": "Quảng Bình",
     "district": "Lệ Thủy",
-    "ward": "Thị trấn Kiến Giang"
+    "ward": "Kiến Giang"
   },
   {
     "province": "Quảng Bình",
@@ -30381,82 +30381,82 @@
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Ba Đồn"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Long"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Thọ"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Tiên"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Trung"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Phong"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Thuận"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Tân"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Hải"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Sơn"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Lộc"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Thủy"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Văn"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Phúc"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Hòa"
   },
   {
     "province": "Quảng Bình",
-    "district": "Thị Ba Đồn",
+    "district": "Ba Đồn",
     "ward": "Quảng Minh"
   },
   {
@@ -30506,38 +30506,38 @@
   },
   {
     "province": "Quảng Trị",
-    "district": "Thị Quảng Trị",
+    "district": "Quảng Trị",
     "ward": "1"
   },
   {
     "province": "Quảng Trị",
-    "district": "Thị Quảng Trị",
+    "district": "Quảng Trị",
     "ward": "An Đôn"
   },
   {
     "province": "Quảng Trị",
-    "district": "Thị Quảng Trị",
+    "district": "Quảng Trị",
     "ward": "2"
   },
   {
     "province": "Quảng Trị",
-    "district": "Thị Quảng Trị",
+    "district": "Quảng Trị",
     "ward": "3"
   },
   {
     "province": "Quảng Trị",
-    "district": "Thị Quảng Trị",
+    "district": "Quảng Trị",
     "ward": "Hải Lệ"
   },
   {
     "province": "Quảng Trị",
     "district": "Vĩnh Linh",
-    "ward": "Thị trấn Hồ Xá"
+    "ward": "Hồ Xá"
   },
   {
     "province": "Quảng Trị",
     "district": "Vĩnh Linh",
-    "ward": "Thị trấn Bến Quan"
+    "ward": "Bến Quan"
   },
   {
     "province": "Quảng Trị",
@@ -30597,7 +30597,7 @@
   {
     "province": "Quảng Trị",
     "district": "Vĩnh Linh",
-    "ward": "Thị trấn Cửa Tùng"
+    "ward": "Cửa Tùng"
   },
   {
     "province": "Quảng Trị",
@@ -30622,12 +30622,12 @@
   {
     "province": "Quảng Trị",
     "district": "Hướng Hóa",
-    "ward": "Thị trấn Khe Sanh"
+    "ward": "Khe Sanh"
   },
   {
     "province": "Quảng Trị",
     "district": "Hướng Hóa",
-    "ward": "Thị trấn Lao Bảo"
+    "ward": "Lao Bảo"
   },
   {
     "province": "Quảng Trị",
@@ -30727,12 +30727,12 @@
   {
     "province": "Quảng Trị",
     "district": "Gio Linh",
-    "ward": "Thị trấn Gio Linh"
+    "ward": "Gio Linh"
   },
   {
     "province": "Quảng Trị",
     "district": "Gio Linh",
-    "ward": "Thị trấn Cửa Việt"
+    "ward": "Cửa Việt"
   },
   {
     "province": "Quảng Trị",
@@ -30812,7 +30812,7 @@
   {
     "province": "Quảng Trị",
     "district": "Đa Krông",
-    "ward": "Thị trấn Krông Klang"
+    "ward": "Krông Klang"
   },
   {
     "province": "Quảng Trị",
@@ -30877,7 +30877,7 @@
   {
     "province": "Quảng Trị",
     "district": "Cam Lộ",
-    "ward": "Thị trấn Cam Lộ"
+    "ward": "Cam Lộ"
   },
   {
     "province": "Quảng Trị",
@@ -30917,7 +30917,7 @@
   {
     "province": "Quảng Trị",
     "district": "Triệu Phong",
-    "ward": "Thị Trấn Ái Tử"
+    "ward": "Ái Tử"
   },
   {
     "province": "Quảng Trị",
@@ -31007,7 +31007,7 @@
   {
     "province": "Quảng Trị",
     "district": "Hải Lăng",
-    "ward": "Thị trấn Diên Sanh"
+    "ward": "Diên Sanh"
   },
   {
     "province": "Quảng Trị",
@@ -31272,7 +31272,7 @@
   {
     "province": "Thừa Thiên Huế",
     "district": "Phong Điền",
-    "ward": "Thị trấn Phong Điền"
+    "ward": "Phong Điền"
   },
   {
     "province": "Thừa Thiên Huế",
@@ -31352,7 +31352,7 @@
   {
     "province": "Thừa Thiên Huế",
     "district": "Quảng Điền",
-    "ward": "Thị trấn Sịa"
+    "ward": "Sịa"
   },
   {
     "province": "Thừa Thiên Huế",
@@ -31452,7 +31452,7 @@
   {
     "province": "Thừa Thiên Huế",
     "district": "Phú Vang",
-    "ward": "Thị trấn Phú Đa"
+    "ward": "Phú Đa"
   },
   {
     "province": "Thừa Thiên Huế",
@@ -31476,103 +31476,103 @@
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Thủy",
+    "district": "Hương Thủy",
     "ward": "Phú Bài"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Thủy",
+    "district": "Hương Thủy",
     "ward": "Thủy Thanh"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Thủy",
+    "district": "Hương Thủy",
     "ward": "Thủy Dương"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Thủy",
+    "district": "Hương Thủy",
     "ward": "Thủy Phương"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Thủy",
+    "district": "Hương Thủy",
     "ward": "Thủy Châu"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Thủy",
+    "district": "Hương Thủy",
     "ward": "Thủy Lương"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Thủy",
+    "district": "Hương Thủy",
     "ward": "Thủy Tân"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Thủy",
+    "district": "Hương Thủy",
     "ward": "Thủy Phù"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Thủy",
+    "district": "Hương Thủy",
     "ward": "Phú Sơn"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Thủy",
+    "district": "Hương Thủy",
     "ward": "Dương Hòa"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Trà",
+    "district": "Hương Trà",
     "ward": "Tứ Hạ"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Trà",
+    "district": "Hương Trà",
     "ward": "Hương Toàn"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Trà",
+    "district": "Hương Trà",
     "ward": "Hương Vân"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Trà",
+    "district": "Hương Trà",
     "ward": "Hương Văn"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Trà",
+    "district": "Hương Trà",
     "ward": "Hương Xuân"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Trà",
+    "district": "Hương Trà",
     "ward": "Hương Chữ"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Trà",
+    "district": "Hương Trà",
     "ward": "Hương Bình"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Trà",
+    "district": "Hương Trà",
     "ward": "Bình Tiến"
   },
   {
     "province": "Thừa Thiên Huế",
-    "district": "Thị Hương Trà",
+    "district": "Hương Trà",
     "ward": "Bình Thành"
   },
   {
     "province": "Thừa Thiên Huế",
     "district": "A Lưới",
-    "ward": "Thị trấn A Lưới"
+    "ward": "A Lưới"
   },
   {
     "province": "Thừa Thiên Huế",
@@ -31662,12 +31662,12 @@
   {
     "province": "Thừa Thiên Huế",
     "district": "Phú Lộc",
-    "ward": "Thị trấn Phú Lộc"
+    "ward": "Phú Lộc"
   },
   {
     "province": "Thừa Thiên Huế",
     "district": "Phú Lộc",
-    "ward": "Thị trấn Lăng Cô"
+    "ward": "Lăng Cô"
   },
   {
     "province": "Thừa Thiên Huế",
@@ -31747,7 +31747,7 @@
   {
     "province": "Thừa Thiên Huế",
     "district": "Nam Đông",
-    "ward": "Thị trấn Khe Tre"
+    "ward": "Khe Tre"
   },
   {
     "province": "Thừa Thiên Huế",
@@ -32262,7 +32262,7 @@
   {
     "province": "Quảng Nam",
     "district": "Đông Giang",
-    "ward": "Thị trấn P Rao"
+    "ward": "P Rao"
   },
   {
     "province": "Quảng Nam",
@@ -32317,7 +32317,7 @@
   {
     "province": "Quảng Nam",
     "district": "Đại Lộc",
-    "ward": "Thị Trấn Ái Nghĩa"
+    "ward": "Ái Nghĩa"
   },
   {
     "province": "Quảng Nam",
@@ -32406,108 +32406,108 @@
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Vĩnh Điện"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Tiến"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Hòa"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Thắng Bắc"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Thắng Trung"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Thắng Nam"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Ngọc"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Hồng"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Thọ"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Phước"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện An"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Nam Bắc"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Nam Trung"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Nam Đông"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Dương"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Quang"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Trung"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Phong"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Minh"
   },
   {
     "province": "Quảng Nam",
-    "district": "Thị Điện Bàn",
+    "district": "Điện Bàn",
     "ward": "Điện Phương"
   },
   {
     "province": "Quảng Nam",
     "district": "Duy Xuyên",
-    "ward": "Thị trấn Nam Phước"
+    "ward": "Nam Phước"
   },
   {
     "province": "Quảng Nam",
@@ -32572,7 +32572,7 @@
   {
     "province": "Quảng Nam",
     "district": "Quế Sơn",
-    "ward": "Thị trấn Đông Phú"
+    "ward": "Đông Phú"
   },
   {
     "province": "Quảng Nam",
@@ -32592,7 +32592,7 @@
   {
     "province": "Quảng Nam",
     "district": "Quế Sơn",
-    "ward": "Thị trấn Hương An"
+    "ward": "Hương An"
   },
   {
     "province": "Quảng Nam",
@@ -32637,7 +32637,7 @@
   {
     "province": "Quảng Nam",
     "district": "Nam Giang",
-    "ward": "Thị trấn Thạnh Mỹ"
+    "ward": "Thạnh Mỹ"
   },
   {
     "province": "Quảng Nam",
@@ -32697,7 +32697,7 @@
   {
     "province": "Quảng Nam",
     "district": "Phước Sơn",
-    "ward": "Thị trấn Khâm Đức"
+    "ward": "Khâm Đức"
   },
   {
     "province": "Quảng Nam",
@@ -32792,7 +32792,7 @@
   {
     "province": "Quảng Nam",
     "district": "Hiệp Đức",
-    "ward": "Thị trấn Tân Bình"
+    "ward": "Tân Bình"
   },
   {
     "province": "Quảng Nam",
@@ -32812,7 +32812,7 @@
   {
     "province": "Quảng Nam",
     "district": "Thăng Bình",
-    "ward": "Thị trấn Hà Lam"
+    "ward": "Hà Lam"
   },
   {
     "province": "Quảng Nam",
@@ -32922,7 +32922,7 @@
   {
     "province": "Quảng Nam",
     "district": "Tiên Phước",
-    "ward": "Thị trấn Tiên Kỳ"
+    "ward": "Tiên Kỳ"
   },
   {
     "province": "Quảng Nam",
@@ -32997,7 +32997,7 @@
   {
     "province": "Quảng Nam",
     "district": "Bắc Trà My",
-    "ward": "Thị trấn Trà My"
+    "ward": "Trà My"
   },
   {
     "province": "Quảng Nam",
@@ -33112,7 +33112,7 @@
   {
     "province": "Quảng Nam",
     "district": "Núi Thành",
-    "ward": "Thị trấn Núi Thành"
+    "ward": "Núi Thành"
   },
   {
     "province": "Quảng Nam",
@@ -33197,7 +33197,7 @@
   {
     "province": "Quảng Nam",
     "district": "Phú Ninh",
-    "ward": "Thị trấn Phú Thịnh"
+    "ward": "Phú Thịnh"
   },
   {
     "province": "Quảng Nam",
@@ -33397,7 +33397,7 @@
   {
     "province": "Quảng Ngãi",
     "district": "Bình Sơn",
-    "ward": "Thị Trấn Châu Ổ"
+    "ward": "Châu Ổ"
   },
   {
     "province": "Quảng Ngãi",
@@ -33507,7 +33507,7 @@
   {
     "province": "Quảng Ngãi",
     "district": "Trà Bồng",
-    "ward": "Thị trấn Trà Xuân"
+    "ward": "Trà Xuân"
   },
   {
     "province": "Quảng Ngãi",
@@ -33642,12 +33642,12 @@
   {
     "province": "Quảng Ngãi",
     "district": "Tư Nghĩa",
-    "ward": "Thị trấn La Hà"
+    "ward": "La Hà"
   },
   {
     "province": "Quảng Ngãi",
     "district": "Tư Nghĩa",
-    "ward": "Thị trấn Sông Vệ"
+    "ward": "Sông Vệ"
   },
   {
     "province": "Quảng Ngãi",
@@ -33712,7 +33712,7 @@
   {
     "province": "Quảng Ngãi",
     "district": "Sơn Hà",
-    "ward": "Thị trấn Di Lăng"
+    "ward": "Di Lăng"
   },
   {
     "province": "Quảng Ngãi",
@@ -33852,7 +33852,7 @@
   {
     "province": "Quảng Ngãi",
     "district": "Nghĩa Hành",
-    "ward": "Thị trấn Chợ Chùa"
+    "ward": "Chợ Chùa"
   },
   {
     "province": "Quảng Ngãi",
@@ -33912,7 +33912,7 @@
   {
     "province": "Quảng Ngãi",
     "district": "Mộ Đức",
-    "ward": "Thị trấn Mộ Đức"
+    "ward": "Mộ Đức"
   },
   {
     "province": "Quảng Ngãi",
@@ -33976,83 +33976,83 @@
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Nguyễn Nghiêm"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ An"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Phong"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Thuận"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Văn"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Quang"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Nhơn"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Ninh"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Minh"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Vinh"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Hòa"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Cường"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Khánh"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Thạnh"
   },
   {
     "province": "Quảng Ngãi",
-    "district": "Thị Đức Phổ",
+    "district": "Đức Phổ",
     "ward": "Phổ Châu"
   },
   {
     "province": "Quảng Ngãi",
     "district": "Ba Tơ",
-    "ward": "Thị trấn Ba Tơ"
+    "ward": "Ba Tơ"
   },
   {
     "province": "Quảng Ngãi",
@@ -34177,7 +34177,7 @@
   {
     "province": "Bình Định",
     "district": "Quy Nhơn",
-    "ward": "Thị Nại"
+    "ward": "Nại"
   },
   {
     "province": "Bình Định",
@@ -34212,7 +34212,7 @@
   {
     "province": "Bình Định",
     "district": "Quy Nhơn",
-    "ward": "Bùi Thị Xuân"
+    "ward": "Bùi Xuân"
   },
   {
     "province": "Bình Định",
@@ -34252,7 +34252,7 @@
   {
     "province": "Bình Định",
     "district": "An Lão",
-    "ward": "Thị trấn An Lão"
+    "ward": "An Lão"
   },
   {
     "province": "Bình Định",
@@ -34301,93 +34301,93 @@
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Tam Quan"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Bồng Sơn"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Sơn"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Châu Bắc"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Châu"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Phú"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Tam Quan Bắc"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Tam Quan Nam"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Hảo"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Thanh Tây"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Thanh"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Hương"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Tân"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Hải"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Xuân"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Mỹ"
   },
   {
     "province": "Bình Định",
-    "district": "Thị Hoài Nhơn",
+    "district": "Hoài Nhơn",
     "ward": "Hoài Đức"
   },
   {
     "province": "Bình Định",
     "district": "Hoài Ân",
-    "ward": "Thị trấn Tăng Bạt Hổ"
+    "ward": "Tăng Bạt Hổ"
   },
   {
     "province": "Bình Định",
@@ -34462,12 +34462,12 @@
   {
     "province": "Bình Định",
     "district": "Phù Mỹ",
-    "ward": "Thị trấn Phù Mỹ"
+    "ward": "Phù Mỹ"
   },
   {
     "province": "Bình Định",
     "district": "Phù Mỹ",
-    "ward": "Thị trấn Bình Dương"
+    "ward": "Bình Dương"
   },
   {
     "province": "Bình Định",
@@ -34557,7 +34557,7 @@
   {
     "province": "Bình Định",
     "district": "Vĩnh Thạnh",
-    "ward": "Thị trấn Vĩnh Thạnh"
+    "ward": "Vĩnh Thạnh"
   },
   {
     "province": "Bình Định",
@@ -34602,7 +34602,7 @@
   {
     "province": "Bình Định",
     "district": "Tây Sơn",
-    "ward": "Thị trấn Phú Phong"
+    "ward": "Phú Phong"
   },
   {
     "province": "Bình Định",
@@ -34677,7 +34677,7 @@
   {
     "province": "Bình Định",
     "district": "Phù Cát",
-    "ward": "Thị trấn Ngô Mây"
+    "ward": "Ngô Mây"
   },
   {
     "province": "Bình Định",
@@ -34752,7 +34752,7 @@
   {
     "province": "Bình Định",
     "district": "Phù Cát",
-    "ward": "Thị trấn Cát Tiến"
+    "ward": "Cát Tiến"
   },
   {
     "province": "Bình Định",
@@ -34766,88 +34766,88 @@
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Bình Định"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Đập Đá"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Mỹ"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Thành"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Hạnh"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Hậu"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Phong"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn An"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Phúc"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Hưng"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Khánh"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Lộc"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Hoà"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Tân"
   },
   {
     "province": "Bình Định",
-    "district": "Thị An Nhơn",
+    "district": "An Nhơn",
     "ward": "Nhơn Thọ"
   },
   {
     "province": "Bình Định",
     "district": "Tuy Phước",
-    "ward": "Thị trấn Tuy Phước"
+    "ward": "Tuy Phước"
   },
   {
     "province": "Bình Định",
     "district": "Tuy Phước",
-    "ward": "Thị trấn Diêu Trì"
+    "ward": "Diêu Trì"
   },
   {
     "province": "Bình Định",
@@ -34907,7 +34907,7 @@
   {
     "province": "Bình Định",
     "district": "Vân Canh",
-    "ward": "Thị trấn Vân Canh"
+    "ward": "Vân Canh"
   },
   {
     "province": "Bình Định",
@@ -35021,73 +35021,73 @@
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Phú"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Lâm"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Thành"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Hải"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Lộc"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Bình"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Cảnh"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Thịnh"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Phương"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Yên"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Thọ 1"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Đài"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Sông Cầu",
+    "district": "Sông Cầu",
     "ward": "Xuân Thọ 2"
   },
   {
     "province": "Phú Yên",
     "district": "Đồng Xuân",
-    "ward": "Thị trấn La Hai"
+    "ward": "La Hai"
   },
   {
     "province": "Phú Yên",
@@ -35142,7 +35142,7 @@
   {
     "province": "Phú Yên",
     "district": "Tuy An",
-    "ward": "Thị trấn Chí Thạnh"
+    "ward": "Chí Thạnh"
   },
   {
     "province": "Phú Yên",
@@ -35217,7 +35217,7 @@
   {
     "province": "Phú Yên",
     "district": "Sơn Hòa",
-    "ward": "Thị trấn Củng Sơn"
+    "ward": "Củng Sơn"
   },
   {
     "province": "Phú Yên",
@@ -35287,7 +35287,7 @@
   {
     "province": "Phú Yên",
     "district": "Sông Hinh",
-    "ward": "Thị trấn Hai Riêng"
+    "ward": "Hai Riêng"
   },
   {
     "province": "Phú Yên",
@@ -35357,7 +35357,7 @@
   {
     "province": "Phú Yên",
     "district": "Tây Hoà",
-    "ward": "Thị trấn Phú Thứ"
+    "ward": "Phú Thứ"
   },
   {
     "province": "Phú Yên",
@@ -35427,7 +35427,7 @@
   {
     "province": "Phú Yên",
     "district": "Phú Hoà",
-    "ward": "Thị Trấn Phú Hoà"
+    "ward": "Phú Hoà"
   },
   {
     "province": "Phú Yên",
@@ -35441,52 +35441,52 @@
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Đông Hòa",
+    "district": "Đông Hòa",
     "ward": "Hòa Thành"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Đông Hòa",
+    "district": "Đông Hòa",
     "ward": "Hòa Hiệp Bắc"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Đông Hòa",
+    "district": "Đông Hòa",
     "ward": "Hoà Vinh"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Đông Hòa",
+    "district": "Đông Hòa",
     "ward": "Hoà Hiệp Trung"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Đông Hòa",
+    "district": "Đông Hòa",
     "ward": "Hòa Tân Đông"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Đông Hòa",
+    "district": "Đông Hòa",
     "ward": "Hòa Xuân Tây"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Đông Hòa",
+    "district": "Đông Hòa",
     "ward": "Hòa Hiệp Nam"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Đông Hòa",
+    "district": "Đông Hòa",
     "ward": "Hòa Xuân Đông"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Đông Hòa",
+    "district": "Đông Hòa",
     "ward": "Hòa Tâm"
   },
   {
     "province": "Phú Yên",
-    "district": "Thị Đông Hòa",
+    "district": "Đông Hòa",
     "ward": "Hòa Xuân Nam"
   },
   {
@@ -35732,7 +35732,7 @@
   {
     "province": "Khánh Hòa",
     "district": "Cam Lâm",
-    "ward": "Thị trấn Cam Đức"
+    "ward": "Cam Đức"
   },
   {
     "province": "Khánh Hòa",
@@ -35772,7 +35772,7 @@
   {
     "province": "Khánh Hòa",
     "district": "Vạn Ninh",
-    "ward": "Thị trấn Vạn Giã"
+    "ward": "Vạn Giã"
   },
   {
     "province": "Khánh Hòa",
@@ -35836,143 +35836,143 @@
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Hiệp"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Sơn"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Tây"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Thượng"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh An"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Hải"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Thọ"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Trung"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Sim"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Xuân"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Thân"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Diêm"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Đông"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Thủy"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Đa"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Phụng"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Bình"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Phước"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Phú"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Tân"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Quang"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Giang"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Hà"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Hưng"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Lộc"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Ích"
   },
   {
     "province": "Khánh Hòa",
-    "district": "Thị Ninh Hòa",
+    "district": "Ninh Hòa",
     "ward": "Ninh Vân"
   },
   {
     "province": "Khánh Hòa",
     "district": "Khánh Vĩnh",
-    "ward": "Thị trấn Khánh Vĩnh"
+    "ward": "Khánh Vĩnh"
   },
   {
     "province": "Khánh Hòa",
@@ -36042,7 +36042,7 @@
   {
     "province": "Khánh Hòa",
     "district": "Diên Khánh",
-    "ward": "Thị trấn Diên Khánh"
+    "ward": "Diên Khánh"
   },
   {
     "province": "Khánh Hòa",
@@ -36132,7 +36132,7 @@
   {
     "province": "Khánh Hòa",
     "district": "Khánh Sơn",
-    "ward": "Thị trấn Tô Hạp"
+    "ward": "Tô Hạp"
   },
   {
     "province": "Khánh Hòa",
@@ -36167,7 +36167,7 @@
   {
     "province": "Khánh Hòa",
     "district": "Trường Sa",
-    "ward": "Thị trấn Trường Sa"
+    "ward": "Trường Sa"
   },
   {
     "province": "Khánh Hòa",
@@ -36307,7 +36307,7 @@
   {
     "province": "Ninh Thuận",
     "district": "Ninh Sơn",
-    "ward": "Thị trấn Tân Sơn"
+    "ward": "Tân Sơn"
   },
   {
     "province": "Ninh Thuận",
@@ -36347,7 +36347,7 @@
   {
     "province": "Ninh Thuận",
     "district": "Ninh Hải",
-    "ward": "Thị trấn Khánh Hải"
+    "ward": "Khánh Hải"
   },
   {
     "province": "Ninh Thuận",
@@ -36392,7 +36392,7 @@
   {
     "province": "Ninh Thuận",
     "district": "Ninh Phước",
-    "ward": "Thị trấn Phước Dân"
+    "ward": "Phước Dân"
   },
   {
     "province": "Ninh Thuận",
@@ -36596,58 +36596,58 @@
   },
   {
     "province": "Bình Thuận",
-    "district": "Thị La Gi",
+    "district": "La Gi",
     "ward": "Phước Hội"
   },
   {
     "province": "Bình Thuận",
-    "district": "Thị La Gi",
+    "district": "La Gi",
     "ward": "Phước Lộc"
   },
   {
     "province": "Bình Thuận",
-    "district": "Thị La Gi",
+    "district": "La Gi",
     "ward": "Tân Thiện"
   },
   {
     "province": "Bình Thuận",
-    "district": "Thị La Gi",
+    "district": "La Gi",
     "ward": "Tân An"
   },
   {
     "province": "Bình Thuận",
-    "district": "Thị La Gi",
+    "district": "La Gi",
     "ward": "Bình Tân"
   },
   {
     "province": "Bình Thuận",
-    "district": "Thị La Gi",
+    "district": "La Gi",
     "ward": "Tân Hải"
   },
   {
     "province": "Bình Thuận",
-    "district": "Thị La Gi",
+    "district": "La Gi",
     "ward": "Tân Tiến"
   },
   {
     "province": "Bình Thuận",
-    "district": "Thị La Gi",
+    "district": "La Gi",
     "ward": "Tân Bình"
   },
   {
     "province": "Bình Thuận",
-    "district": "Thị La Gi",
+    "district": "La Gi",
     "ward": "Tân Phước"
   },
   {
     "province": "Bình Thuận",
     "district": "Tuy Phong",
-    "ward": "Thị trấn Liên Hương"
+    "ward": "Liên Hương"
   },
   {
     "province": "Bình Thuận",
     "district": "Tuy Phong",
-    "ward": "Thị trấn Phan Rí Cửa"
+    "ward": "Phan Rí Cửa"
   },
   {
     "province": "Bình Thuận",
@@ -36697,7 +36697,7 @@
   {
     "province": "Bình Thuận",
     "district": "Bắc Bình",
-    "ward": "Thị trấn Chợ Lầu"
+    "ward": "Chợ Lầu"
   },
   {
     "province": "Bình Thuận",
@@ -36742,7 +36742,7 @@
   {
     "province": "Bình Thuận",
     "district": "Bắc Bình",
-    "ward": "Thị trấn Lương Sơn"
+    "ward": "Lương Sơn"
   },
   {
     "province": "Bình Thuận",
@@ -36787,12 +36787,12 @@
   {
     "province": "Bình Thuận",
     "district": "Hàm Thuận Bắc",
-    "ward": "Thị trấn Ma Lâm"
+    "ward": "Ma Lâm"
   },
   {
     "province": "Bình Thuận",
     "district": "Hàm Thuận Bắc",
-    "ward": "Thị trấn Phú Long"
+    "ward": "Phú Long"
   },
   {
     "province": "Bình Thuận",
@@ -36872,7 +36872,7 @@
   {
     "province": "Bình Thuận",
     "district": "Hàm Thuận Nam",
-    "ward": "Thị trấn Thuận Nam"
+    "ward": "Thuận Nam"
   },
   {
     "province": "Bình Thuận",
@@ -36942,7 +36942,7 @@
   {
     "province": "Bình Thuận",
     "district": "Tánh Linh",
-    "ward": "Thị trấn Lạc Tánh"
+    "ward": "Lạc Tánh"
   },
   {
     "province": "Bình Thuận",
@@ -37007,12 +37007,12 @@
   {
     "province": "Bình Thuận",
     "district": "Đức Linh",
-    "ward": "Thị trấn Võ Xu"
+    "ward": "Võ Xu"
   },
   {
     "province": "Bình Thuận",
     "district": "Đức Linh",
-    "ward": "Thị trấn Đức Tài"
+    "ward": "Đức Tài"
   },
   {
     "province": "Bình Thuận",
@@ -37067,12 +37067,12 @@
   {
     "province": "Bình Thuận",
     "district": "Hàm Tân",
-    "ward": "Thị trấn Tân Minh"
+    "ward": "Tân Minh"
   },
   {
     "province": "Bình Thuận",
     "district": "Hàm Tân",
-    "ward": "Thị trấn Tân Nghĩa"
+    "ward": "Tân Nghĩa"
   },
   {
     "province": "Bình Thuận",
@@ -37237,7 +37237,7 @@
   {
     "province": "Kon Tum",
     "district": "Đắk Glei",
-    "ward": "Thị trấn Đắk Glei"
+    "ward": "Đắk Glei"
   },
   {
     "province": "Kon Tum",
@@ -37297,7 +37297,7 @@
   {
     "province": "Kon Tum",
     "district": "Ngọc Hồi",
-    "ward": "Thị trấn Plei Kần"
+    "ward": "Plei Kần"
   },
   {
     "province": "Kon Tum",
@@ -37332,7 +37332,7 @@
   {
     "province": "Kon Tum",
     "district": "Đắk Tô",
-    "ward": "Thị trấn Đắk Tô"
+    "ward": "Đắk Tô"
   },
   {
     "province": "Kon Tum",
@@ -37412,7 +37412,7 @@
   {
     "province": "Kon Tum",
     "district": "Kon Plông",
-    "ward": "Thị trấn Măng Đen"
+    "ward": "Măng Đen"
   },
   {
     "province": "Kon Tum",
@@ -37422,7 +37422,7 @@
   {
     "province": "Kon Tum",
     "district": "Kon Rẫy",
-    "ward": "Thị trấn Đắk Rve"
+    "ward": "Đắk Rve"
   },
   {
     "province": "Kon Tum",
@@ -37457,7 +37457,7 @@
   {
     "province": "Kon Tum",
     "district": "Đắk Hà",
-    "ward": "Thị trấn Đắk Hà"
+    "ward": "Đắk Hà"
   },
   {
     "province": "Kon Tum",
@@ -37512,7 +37512,7 @@
   {
     "province": "Kon Tum",
     "district": "Sa Thầy",
-    "ward": "Thị trấn Sa Thầy"
+    "ward": "Sa Thầy"
   },
   {
     "province": "Kon Tum",
@@ -37746,103 +37746,103 @@
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "An Bình"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "Tây Sơn"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "An Phú"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "An Tân"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "Tú An"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "Xuân An"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "Cửu An"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "An Phước"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "Song An"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "Ngô Mây"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị An Khê",
+    "district": "An Khê",
     "ward": "Thành An"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị Ayun Pa",
+    "district": "Ayun Pa",
     "ward": "Cheo Reo"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị Ayun Pa",
+    "district": "Ayun Pa",
     "ward": "Hòa Bình"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị Ayun Pa",
+    "district": "Ayun Pa",
     "ward": "Đoàn Kết"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị Ayun Pa",
+    "district": "Ayun Pa",
     "ward": "Sông Bờ"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị Ayun Pa",
+    "district": "Ayun Pa",
     "ward": "Ia RBol"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị Ayun Pa",
+    "district": "Ayun Pa",
     "ward": "Chư Băh"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị Ayun Pa",
+    "district": "Ayun Pa",
     "ward": "Ia RTô"
   },
   {
     "province": "Gia Lai",
-    "district": "Thị Ayun Pa",
+    "district": "Ayun Pa",
     "ward": "Ia Sao"
   },
   {
     "province": "Gia Lai",
     "district": "KBang",
-    "ward": "Thị trấn KBang"
+    "ward": "KBang"
   },
   {
     "province": "Gia Lai",
@@ -37912,7 +37912,7 @@
   {
     "province": "Gia Lai",
     "district": "Đăk Đoa",
-    "ward": "Thị trấn Đăk Đoa"
+    "ward": "Đăk Đoa"
   },
   {
     "province": "Gia Lai",
@@ -37997,7 +37997,7 @@
   {
     "province": "Gia Lai",
     "district": "Chư Păh",
-    "ward": "Thị trấn Phú Hòa"
+    "ward": "Phú Hòa"
   },
   {
     "province": "Gia Lai",
@@ -38017,7 +38017,7 @@
   {
     "province": "Gia Lai",
     "district": "Chư Păh",
-    "ward": "Thị trấn Ia Ly"
+    "ward": "Ia Ly"
   },
   {
     "province": "Gia Lai",
@@ -38067,7 +38067,7 @@
   {
     "province": "Gia Lai",
     "district": "Ia Grai",
-    "ward": "Thị trấn Ia Kha"
+    "ward": "Ia Kha"
   },
   {
     "province": "Gia Lai",
@@ -38132,7 +38132,7 @@
   {
     "province": "Gia Lai",
     "district": "Mang Yang",
-    "ward": "Thị trấn Kon Dơng"
+    "ward": "Kon Dơng"
   },
   {
     "province": "Gia Lai",
@@ -38187,7 +38187,7 @@
   {
     "province": "Gia Lai",
     "district": "Kông Chro",
-    "ward": "Thị trấn Kông Chro"
+    "ward": "Kông Chro"
   },
   {
     "province": "Gia Lai",
@@ -38257,7 +38257,7 @@
   {
     "province": "Gia Lai",
     "district": "Đức Cơ",
-    "ward": "Thị trấn Chư Ty"
+    "ward": "Chư Ty"
   },
   {
     "province": "Gia Lai",
@@ -38307,7 +38307,7 @@
   {
     "province": "Gia Lai",
     "district": "Chư Prông",
-    "ward": "Thị trấn Chư Prông"
+    "ward": "Chư Prông"
   },
   {
     "province": "Gia Lai",
@@ -38407,7 +38407,7 @@
   {
     "province": "Gia Lai",
     "district": "Chư Sê",
-    "ward": "Thị trấn Chư Sê"
+    "ward": "Chư Sê"
   },
   {
     "province": "Gia Lai",
@@ -38492,7 +38492,7 @@
   {
     "province": "Gia Lai",
     "district": "Đăk Pơ",
-    "ward": "Thị trấn Đak Pơ"
+    "ward": "Đak Pơ"
   },
   {
     "province": "Gia Lai",
@@ -38567,7 +38567,7 @@
   {
     "province": "Gia Lai",
     "district": "Krông Pa",
-    "ward": "Thị trấn Phú Túc"
+    "ward": "Phú Túc"
   },
   {
     "province": "Gia Lai",
@@ -38637,7 +38637,7 @@
   {
     "province": "Gia Lai",
     "district": "Phú Thiện",
-    "ward": "Thị trấn Phú Thiện"
+    "ward": "Phú Thiện"
   },
   {
     "province": "Gia Lai",
@@ -38687,7 +38687,7 @@
   {
     "province": "Gia Lai",
     "district": "Chư Pưh",
-    "ward": "Thị trấn Nhơn Hoà"
+    "ward": "Nhơn Hoà"
   },
   {
     "province": "Gia Lai",
@@ -38836,68 +38836,68 @@
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "An Lạc"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "An Bình"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "Thiện An"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "Đạt Hiếu"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "Đoàn Kết"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "Ea Blang"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "Ea Drông"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "Thống Nhất"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "Bình Tân"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "Ea Siên"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "Bình Thuận"
   },
   {
     "province": "Đắk Lắk",
-    "district": "Thị Buôn Hồ",
+    "district": "Buôn Hồ",
     "ward": "Cư Bao"
   },
   {
     "province": "Đắk Lắk",
     "district": "Ea H'leo",
-    "ward": "Thị trấn Ea Drăng"
+    "ward": "Ea Drăng"
   },
   {
     "province": "Đắk Lắk",
@@ -38957,7 +38957,7 @@
   {
     "province": "Đắk Lắk",
     "district": "Ea Súp",
-    "ward": "Thị trấn Ea Súp"
+    "ward": "Ea Súp"
   },
   {
     "province": "Đắk Lắk",
@@ -39042,12 +39042,12 @@
   {
     "province": "Đắk Lắk",
     "district": "Cư M'gar",
-    "ward": "Thị trấn Ea Pốk"
+    "ward": "Ea Pốk"
   },
   {
     "province": "Đắk Lắk",
     "district": "Cư M'gar",
-    "ward": "Thị trấn Quảng Phú"
+    "ward": "Quảng Phú"
   },
   {
     "province": "Đắk Lắk",
@@ -39162,7 +39162,7 @@
   {
     "province": "Đắk Lắk",
     "district": "Krông Năng",
-    "ward": "Thị trấn Krông Năng"
+    "ward": "Krông Năng"
   },
   {
     "province": "Đắk Lắk",
@@ -39222,12 +39222,12 @@
   {
     "province": "Đắk Lắk",
     "district": "Ea Kar",
-    "ward": "Thị trấn Ea Kar"
+    "ward": "Ea Kar"
   },
   {
     "province": "Đắk Lắk",
     "district": "Ea Kar",
-    "ward": "Thị trấn Ea Knốp"
+    "ward": "Ea Knốp"
   },
   {
     "province": "Đắk Lắk",
@@ -39302,7 +39302,7 @@
   {
     "province": "Đắk Lắk",
     "district": "M'Đrắk",
-    "ward": "Thị trấn M'Đrắk"
+    "ward": "M'Đrắk"
   },
   {
     "province": "Đắk Lắk",
@@ -39367,7 +39367,7 @@
   {
     "province": "Đắk Lắk",
     "district": "Krông Bông",
-    "ward": "Thị trấn Krông Kmar"
+    "ward": "Krông Kmar"
   },
   {
     "province": "Đắk Lắk",
@@ -39437,7 +39437,7 @@
   {
     "province": "Đắk Lắk",
     "district": "Krông Pắc",
-    "ward": "Thị trấn Phước An"
+    "ward": "Phước An"
   },
   {
     "province": "Đắk Lắk",
@@ -39512,7 +39512,7 @@
   {
     "province": "Đắk Lắk",
     "district": "Krông A Na",
-    "ward": "Thị trấn Buôn Trấp"
+    "ward": "Buôn Trấp"
   },
   {
     "province": "Đắk Lắk",
@@ -39552,7 +39552,7 @@
   {
     "province": "Đắk Lắk",
     "district": "Lắk",
-    "ward": "Thị trấn Liên Sơn"
+    "ward": "Liên Sơn"
   },
   {
     "province": "Đắk Lắk",
@@ -39722,7 +39722,7 @@
   {
     "province": "Đắk Nông",
     "district": "Cư Jút",
-    "ward": "Thị trấn Ea T'Ling"
+    "ward": "Ea T'Ling"
   },
   {
     "province": "Đắk Nông",
@@ -39762,7 +39762,7 @@
   {
     "province": "Đắk Nông",
     "district": "Đắk Mil",
-    "ward": "Thị trấn Đắk Mil"
+    "ward": "Đắk Mil"
   },
   {
     "province": "Đắk Nông",
@@ -39812,7 +39812,7 @@
   {
     "province": "Đắk Nông",
     "district": "Krông Nô",
-    "ward": "Thị trấn Đắk Mâm"
+    "ward": "Đắk Mâm"
   },
   {
     "province": "Đắk Nông",
@@ -39872,7 +39872,7 @@
   {
     "province": "Đắk Nông",
     "district": "Đắk Song",
-    "ward": "Thị trấn Đức An"
+    "ward": "Đức An"
   },
   {
     "province": "Đắk Nông",
@@ -39917,7 +39917,7 @@
   {
     "province": "Đắk Nông",
     "district": "Đắk R'Lấp",
-    "ward": "Thị trấn Kiến Đức"
+    "ward": "Kiến Đức"
   },
   {
     "province": "Đắk Nông",
@@ -40177,7 +40177,7 @@
   {
     "province": "Lâm Đồng",
     "district": "Lạc Dương",
-    "ward": "Thị trấn Lạc Dương"
+    "ward": "Lạc Dương"
   },
   {
     "province": "Lâm Đồng",
@@ -40207,12 +40207,12 @@
   {
     "province": "Lâm Đồng",
     "district": "Lâm Hà",
-    "ward": "Thị trấn Nam Ban"
+    "ward": "Nam Ban"
   },
   {
     "province": "Lâm Đồng",
     "district": "Lâm Hà",
-    "ward": "Thị trấn Đinh Văn"
+    "ward": "Đinh Văn"
   },
   {
     "province": "Lâm Đồng",
@@ -40282,12 +40282,12 @@
   {
     "province": "Lâm Đồng",
     "district": "Đơn Dương",
-    "ward": "Thị trấn D'Ran"
+    "ward": "D'Ran"
   },
   {
     "province": "Lâm Đồng",
     "district": "Đơn Dương",
-    "ward": "Thị trấn Thạnh Mỹ"
+    "ward": "Thạnh Mỹ"
   },
   {
     "province": "Lâm Đồng",
@@ -40332,7 +40332,7 @@
   {
     "province": "Lâm Đồng",
     "district": "Đức Trọng",
-    "ward": "Thị trấn Liên Nghĩa"
+    "ward": "Liên Nghĩa"
   },
   {
     "province": "Lâm Đồng",
@@ -40407,7 +40407,7 @@
   {
     "province": "Lâm Đồng",
     "district": "Di Linh",
-    "ward": "Thị trấn Di Linh"
+    "ward": "Di Linh"
   },
   {
     "province": "Lâm Đồng",
@@ -40502,7 +40502,7 @@
   {
     "province": "Lâm Đồng",
     "district": "Bảo Lâm",
-    "ward": "Thị trấn Lộc Thắng"
+    "ward": "Lộc Thắng"
   },
   {
     "province": "Lâm Đồng",
@@ -40572,12 +40572,12 @@
   {
     "province": "Lâm Đồng",
     "district": "Đạ Huoai",
-    "ward": "Thị trấn Đạ M'ri"
+    "ward": "Đạ M'ri"
   },
   {
     "province": "Lâm Đồng",
     "district": "Đạ Huoai",
-    "ward": "Thị trấn Ma Đa Guôi"
+    "ward": "Ma Đa Guôi"
   },
   {
     "province": "Lâm Đồng",
@@ -40617,7 +40617,7 @@
   {
     "province": "Lâm Đồng",
     "district": "Đạ Tẻh",
-    "ward": "Thị trấn Đạ Tẻh"
+    "ward": "Đạ Tẻh"
   },
   {
     "province": "Lâm Đồng",
@@ -40662,7 +40662,7 @@
   {
     "province": "Lâm Đồng",
     "district": "Cát Tiên",
-    "ward": "Thị trấn Cát Tiên"
+    "ward": "Cát Tiên"
   },
   {
     "province": "Lâm Đồng",
@@ -40687,7 +40687,7 @@
   {
     "province": "Lâm Đồng",
     "district": "Cát Tiên",
-    "ward": "Thị trấn Phước Cát"
+    "ward": "Phước Cát"
   },
   {
     "province": "Lâm Đồng",
@@ -40706,37 +40706,37 @@
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Phước Long",
+    "district": "Phước Long",
     "ward": "Thác Mơ"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Phước Long",
+    "district": "Phước Long",
     "ward": "Long Thủy"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Phước Long",
+    "district": "Phước Long",
     "ward": "Phước Bình"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Phước Long",
+    "district": "Phước Long",
     "ward": "Long Phước"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Phước Long",
+    "district": "Phước Long",
     "ward": "Sơn Giang"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Phước Long",
+    "district": "Phước Long",
     "ward": "Long Giang"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Phước Long",
+    "district": "Phước Long",
     "ward": "Phước Tín"
   },
   {
@@ -40781,32 +40781,32 @@
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Bình Long",
+    "district": "Bình Long",
     "ward": "Hưng Chiến"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Bình Long",
+    "district": "Bình Long",
     "ward": "An Lộc"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Bình Long",
+    "district": "Bình Long",
     "ward": "Phú Thịnh"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Bình Long",
+    "district": "Bình Long",
     "ward": "Phú Đức"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Bình Long",
+    "district": "Bình Long",
     "ward": "Thanh Lương"
   },
   {
     "province": "Bình Phước",
-    "district": "Thị Bình Long",
+    "district": "Bình Long",
     "ward": "Thanh Phú"
   },
   {
@@ -40852,7 +40852,7 @@
   {
     "province": "Bình Phước",
     "district": "Lộc Ninh",
-    "ward": "Thị trấn Lộc Ninh"
+    "ward": "Lộc Ninh"
   },
   {
     "province": "Bình Phước",
@@ -40932,7 +40932,7 @@
   {
     "province": "Bình Phước",
     "district": "Bù Đốp",
-    "ward": "Thị trấn Thanh Bình"
+    "ward": "Thanh Bình"
   },
   {
     "province": "Bình Phước",
@@ -41012,7 +41012,7 @@
   {
     "province": "Bình Phước",
     "district": "Hớn Quản",
-    "ward": "Thị trấn Tân Khai"
+    "ward": "Tân Khai"
   },
   {
     "province": "Bình Phước",
@@ -41032,7 +41032,7 @@
   {
     "province": "Bình Phước",
     "district": "Đồng Phú",
-    "ward": "Thị trấn Tân Phú"
+    "ward": "Tân Phú"
   },
   {
     "province": "Bình Phước",
@@ -41087,7 +41087,7 @@
   {
     "province": "Bình Phước",
     "district": "Bù Đăng",
-    "ward": "Thị trấn Đức Phong"
+    "ward": "Đức Phong"
   },
   {
     "province": "Bình Phước",
@@ -41167,7 +41167,7 @@
   {
     "province": "Bình Phước",
     "district": "Chơn Thành",
-    "ward": "Thị trấn Chơn Thành"
+    "ward": "Chơn Thành"
   },
   {
     "province": "Bình Phước",
@@ -41312,7 +41312,7 @@
   {
     "province": "Tây Ninh",
     "district": "Tân Biên",
-    "ward": "Thị trấn Tân Biên"
+    "ward": "Tân Biên"
   },
   {
     "province": "Tây Ninh",
@@ -41362,7 +41362,7 @@
   {
     "province": "Tây Ninh",
     "district": "Tân Châu",
-    "ward": "Thị trấn Tân Châu"
+    "ward": "Tân Châu"
   },
   {
     "province": "Tây Ninh",
@@ -41422,7 +41422,7 @@
   {
     "province": "Tây Ninh",
     "district": "Dương Minh Châu",
-    "ward": "Thị trấn Dương Minh Châu"
+    "ward": "Dương Minh Châu"
   },
   {
     "province": "Tây Ninh",
@@ -41477,7 +41477,7 @@
   {
     "province": "Tây Ninh",
     "district": "Châu Thành",
-    "ward": "Thị trấn Châu Thành"
+    "ward": "Châu Thành"
   },
   {
     "province": "Tây Ninh",
@@ -41551,48 +41551,48 @@
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Hòa Thành",
+    "district": "Hòa Thành",
     "ward": "Long Hoa"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Hòa Thành",
+    "district": "Hòa Thành",
     "ward": "Hiệp Tân"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Hòa Thành",
+    "district": "Hòa Thành",
     "ward": "Long Thành Bắc"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Hòa Thành",
+    "district": "Hòa Thành",
     "ward": "Trường Hòa"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Hòa Thành",
+    "district": "Hòa Thành",
     "ward": "Trường Đông"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Hòa Thành",
+    "district": "Hòa Thành",
     "ward": "Long Thành Trung"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Hòa Thành",
+    "district": "Hòa Thành",
     "ward": "Trường Tây"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Hòa Thành",
+    "district": "Hòa Thành",
     "ward": "Long Thành Nam"
   },
   {
     "province": "Tây Ninh",
     "district": "Gò Dầu",
-    "ward": "Thị trấn Gò Dầu"
+    "ward": "Gò Dầu"
   },
   {
     "province": "Tây Ninh",
@@ -41637,7 +41637,7 @@
   {
     "province": "Tây Ninh",
     "district": "Bến Cầu",
-    "ward": "Thị trấn Bến Cầu"
+    "ward": "Bến Cầu"
   },
   {
     "province": "Tây Ninh",
@@ -41681,52 +41681,52 @@
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Trảng Bàng",
+    "district": "Trảng Bàng",
     "ward": "Trảng Bàng"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Trảng Bàng",
+    "district": "Trảng Bàng",
     "ward": "Đôn Thuận"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Trảng Bàng",
+    "district": "Trảng Bàng",
     "ward": "Hưng Thuận"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Trảng Bàng",
+    "district": "Trảng Bàng",
     "ward": "Lộc Hưng"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Trảng Bàng",
+    "district": "Trảng Bàng",
     "ward": "Gia Lộc"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Trảng Bàng",
+    "district": "Trảng Bàng",
     "ward": "Gia Bình"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Trảng Bàng",
+    "district": "Trảng Bàng",
     "ward": "Phước Bình"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Trảng Bàng",
+    "district": "Trảng Bàng",
     "ward": "An Tịnh"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Trảng Bàng",
+    "district": "Trảng Bàng",
     "ward": "An Hòa"
   },
   {
     "province": "Tây Ninh",
-    "district": "Thị Trảng Bàng",
+    "district": "Trảng Bàng",
     "ward": "Phước Chỉ"
   },
   {
@@ -41812,7 +41812,7 @@
   {
     "province": "Bình Dương",
     "district": "Bàu Bàng",
-    "ward": "Thị trấn Lai Uyên"
+    "ward": "Lai Uyên"
   },
   {
     "province": "Bình Dương",
@@ -41837,7 +41837,7 @@
   {
     "province": "Bình Dương",
     "district": "Dầu Tiếng",
-    "ward": "Thị trấn Dầu Tiếng"
+    "ward": "Dầu Tiếng"
   },
   {
     "province": "Bình Dương",
@@ -41896,48 +41896,48 @@
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Bến Cát",
+    "district": "Bến Cát",
     "ward": "Mỹ Phước"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Bến Cát",
+    "district": "Bến Cát",
     "ward": "Chánh Phú Hòa"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Bến Cát",
+    "district": "Bến Cát",
     "ward": "An Điền"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Bến Cát",
+    "district": "Bến Cát",
     "ward": "An Tây"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Bến Cát",
+    "district": "Bến Cát",
     "ward": "Thới Hòa"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Bến Cát",
+    "district": "Bến Cát",
     "ward": "Hòa Lợi"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Bến Cát",
+    "district": "Bến Cát",
     "ward": "Tân Định"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Bến Cát",
+    "district": "Bến Cát",
     "ward": "Phú An"
   },
   {
     "province": "Bình Dương",
     "district": "Phú Giáo",
-    "ward": "Thị trấn Phước Vĩnh"
+    "ward": "Phước Vĩnh"
   },
   {
     "province": "Bình Dương",
@@ -41991,62 +41991,62 @@
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Uyên Hưng"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Tân Phước Khánh"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Vĩnh Tân"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Hội Nghĩa"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Tân Hiệp"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Khánh Bình"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Phú Chánh"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Bạch Đằng"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Tân Vĩnh Hiệp"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Thạnh Phước"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Thạnh Hội"
   },
   {
     "province": "Bình Dương",
-    "district": "Thị Tân Uyên",
+    "district": "Tân Uyên",
     "ward": "Thái Hòa"
   },
   {
@@ -42147,7 +42147,7 @@
   {
     "province": "Bình Dương",
     "district": "Bắc Tân Uyên",
-    "ward": "Thị trấn Tân Bình"
+    "ward": "Tân Bình"
   },
   {
     "province": "Bình Dương",
@@ -42157,7 +42157,7 @@
   {
     "province": "Bình Dương",
     "district": "Bắc Tân Uyên",
-    "ward": "Thị trấn Tân Thành"
+    "ward": "Tân Thành"
   },
   {
     "province": "Bình Dương",
@@ -42412,7 +42412,7 @@
   {
     "province": "Đồng Nai",
     "district": "Tân Phú",
-    "ward": "Thị trấn Tân Phú"
+    "ward": "Tân Phú"
   },
   {
     "province": "Đồng Nai",
@@ -42502,7 +42502,7 @@
   {
     "province": "Đồng Nai",
     "district": "Vĩnh Cửu",
-    "ward": "Thị trấn Vĩnh An"
+    "ward": "Vĩnh An"
   },
   {
     "province": "Đồng Nai",
@@ -42562,7 +42562,7 @@
   {
     "province": "Đồng Nai",
     "district": "Định Quán",
-    "ward": "Thị trấn Định Quán"
+    "ward": "Định Quán"
   },
   {
     "province": "Đồng Nai",
@@ -42632,7 +42632,7 @@
   {
     "province": "Đồng Nai",
     "district": "Trảng Bom",
-    "ward": "Thị trấn Trảng Bom"
+    "ward": "Trảng Bom"
   },
   {
     "province": "Đồng Nai",
@@ -42762,7 +42762,7 @@
   {
     "province": "Đồng Nai",
     "district": "Thống Nhất",
-    "ward": "Thị trấn Dầu Giây"
+    "ward": "Dầu Giây"
   },
   {
     "province": "Đồng Nai",
@@ -42787,7 +42787,7 @@
   {
     "province": "Đồng Nai",
     "district": "Cẩm Mỹ",
-    "ward": "Thị trấn Long Giao"
+    "ward": "Long Giao"
   },
   {
     "province": "Đồng Nai",
@@ -42832,7 +42832,7 @@
   {
     "province": "Đồng Nai",
     "district": "Long Thành",
-    "ward": "Thị trấn Long Thành"
+    "ward": "Long Thành"
   },
   {
     "province": "Đồng Nai",
@@ -42902,7 +42902,7 @@
   {
     "province": "Đồng Nai",
     "district": "Xuân Lộc",
-    "ward": "Thị trấn Gia Ray"
+    "ward": "Gia Ray"
   },
   {
     "province": "Đồng Nai",
@@ -42992,7 +42992,7 @@
   {
     "province": "Đồng Nai",
     "district": "Nhơn Trạch",
-    "ward": "Thị trấn Hiệp Phước"
+    "ward": "Hiệp Phước"
   },
   {
     "province": "Đồng Nai",
@@ -43182,7 +43182,7 @@
   {
     "province": "Bà Rịa - Vũng Tàu",
     "district": "Châu Đức",
-    "ward": "Thị trấn Ngãi Giao"
+    "ward": "Ngãi Giao"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
@@ -43257,7 +43257,7 @@
   {
     "province": "Bà Rịa - Vũng Tàu",
     "district": "Xuyên Mộc",
-    "ward": "Thị trấn Phước Bửu"
+    "ward": "Phước Bửu"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
@@ -43322,12 +43322,12 @@
   {
     "province": "Bà Rịa - Vũng Tàu",
     "district": "Long Điền",
-    "ward": "Thị trấn Long Điền"
+    "ward": "Long Điền"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
     "district": "Long Điền",
-    "ward": "Thị trấn Long Hải"
+    "ward": "Long Hải"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
@@ -43357,7 +43357,7 @@
   {
     "province": "Bà Rịa - Vũng Tàu",
     "district": "Đất Đỏ",
-    "ward": "Thị trấn Đất Đỏ"
+    "ward": "Đất Đỏ"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
@@ -43377,7 +43377,7 @@
   {
     "province": "Bà Rịa - Vũng Tàu",
     "district": "Đất Đỏ",
-    "ward": "Thị trấn Phước Hải"
+    "ward": "Phước Hải"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
@@ -43396,52 +43396,52 @@
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
-    "district": "Thị Phú Mỹ",
+    "district": "Phú Mỹ",
     "ward": "Phú Mỹ"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
-    "district": "Thị Phú Mỹ",
+    "district": "Phú Mỹ",
     "ward": "Tân Hoà"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
-    "district": "Thị Phú Mỹ",
+    "district": "Phú Mỹ",
     "ward": "Tân Hải"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
-    "district": "Thị Phú Mỹ",
+    "district": "Phú Mỹ",
     "ward": "Phước Hoà"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
-    "district": "Thị Phú Mỹ",
+    "district": "Phú Mỹ",
     "ward": "Tân Phước"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
-    "district": "Thị Phú Mỹ",
+    "district": "Phú Mỹ",
     "ward": "Mỹ Xuân"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
-    "district": "Thị Phú Mỹ",
+    "district": "Phú Mỹ",
     "ward": "Sông Xoài"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
-    "district": "Thị Phú Mỹ",
+    "district": "Phú Mỹ",
     "ward": "Hắc Dịch"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
-    "district": "Thị Phú Mỹ",
+    "district": "Phú Mỹ",
     "ward": "Châu Pha"
   },
   {
     "province": "Bà Rịa - Vũng Tàu",
-    "district": "Thị Phú Mỹ",
+    "district": "Phú Mỹ",
     "ward": "Tóc Tiên"
   },
   {
@@ -44117,7 +44117,7 @@
   {
     "province": "Hồ Chí Minh",
     "district": "3",
-    "ward": "Võ Thị Sáu"
+    "ward": "Võ Sáu"
   },
   {
     "province": "Hồ Chí Minh",
@@ -44692,7 +44692,7 @@
   {
     "province": "Hồ Chí Minh",
     "district": "Củ Chi",
-    "ward": "Thị trấn Củ Chi"
+    "ward": "Củ Chi"
   },
   {
     "province": "Hồ Chí Minh",
@@ -44797,7 +44797,7 @@
   {
     "province": "Hồ Chí Minh",
     "district": "Hóc Môn",
-    "ward": "Thị trấn Hóc Môn"
+    "ward": "Hóc Môn"
   },
   {
     "province": "Hồ Chí Minh",
@@ -44857,7 +44857,7 @@
   {
     "province": "Hồ Chí Minh",
     "district": "Bình Chánh",
-    "ward": "Thị trấn Tân Túc"
+    "ward": "Tân Túc"
   },
   {
     "province": "Hồ Chí Minh",
@@ -44942,7 +44942,7 @@
   {
     "province": "Hồ Chí Minh",
     "district": "Nhà Bè",
-    "ward": "Thị trấn Nhà Bè"
+    "ward": "Nhà Bè"
   },
   {
     "province": "Hồ Chí Minh",
@@ -44977,7 +44977,7 @@
   {
     "province": "Hồ Chí Minh",
     "district": "Cần Giờ",
-    "ward": "Thị trấn Cần Thạnh"
+    "ward": "Cần Thạnh"
   },
   {
     "province": "Hồ Chí Minh",
@@ -45081,48 +45081,48 @@
   },
   {
     "province": "Long An",
-    "district": "Thị Kiến Tường",
+    "district": "Kiến Tường",
     "ward": "1"
   },
   {
     "province": "Long An",
-    "district": "Thị Kiến Tường",
+    "district": "Kiến Tường",
     "ward": "2"
   },
   {
     "province": "Long An",
-    "district": "Thị Kiến Tường",
+    "district": "Kiến Tường",
     "ward": "Thạnh Trị"
   },
   {
     "province": "Long An",
-    "district": "Thị Kiến Tường",
+    "district": "Kiến Tường",
     "ward": "Bình Hiệp"
   },
   {
     "province": "Long An",
-    "district": "Thị Kiến Tường",
+    "district": "Kiến Tường",
     "ward": "Bình Tân"
   },
   {
     "province": "Long An",
-    "district": "Thị Kiến Tường",
+    "district": "Kiến Tường",
     "ward": "Tuyên Thạnh"
   },
   {
     "province": "Long An",
-    "district": "Thị Kiến Tường",
+    "district": "Kiến Tường",
     "ward": "3"
   },
   {
     "province": "Long An",
-    "district": "Thị Kiến Tường",
+    "district": "Kiến Tường",
     "ward": "Thạnh Hưng"
   },
   {
     "province": "Long An",
     "district": "Tân Hưng",
-    "ward": "Thị trấn Tân Hưng"
+    "ward": "Tân Hưng"
   },
   {
     "province": "Long An",
@@ -45182,7 +45182,7 @@
   {
     "province": "Long An",
     "district": "Vĩnh Hưng",
-    "ward": "Thị trấn Vĩnh Hưng"
+    "ward": "Vĩnh Hưng"
   },
   {
     "province": "Long An",
@@ -45252,7 +45252,7 @@
   {
     "province": "Long An",
     "district": "Mộc Hóa",
-    "ward": "Thị trấn Bình Phong Thạnh"
+    "ward": "Bình Phong Thạnh"
   },
   {
     "province": "Long An",
@@ -45267,7 +45267,7 @@
   {
     "province": "Long An",
     "district": "Tân Thạnh",
-    "ward": "Thị trấn Tân Thạnh"
+    "ward": "Tân Thạnh"
   },
   {
     "province": "Long An",
@@ -45327,7 +45327,7 @@
   {
     "province": "Long An",
     "district": "Thạnh Hóa",
-    "ward": "Thị trấn Thạnh Hóa"
+    "ward": "Thạnh Hóa"
   },
   {
     "province": "Long An",
@@ -45382,7 +45382,7 @@
   {
     "province": "Long An",
     "district": "Đức Huệ",
-    "ward": "Thị trấn Đông Thành"
+    "ward": "Đông Thành"
   },
   {
     "province": "Long An",
@@ -45437,17 +45437,17 @@
   {
     "province": "Long An",
     "district": "Đức Hòa",
-    "ward": "Thị trấn Hậu Nghĩa"
+    "ward": "Hậu Nghĩa"
   },
   {
     "province": "Long An",
     "district": "Đức Hòa",
-    "ward": "Thị trấn Hiệp Hòa"
+    "ward": "Hiệp Hòa"
   },
   {
     "province": "Long An",
     "district": "Đức Hòa",
-    "ward": "Thị trấn Đức Hòa"
+    "ward": "Đức Hòa"
   },
   {
     "province": "Long An",
@@ -45537,7 +45537,7 @@
   {
     "province": "Long An",
     "district": "Bến Lức",
-    "ward": "Thị trấn Bến Lức"
+    "ward": "Bến Lức"
   },
   {
     "province": "Long An",
@@ -45612,7 +45612,7 @@
   {
     "province": "Long An",
     "district": "Thủ Thừa",
-    "ward": "Thị trấn Thủ Thừa"
+    "ward": "Thủ Thừa"
   },
   {
     "province": "Long An",
@@ -45672,7 +45672,7 @@
   {
     "province": "Long An",
     "district": "Tân Trụ",
-    "ward": "Thị trấn Tân Trụ"
+    "ward": "Tân Trụ"
   },
   {
     "province": "Long An",
@@ -45722,7 +45722,7 @@
   {
     "province": "Long An",
     "district": "Cần Đước",
-    "ward": "Thị trấn Cần Đước"
+    "ward": "Cần Đước"
   },
   {
     "province": "Long An",
@@ -45807,7 +45807,7 @@
   {
     "province": "Long An",
     "district": "Cần Giuộc",
-    "ward": "Thị trấn Cần Giuộc"
+    "ward": "Cần Giuộc"
   },
   {
     "province": "Long An",
@@ -45882,7 +45882,7 @@
   {
     "province": "Long An",
     "district": "Châu Thành",
-    "ward": "Thị trấn Tầm Vu"
+    "ward": "Tầm Vu"
   },
   {
     "province": "Long An",
@@ -46031,92 +46031,92 @@
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "3"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "2"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "4"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "1"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "5"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "Long Hưng"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "Long Thuận"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "Long Chánh"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "Long Hòa"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "Bình Đông"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "Bình Xuân"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Gò Công",
+    "district": "Gò Công",
     "ward": "Tân Trung"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "1"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "2"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "3"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "4"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "5"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Mỹ Phước Tây"
   },
   {
@@ -46126,58 +46126,58 @@
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Mỹ Hạnh Đông"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Mỹ Hạnh Trung"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Tân Phú"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Tân Bình"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Tân Hội"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Nhị Mỹ"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Nhị Quý"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Thanh Hòa"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Phú Quý"
   },
   {
     "province": "Tiền Giang",
-    "district": "Thị Cai Lậy",
+    "district": "Cai Lậy",
     "ward": "Long Khánh"
   },
   {
     "province": "Tiền Giang",
     "district": "Tân Phước",
-    "ward": "Thị trấn Mỹ Phước"
+    "ward": "Mỹ Phước"
   },
   {
     "province": "Tiền Giang",
@@ -46237,7 +46237,7 @@
   {
     "province": "Tiền Giang",
     "district": "Cái Bè",
-    "ward": "Thị trấn Cái Bè"
+    "ward": "Cái Bè"
   },
   {
     "province": "Tiền Giang",
@@ -46442,7 +46442,7 @@
   {
     "province": "Tiền Giang",
     "district": "Châu Thành",
-    "ward": "Thị trấn Tân Hiệp"
+    "ward": "Tân Hiệp"
   },
   {
     "province": "Tiền Giang",
@@ -46552,7 +46552,7 @@
   {
     "province": "Tiền Giang",
     "district": "Chợ Gạo",
-    "ward": "Thị trấn Chợ Gạo"
+    "ward": "Chợ Gạo"
   },
   {
     "province": "Tiền Giang",
@@ -46647,7 +46647,7 @@
   {
     "province": "Tiền Giang",
     "district": "Gò Công Tây",
-    "ward": "Thị trấn Vĩnh Bình"
+    "ward": "Vĩnh Bình"
   },
   {
     "province": "Tiền Giang",
@@ -46712,7 +46712,7 @@
   {
     "province": "Tiền Giang",
     "district": "Gò Công Đông",
-    "ward": "Thị trấn Tân Hòa"
+    "ward": "Tân Hòa"
   },
   {
     "province": "Tiền Giang",
@@ -46732,7 +46732,7 @@
   {
     "province": "Tiền Giang",
     "district": "Gò Công Đông",
-    "ward": "Thị trấn Vàm Láng"
+    "ward": "Vàm Láng"
   },
   {
     "province": "Tiền Giang",
@@ -46877,7 +46877,7 @@
   {
     "province": "Bến Tre",
     "district": "Châu Thành",
-    "ward": "Thị trấn Châu Thành"
+    "ward": "Châu Thành"
   },
   {
     "province": "Bến Tre",
@@ -46982,7 +46982,7 @@
   {
     "province": "Bến Tre",
     "district": "Chợ Lách",
-    "ward": "Thị trấn Chợ Lách"
+    "ward": "Chợ Lách"
   },
   {
     "province": "Bến Tre",
@@ -47037,7 +47037,7 @@
   {
     "province": "Bến Tre",
     "district": "Mỏ Cày Nam",
-    "ward": "Thị trấn Mỏ Cày"
+    "ward": "Mỏ Cày"
   },
   {
     "province": "Bến Tre",
@@ -47117,7 +47117,7 @@
   {
     "province": "Bến Tre",
     "district": "Giồng Trôm",
-    "ward": "Thị trấn Giồng Trôm"
+    "ward": "Giồng Trôm"
   },
   {
     "province": "Bến Tre",
@@ -47222,7 +47222,7 @@
   {
     "province": "Bến Tre",
     "district": "Bình Đại",
-    "ward": "Thị trấn Bình Đại"
+    "ward": "Bình Đại"
   },
   {
     "province": "Bến Tre",
@@ -47322,7 +47322,7 @@
   {
     "province": "Bến Tre",
     "district": "Ba Tri",
-    "ward": "Thị trấn Ba Tri"
+    "ward": "Ba Tri"
   },
   {
     "province": "Bến Tre",
@@ -47437,7 +47437,7 @@
   {
     "province": "Bến Tre",
     "district": "Thạnh Phú",
-    "ward": "Thị trấn Thạnh Phú"
+    "ward": "Thạnh Phú"
   },
   {
     "province": "Bến Tre",
@@ -47642,7 +47642,7 @@
   {
     "province": "Trà Vinh",
     "district": "Càng Long",
-    "ward": "Thị trấn Càng Long"
+    "ward": "Càng Long"
   },
   {
     "province": "Trà Vinh",
@@ -47712,7 +47712,7 @@
   {
     "province": "Trà Vinh",
     "district": "Cầu Kè",
-    "ward": "Thị trấn Cầu Kè"
+    "ward": "Cầu Kè"
   },
   {
     "province": "Trà Vinh",
@@ -47767,12 +47767,12 @@
   {
     "province": "Trà Vinh",
     "district": "Tiểu Cần",
-    "ward": "Thị trấn Tiểu Cần"
+    "ward": "Tiểu Cần"
   },
   {
     "province": "Trà Vinh",
     "district": "Tiểu Cần",
-    "ward": "Thị trấn Cầu Quan"
+    "ward": "Cầu Quan"
   },
   {
     "province": "Trà Vinh",
@@ -47822,7 +47822,7 @@
   {
     "province": "Trà Vinh",
     "district": "Châu Thành",
-    "ward": "Thị trấn Châu Thành"
+    "ward": "Châu Thành"
   },
   {
     "province": "Trà Vinh",
@@ -47892,12 +47892,12 @@
   {
     "province": "Trà Vinh",
     "district": "Cầu Ngang",
-    "ward": "Thị trấn Cầu Ngang"
+    "ward": "Cầu Ngang"
   },
   {
     "province": "Trà Vinh",
     "district": "Cầu Ngang",
-    "ward": "Thị trấn Mỹ Long"
+    "ward": "Mỹ Long"
   },
   {
     "province": "Trà Vinh",
@@ -47967,12 +47967,12 @@
   {
     "province": "Trà Vinh",
     "district": "Trà Cú",
-    "ward": "Thị trấn Trà Cú"
+    "ward": "Trà Cú"
   },
   {
     "province": "Trà Vinh",
     "district": "Trà Cú",
-    "ward": "Thị trấn Định An"
+    "ward": "Định An"
   },
   {
     "province": "Trà Vinh",
@@ -48062,7 +48062,7 @@
   {
     "province": "Trà Vinh",
     "district": "Duyên Hải",
-    "ward": "Thị trấn Long Thành"
+    "ward": "Long Thành"
   },
   {
     "province": "Trà Vinh",
@@ -48086,37 +48086,37 @@
   },
   {
     "province": "Trà Vinh",
-    "district": "Thị Duyên Hải",
+    "district": "Duyên Hải",
     "ward": "1"
   },
   {
     "province": "Trà Vinh",
-    "district": "Thị Duyên Hải",
+    "district": "Duyên Hải",
     "ward": "Long Toàn"
   },
   {
     "province": "Trà Vinh",
-    "district": "Thị Duyên Hải",
+    "district": "Duyên Hải",
     "ward": "2"
   },
   {
     "province": "Trà Vinh",
-    "district": "Thị Duyên Hải",
+    "district": "Duyên Hải",
     "ward": "Long Hữu"
   },
   {
     "province": "Trà Vinh",
-    "district": "Thị Duyên Hải",
+    "district": "Duyên Hải",
     "ward": "Dân Thành"
   },
   {
     "province": "Trà Vinh",
-    "district": "Thị Duyên Hải",
+    "district": "Duyên Hải",
     "ward": "Trường Long Hòa"
   },
   {
     "province": "Trà Vinh",
-    "district": "Thị Duyên Hải",
+    "district": "Duyên Hải",
     "ward": "Hiệp Thạnh"
   },
   {
@@ -48177,7 +48177,7 @@
   {
     "province": "Vĩnh Long",
     "district": "Long Hồ",
-    "ward": "Thị trấn Long Hồ"
+    "ward": "Long Hồ"
   },
   {
     "province": "Vĩnh Long",
@@ -48282,7 +48282,7 @@
   {
     "province": "Vĩnh Long",
     "district": "Mang Thít",
-    "ward": "Thị trấn Cái Nhum"
+    "ward": "Cái Nhum"
   },
   {
     "province": "Vĩnh Long",
@@ -48312,7 +48312,7 @@
   {
     "province": "Vĩnh Long",
     "district": " Vũng Liêm",
-    "ward": "Thị trấn Vũng Liêm"
+    "ward": "Vũng Liêm"
   },
   {
     "province": "Vĩnh Long",
@@ -48412,7 +48412,7 @@
   {
     "province": "Vĩnh Long",
     "district": "Tam Bình",
-    "ward": "Thị trấn Tam Bình"
+    "ward": "Tam Bình"
   },
   {
     "province": "Vĩnh Long",
@@ -48496,48 +48496,48 @@
   },
   {
     "province": "Vĩnh Long",
-    "district": "Thị Bình Minh",
+    "district": "Bình Minh",
     "ward": "Cái Vồn"
   },
   {
     "province": "Vĩnh Long",
-    "district": "Thị Bình Minh",
+    "district": "Bình Minh",
     "ward": "Thành Phước"
   },
   {
     "province": "Vĩnh Long",
-    "district": "Thị Bình Minh",
+    "district": "Bình Minh",
     "ward": "Thuận An"
   },
   {
     "province": "Vĩnh Long",
-    "district": "Thị Bình Minh",
+    "district": "Bình Minh",
     "ward": "Đông Thạnh"
   },
   {
     "province": "Vĩnh Long",
-    "district": "Thị Bình Minh",
+    "district": "Bình Minh",
     "ward": "Đông Bình"
   },
   {
     "province": "Vĩnh Long",
-    "district": "Thị Bình Minh",
+    "district": "Bình Minh",
     "ward": "Đông Thuận"
   },
   {
     "province": "Vĩnh Long",
-    "district": "Thị Bình Minh",
+    "district": "Bình Minh",
     "ward": "Mỹ Hòa"
   },
   {
     "province": "Vĩnh Long",
-    "district": "Thị Bình Minh",
+    "district": "Bình Minh",
     "ward": "Đông Thành"
   },
   {
     "province": "Vĩnh Long",
     "district": "Trà Ôn",
-    "ward": "Thị trấn Trà Ôn"
+    "ward": "Trà Ôn"
   },
   {
     "province": "Vĩnh Long",
@@ -48652,7 +48652,7 @@
   {
     "province": "Vĩnh Long",
     "district": "Bình Tân",
-    "ward": "Thị trấn Tân Quới"
+    "ward": "Tân Quới"
   },
   {
     "province": "Đồng Tháp",
@@ -48812,7 +48812,7 @@
   {
     "province": "Đồng Tháp",
     "district": "Tân Hồng",
-    "ward": "Thị trấn Sa Rài"
+    "ward": "Sa Rài"
   },
   {
     "province": "Đồng Tháp",
@@ -48867,7 +48867,7 @@
   {
     "province": "Đồng Tháp",
     "district": "Hồng Ngự",
-    "ward": "Thị trấn Thường Thới Tiền"
+    "ward": "Thường Thới Tiền"
   },
   {
     "province": "Đồng Tháp",
@@ -48907,7 +48907,7 @@
   {
     "province": "Đồng Tháp",
     "district": "Tam Nông",
-    "ward": "Thị trấn Tràm Chim"
+    "ward": "Tràm Chim"
   },
   {
     "province": "Đồng Tháp",
@@ -48967,7 +48967,7 @@
   {
     "province": "Đồng Tháp",
     "district": "Tháp Mười",
-    "ward": "Thị trấn Mỹ An"
+    "ward": "Mỹ An"
   },
   {
     "province": "Đồng Tháp",
@@ -49032,7 +49032,7 @@
   {
     "province": "Đồng Tháp",
     "district": "Cao Lãnh",
-    "ward": "Thị trấn Mỹ Thọ"
+    "ward": "Mỹ Thọ"
   },
   {
     "province": "Đồng Tháp",
@@ -49122,7 +49122,7 @@
   {
     "province": "Đồng Tháp",
     "district": "Thanh Bình",
-    "ward": "Thị trấn Thanh Bình"
+    "ward": "Thanh Bình"
   },
   {
     "province": "Đồng Tháp",
@@ -49187,7 +49187,7 @@
   {
     "province": "Đồng Tháp",
     "district": "Lấp Vò",
-    "ward": "Thị trấn Lấp Vò"
+    "ward": "Lấp Vò"
   },
   {
     "province": "Đồng Tháp",
@@ -49252,7 +49252,7 @@
   {
     "province": "Đồng Tháp",
     "district": "Lai Vung",
-    "ward": "Thị trấn Lai Vung"
+    "ward": "Lai Vung"
   },
   {
     "province": "Đồng Tháp",
@@ -49312,7 +49312,7 @@
   {
     "province": "Đồng Tháp",
     "district": "Châu Thành",
-    "ward": "Thị trấn Cái Tàu Hạ"
+    "ward": "Cái Tàu Hạ"
   },
   {
     "province": "Đồng Tháp",
@@ -49472,7 +49472,7 @@
   {
     "province": "An Giang",
     "district": "An Phú",
-    "ward": "Thị trấn An Phú"
+    "ward": "An Phú"
   },
   {
     "province": "An Giang",
@@ -49482,7 +49482,7 @@
   {
     "province": "An Giang",
     "district": "An Phú",
-    "ward": "Thị Trấn Long Bình"
+    "ward": "Long Bình"
   },
   {
     "province": "An Giang",
@@ -49541,83 +49541,83 @@
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Long Thạnh"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Long Hưng"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Long Châu"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Phú Lộc"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Vĩnh Xương"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Vĩnh Hòa"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Tân Thạnh"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Tân An"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Long An"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Long Phú"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Châu Phong"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Phú Vĩnh"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Lê Chánh"
   },
   {
     "province": "An Giang",
-    "district": "Thị Tân Châu",
+    "district": "Tân Châu",
     "ward": "Long Sơn"
   },
   {
     "province": "An Giang",
     "district": "Phú Tân",
-    "ward": "Thị trấn Phú Mỹ"
+    "ward": "Phú Mỹ"
   },
   {
     "province": "An Giang",
     "district": "Phú Tân",
-    "ward": "Thị trấn Chợ Vàm"
+    "ward": "Chợ Vàm"
   },
   {
     "province": "An Giang",
@@ -49702,7 +49702,7 @@
   {
     "province": "An Giang",
     "district": "Châu Phú",
-    "ward": "Thị trấn Cái Dầu"
+    "ward": "Cái Dầu"
   },
   {
     "province": "An Giang",
@@ -49727,7 +49727,7 @@
   {
     "province": "An Giang",
     "district": "Châu Phú",
-    "ward": "Thị trấn Vĩnh Thạnh Trung"
+    "ward": "Vĩnh Thạnh Trung"
   },
   {
     "province": "An Giang",
@@ -49767,12 +49767,12 @@
   {
     "province": "An Giang",
     "district": "Tịnh Biên",
-    "ward": "Thị trấn Nhà Bàng"
+    "ward": "Nhà Bàng"
   },
   {
     "province": "An Giang",
     "district": "Tịnh Biên",
-    "ward": "Thị trấn Chi Lăng"
+    "ward": "Chi Lăng"
   },
   {
     "province": "An Giang",
@@ -49797,7 +49797,7 @@
   {
     "province": "An Giang",
     "district": "Tịnh Biên",
-    "ward": "Thị trấn Tịnh Biên"
+    "ward": "Tịnh Biên"
   },
   {
     "province": "An Giang",
@@ -49837,12 +49837,12 @@
   {
     "province": "An Giang",
     "district": "Tri Tôn",
-    "ward": "Thị trấn Tri Tôn"
+    "ward": "Tri Tôn"
   },
   {
     "province": "An Giang",
     "district": "Tri Tôn",
-    "ward": "Thị trấn Ba Chúc"
+    "ward": "Ba Chúc"
   },
   {
     "province": "An Giang",
@@ -49897,7 +49897,7 @@
   {
     "province": "An Giang",
     "district": "Tri Tôn",
-    "ward": "Thị trấn Cô Tô"
+    "ward": "Cô Tô"
   },
   {
     "province": "An Giang",
@@ -49912,7 +49912,7 @@
   {
     "province": "An Giang",
     "district": "Châu Thành",
-    "ward": "Thị trấn An Châu"
+    "ward": "An Châu"
   },
   {
     "province": "An Giang",
@@ -49937,7 +49937,7 @@
   {
     "province": "An Giang",
     "district": "Châu Thành",
-    "ward": "Thị trấn Vĩnh Bình"
+    "ward": "Vĩnh Bình"
   },
   {
     "province": "An Giang",
@@ -49977,12 +49977,12 @@
   {
     "province": "An Giang",
     "district": "Chợ Mới",
-    "ward": "Thị trấn Chợ Mới"
+    "ward": "Chợ Mới"
   },
   {
     "province": "An Giang",
     "district": "Chợ Mới",
-    "ward": "Thị trấn Mỹ Luông"
+    "ward": "Mỹ Luông"
   },
   {
     "province": "An Giang",
@@ -50067,17 +50067,17 @@
   {
     "province": "An Giang",
     "district": "Thoại Sơn",
-    "ward": "Thị trấn Núi Sập"
+    "ward": "Núi Sập"
   },
   {
     "province": "An Giang",
     "district": "Thoại Sơn",
-    "ward": "Thị trấn Phú Hoà"
+    "ward": "Phú Hoà"
   },
   {
     "province": "An Giang",
     "district": "Thoại Sơn",
-    "ward": "Thị Trấn Óc Eo"
+    "ward": "Óc Eo"
   },
   {
     "province": "An Giang",
@@ -50247,7 +50247,7 @@
   {
     "province": "Kiên Giang",
     "district": "Kiên Lương",
-    "ward": "Thị trấn Kiên Lương"
+    "ward": "Kiên Lương"
   },
   {
     "province": "Kiên Giang",
@@ -50287,12 +50287,12 @@
   {
     "province": "Kiên Giang",
     "district": "Hòn Đất",
-    "ward": "Thị trấn Hòn Đất"
+    "ward": "Hòn Đất"
   },
   {
     "province": "Kiên Giang",
     "district": "Hòn Đất",
-    "ward": "Thị trấn Sóc Sơn"
+    "ward": "Sóc Sơn"
   },
   {
     "province": "Kiên Giang",
@@ -50357,7 +50357,7 @@
   {
     "province": "Kiên Giang",
     "district": "Tân Hiệp",
-    "ward": "Thị trấn Tân Hiệp"
+    "ward": "Tân Hiệp"
   },
   {
     "province": "Kiên Giang",
@@ -50412,7 +50412,7 @@
   {
     "province": "Kiên Giang",
     "district": "Châu Thành",
-    "ward": "Thị trấn Minh Lương"
+    "ward": "Minh Lương"
   },
   {
     "province": "Kiên Giang",
@@ -50462,7 +50462,7 @@
   {
     "province": "Kiên Giang",
     "district": "Giồng Riềng",
-    "ward": "Thị Trấn Giồng Riềng"
+    "ward": "Giồng Riềng"
   },
   {
     "province": "Kiên Giang",
@@ -50557,7 +50557,7 @@
   {
     "province": "Kiên Giang",
     "district": "Gò Quao",
-    "ward": "Thị trấn Gò Quao"
+    "ward": "Gò Quao"
   },
   {
     "province": "Kiên Giang",
@@ -50612,7 +50612,7 @@
   {
     "province": "Kiên Giang",
     "district": "An Biên",
-    "ward": "Thị trấn Thứ Ba"
+    "ward": "Thứ Ba"
   },
   {
     "province": "Kiên Giang",
@@ -50657,7 +50657,7 @@
   {
     "province": "Kiên Giang",
     "district": "An Minh",
-    "ward": "Thị trấn Thứ Mười Một"
+    "ward": "Thứ Mười Một"
   },
   {
     "province": "Kiên Giang",
@@ -50712,7 +50712,7 @@
   {
     "province": "Kiên Giang",
     "district": "Vĩnh Thuận",
-    "ward": "Thị trấn Vĩnh Thuận"
+    "ward": "Vĩnh Thuận"
   },
   {
     "province": "Kiên Giang",
@@ -51082,12 +51082,12 @@
   {
     "province": "Cần Thơ",
     "district": "Vĩnh Thạnh",
-    "ward": "Thị trấn Thanh An"
+    "ward": "Thanh An"
   },
   {
     "province": "Cần Thơ",
     "district": "Vĩnh Thạnh",
-    "ward": "Thị trấn Vĩnh Thạnh"
+    "ward": "Vĩnh Thạnh"
   },
   {
     "province": "Cần Thơ",
@@ -51152,7 +51152,7 @@
   {
     "province": "Cần Thơ",
     "district": "Cờ Đỏ",
-    "ward": "Thị trấn Cờ Đỏ"
+    "ward": "Cờ Đỏ"
   },
   {
     "province": "Cần Thơ",
@@ -51182,7 +51182,7 @@
   {
     "province": "Cần Thơ",
     "district": "Phong Điền",
-    "ward": "Thị trấn Phong Điền"
+    "ward": "Phong Điền"
   },
   {
     "province": "Cần Thơ",
@@ -51217,7 +51217,7 @@
   {
     "province": "Cần Thơ",
     "district": "Thới Lai",
-    "ward": "Thị trấn Thới Lai"
+    "ward": "Thới Lai"
   },
   {
     "province": "Cần Thơ",
@@ -51357,7 +51357,7 @@
   {
     "province": "Hậu Giang",
     "district": "Châu Thành A",
-    "ward": "Thị trấn Một Ngàn"
+    "ward": "Một Ngàn"
   },
   {
     "province": "Hậu Giang",
@@ -51367,7 +51367,7 @@
   {
     "province": "Hậu Giang",
     "district": "Châu Thành A",
-    "ward": "Thị trấn Bảy Ngàn"
+    "ward": "Bảy Ngàn"
   },
   {
     "province": "Hậu Giang",
@@ -51387,7 +51387,7 @@
   {
     "province": "Hậu Giang",
     "district": "Châu Thành A",
-    "ward": "Thị trấn Rạch Gòi"
+    "ward": "Rạch Gòi"
   },
   {
     "province": "Hậu Giang",
@@ -51397,7 +51397,7 @@
   {
     "province": "Hậu Giang",
     "district": "Châu Thành A",
-    "ward": "Thị trấn Cái Tắc"
+    "ward": "Cái Tắc"
   },
   {
     "province": "Hậu Giang",
@@ -51407,7 +51407,7 @@
   {
     "province": "Hậu Giang",
     "district": "Châu Thành",
-    "ward": "Thị Trấn Ngã Sáu"
+    "ward": "Ngã Sáu"
   },
   {
     "province": "Hậu Giang",
@@ -51432,7 +51432,7 @@
   {
     "province": "Hậu Giang",
     "district": "Châu Thành",
-    "ward": "Thị trấn Mái Dầm"
+    "ward": "Mái Dầm"
   },
   {
     "province": "Hậu Giang",
@@ -51447,12 +51447,12 @@
   {
     "province": "Hậu Giang",
     "district": "Phụng Hiệp",
-    "ward": "Thị trấn Kinh Cùng"
+    "ward": "Kinh Cùng"
   },
   {
     "province": "Hậu Giang",
     "district": "Phụng Hiệp",
-    "ward": "Thị trấn Cây Dương"
+    "ward": "Cây Dương"
   },
   {
     "province": "Hậu Giang",
@@ -51507,7 +51507,7 @@
   {
     "province": "Hậu Giang",
     "district": "Phụng Hiệp",
-    "ward": "Thị trấn Búng Tàu"
+    "ward": "Búng Tàu"
   },
   {
     "province": "Hậu Giang",
@@ -51522,7 +51522,7 @@
   {
     "province": "Hậu Giang",
     "district": "Vị Thuỷ",
-    "ward": "Thị trấn Nàng Mau"
+    "ward": "Nàng Mau"
   },
   {
     "province": "Hậu Giang",
@@ -51587,7 +51587,7 @@
   {
     "province": "Hậu Giang",
     "district": "Long Mỹ",
-    "ward": "Thị trấn Vĩnh Viễn"
+    "ward": "Vĩnh Viễn"
   },
   {
     "province": "Hậu Giang",
@@ -51611,47 +51611,47 @@
   },
   {
     "province": "Hậu Giang",
-    "district": "Thị Long Mỹ",
+    "district": "Long Mỹ",
     "ward": "Thuận An"
   },
   {
     "province": "Hậu Giang",
-    "district": "Thị Long Mỹ",
+    "district": "Long Mỹ",
     "ward": "Trà Lồng"
   },
   {
     "province": "Hậu Giang",
-    "district": "Thị Long Mỹ",
+    "district": "Long Mỹ",
     "ward": "Bình Thạnh"
   },
   {
     "province": "Hậu Giang",
-    "district": "Thị Long Mỹ",
+    "district": "Long Mỹ",
     "ward": "Long Bình"
   },
   {
     "province": "Hậu Giang",
-    "district": "Thị Long Mỹ",
+    "district": "Long Mỹ",
     "ward": "Vĩnh Tường"
   },
   {
     "province": "Hậu Giang",
-    "district": "Thị Long Mỹ",
+    "district": "Long Mỹ",
     "ward": "Long Trị"
   },
   {
     "province": "Hậu Giang",
-    "district": "Thị Long Mỹ",
+    "district": "Long Mỹ",
     "ward": "Long Trị A"
   },
   {
     "province": "Hậu Giang",
-    "district": "Thị Long Mỹ",
+    "district": "Long Mỹ",
     "ward": "Long Phú"
   },
   {
     "province": "Hậu Giang",
-    "district": "Thị Long Mỹ",
+    "district": "Long Mỹ",
     "ward": "Tân Phú"
   },
   {
@@ -51707,7 +51707,7 @@
   {
     "province": "Sóc Trăng",
     "district": "Châu Thành",
-    "ward": "Thị trấn Châu Thành"
+    "ward": "Châu Thành"
   },
   {
     "province": "Sóc Trăng",
@@ -51747,12 +51747,12 @@
   {
     "province": "Sóc Trăng",
     "district": "Kế Sách",
-    "ward": "Thị trấn Kế Sách"
+    "ward": "Kế Sách"
   },
   {
     "province": "Sóc Trăng",
     "district": "Kế Sách",
-    "ward": "Thị trấn An Lạc Thôn"
+    "ward": "An Lạc Thôn"
   },
   {
     "province": "Sóc Trăng",
@@ -51812,7 +51812,7 @@
   {
     "province": "Sóc Trăng",
     "district": "Mỹ Tú",
-    "ward": "Thị trấn Huỳnh Hữu Nghĩa"
+    "ward": "Huỳnh Hữu Nghĩa"
   },
   {
     "province": "Sóc Trăng",
@@ -51857,7 +51857,7 @@
   {
     "province": "Sóc Trăng",
     "district": "Cù Lao Dung",
-    "ward": "Thị trấn Cù Lao Dung"
+    "ward": "Cù Lao Dung"
   },
   {
     "province": "Sóc Trăng",
@@ -51897,7 +51897,7 @@
   {
     "province": "Sóc Trăng",
     "district": "Long Phú",
-    "ward": "Thị trấn Long Phú"
+    "ward": "Long Phú"
   },
   {
     "province": "Sóc Trăng",
@@ -51907,7 +51907,7 @@
   {
     "province": "Sóc Trăng",
     "district": "Long Phú",
-    "ward": "Thị trấn Đại Ngãi"
+    "ward": "Đại Ngãi"
   },
   {
     "province": "Sóc Trăng",
@@ -51952,7 +51952,7 @@
   {
     "province": "Sóc Trăng",
     "district": "Mỹ Xuyên",
-    "ward": "Thị trấn Mỹ Xuyên"
+    "ward": "Mỹ Xuyên"
   },
   {
     "province": "Sóc Trăng",
@@ -52006,53 +52006,53 @@
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Ngã Năm",
+    "district": "Ngã Năm",
     "ward": "1"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Ngã Năm",
+    "district": "Ngã Năm",
     "ward": "2"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Ngã Năm",
+    "district": "Ngã Năm",
     "ward": "Vĩnh Quới"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Ngã Năm",
+    "district": "Ngã Năm",
     "ward": "Tân Long"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Ngã Năm",
+    "district": "Ngã Năm",
     "ward": "Long Bình"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Ngã Năm",
+    "district": "Ngã Năm",
     "ward": "3"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Ngã Năm",
+    "district": "Ngã Năm",
     "ward": "Mỹ Bình"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Ngã Năm",
+    "district": "Ngã Năm",
     "ward": "Mỹ Quới"
   },
   {
     "province": "Sóc Trăng",
     "district": "Thạnh Trị",
-    "ward": "Thị trấn Phú Lộc"
+    "ward": "Phú Lộc"
   },
   {
     "province": "Sóc Trăng",
     "district": "Thạnh Trị",
-    "ward": "Thị trấn Hưng Lợi"
+    "ward": "Hưng Lợi"
   },
   {
     "province": "Sóc Trăng",
@@ -52096,52 +52096,52 @@
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Vĩnh Châu",
+    "district": "Vĩnh Châu",
     "ward": "1"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Vĩnh Châu",
+    "district": "Vĩnh Châu",
     "ward": "Hòa Đông"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Vĩnh Châu",
+    "district": "Vĩnh Châu",
     "ward": "Khánh Hòa"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Vĩnh Châu",
+    "district": "Vĩnh Châu",
     "ward": "Vĩnh Hiệp"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Vĩnh Châu",
+    "district": "Vĩnh Châu",
     "ward": "Vĩnh Hải"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Vĩnh Châu",
+    "district": "Vĩnh Châu",
     "ward": "Lạc Hòa"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Vĩnh Châu",
+    "district": "Vĩnh Châu",
     "ward": "2"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Vĩnh Châu",
+    "district": "Vĩnh Châu",
     "ward": "Vĩnh Phước"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Vĩnh Châu",
+    "district": "Vĩnh Châu",
     "ward": "Vĩnh Tân"
   },
   {
     "province": "Sóc Trăng",
-    "district": "Thị Vĩnh Châu",
+    "district": "Vĩnh Châu",
     "ward": "Lai Hòa"
   },
   {
@@ -52152,7 +52152,7 @@
   {
     "province": "Sóc Trăng",
     "district": "Trần Đề",
-    "ward": "Thị trấn Trần Đề"
+    "ward": "Trần Đề"
   },
   {
     "province": "Sóc Trăng",
@@ -52167,7 +52167,7 @@
   {
     "province": "Sóc Trăng",
     "district": "Trần Đề",
-    "ward": "Thị trấn Lịch Hội Thượng"
+    "ward": "Lịch Hội Thượng"
   },
   {
     "province": "Sóc Trăng",
@@ -52252,7 +52252,7 @@
   {
     "province": "Bạc Liêu",
     "district": "Hồng Dân",
-    "ward": "Thị trấn Ngan Dừa"
+    "ward": "Ngan Dừa"
   },
   {
     "province": "Bạc Liêu",
@@ -52297,7 +52297,7 @@
   {
     "province": "Bạc Liêu",
     "district": "Phước Long",
-    "ward": "Thị trấn Phước Long"
+    "ward": "Phước Long"
   },
   {
     "province": "Bạc Liêu",
@@ -52347,7 +52347,7 @@
   {
     "province": "Bạc Liêu",
     "district": "Vĩnh Lợi",
-    "ward": "Thị trấn Châu Hưng"
+    "ward": "Châu Hưng"
   },
   {
     "province": "Bạc Liêu",
@@ -52376,58 +52376,58 @@
   },
   {
     "province": "Bạc Liêu",
-    "district": "Thị Giá Rai",
+    "district": "Giá Rai",
     "ward": "1"
   },
   {
     "province": "Bạc Liêu",
-    "district": "Thị Giá Rai",
+    "district": "Giá Rai",
     "ward": "Hộ Phòng"
   },
   {
     "province": "Bạc Liêu",
-    "district": "Thị Giá Rai",
+    "district": "Giá Rai",
     "ward": "Phong Thạnh Đông"
   },
   {
     "province": "Bạc Liêu",
-    "district": "Thị Giá Rai",
+    "district": "Giá Rai",
     "ward": "Láng Tròn"
   },
   {
     "province": "Bạc Liêu",
-    "district": "Thị Giá Rai",
+    "district": "Giá Rai",
     "ward": "Phong Tân"
   },
   {
     "province": "Bạc Liêu",
-    "district": "Thị Giá Rai",
+    "district": "Giá Rai",
     "ward": "Tân Phong"
   },
   {
     "province": "Bạc Liêu",
-    "district": "Thị Giá Rai",
+    "district": "Giá Rai",
     "ward": "Phong Thạnh"
   },
   {
     "province": "Bạc Liêu",
-    "district": "Thị Giá Rai",
+    "district": "Giá Rai",
     "ward": "Phong Thạnh A"
   },
   {
     "province": "Bạc Liêu",
-    "district": "Thị Giá Rai",
+    "district": "Giá Rai",
     "ward": "Phong Thạnh Tây"
   },
   {
     "province": "Bạc Liêu",
-    "district": "Thị Giá Rai",
+    "district": "Giá Rai",
     "ward": "Tân Thạnh"
   },
   {
     "province": "Bạc Liêu",
     "district": "Đông Hải",
-    "ward": "Thị trấn Gành Hào"
+    "ward": "Gành Hào"
   },
   {
     "province": "Bạc Liêu",
@@ -52482,7 +52482,7 @@
   {
     "province": "Bạc Liêu",
     "district": "Hoà Bình",
-    "ward": "Thị trấn Hòa Bình"
+    "ward": "Hòa Bình"
   },
   {
     "province": "Bạc Liêu",
@@ -52607,7 +52607,7 @@
   {
     "province": "Cà Mau",
     "district": "U Minh",
-    "ward": "Thị trấn U Minh"
+    "ward": "U Minh"
   },
   {
     "province": "Cà Mau",
@@ -52647,7 +52647,7 @@
   {
     "province": "Cà Mau",
     "district": "Thới Bình",
-    "ward": "Thị trấn Thới Bình"
+    "ward": "Thới Bình"
   },
   {
     "province": "Cà Mau",
@@ -52702,17 +52702,17 @@
   {
     "province": "Cà Mau",
     "district": "Thới Bình",
-    "ward": "Hồ Thị Kỷ"
+    "ward": "Hồ Kỷ"
   },
   {
     "province": "Cà Mau",
     "district": "Trần Văn Thời",
-    "ward": "Thị trấn Trần Văn Thời"
+    "ward": "Trần Văn Thời"
   },
   {
     "province": "Cà Mau",
     "district": "Trần Văn Thời",
-    "ward": "Thị trấn Sông Đốc"
+    "ward": "Sông Đốc"
   },
   {
     "province": "Cà Mau",
@@ -52772,7 +52772,7 @@
   {
     "province": "Cà Mau",
     "district": "Cái Nước",
-    "ward": "Thị trấn Cái Nước"
+    "ward": "Cái Nước"
   },
   {
     "province": "Cà Mau",
@@ -52827,7 +52827,7 @@
   {
     "province": "Cà Mau",
     "district": "Đầm Dơi",
-    "ward": "Thị trấn Đầm Dơi"
+    "ward": "Đầm Dơi"
   },
   {
     "province": "Cà Mau",
@@ -52907,7 +52907,7 @@
   {
     "province": "Cà Mau",
     "district": "Năm Căn",
-    "ward": "Thị Trấn Năm Căn"
+    "ward": "Năm Căn"
   },
   {
     "province": "Cà Mau",
@@ -52947,7 +52947,7 @@
   {
     "province": "Cà Mau",
     "district": "Phú Tân",
-    "ward": "Thị trấn Cái Đôi Vàm"
+    "ward": "Cái Đôi Vàm"
   },
   {
     "province": "Cà Mau",
@@ -53012,7 +53012,7 @@
   {
     "province": "Cà Mau",
     "district": "Ngọc Hiển",
-    "ward": "Thị trấn Rạch Gốc"
+    "ward": "Rạch Gốc"
   },
   {
     "province": "Cà Mau",

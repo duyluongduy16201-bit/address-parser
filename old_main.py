@@ -3,6 +3,7 @@ from dataclasses import dataclass
 from typing import Dict, List, Tuple, Optional, Set
 import unicodedata, re, time
 import address_data_json_based as address_data
+import json
 
 # -----------------------------
 # Normalization (VN-friendly)
@@ -11,9 +12,9 @@ _DESIGNATOR_TOKENS = {
     # province / city
     "tinh", "thanh", "pho", "thanhpho", "tp", "t p", "t p",
     # district-level
-    "quan", "q", "huyen", "h", "thi", "thi_xa", "thixa", "thi xa", "tx", "t x",
+    "quan", "q", "huyen", "h", "thi", "thi_xa", "thixa", "thi xa", "tx", "t_x",
     # ward-level
-    "phuong", "p", "xa", "x", "thi tran", "thitran", "tt"
+    "phuong", "p", "xa", "x", "thi_tran", "thitran", "tt"
 }
 
 def normalize(s: str) -> str:
@@ -232,16 +233,34 @@ class Match:
     score: float
     pieces: Dict[str, Tuple[str, int, float]]  # level -> (name, dist_proxy, dice)
 
-def combined_score(dist_len_pairs: List[Tuple[int, int]], weights: List[float]) -> float:
+def combined_score(dist_len_pairs: List[Tuple[int, int]], weights: List[int],
+                   query_norm: str, candidate_norm: str,
+                   alpha: float = 0.2) -> float:
     """
-    Lower is better. Each component is (dist_proxy / (len + 1)) weighted.
-    dist_proxy comes from partial_ratio, so it scales with candidate length.
+    Tính score cho một candidate.
+    - dist_len_pairs: danh sách (dist_proxy, len_entity)
+    - weights: trọng số cho mỗi cấp (tỉnh/huyện/xã)
+    - query_norm, candidate_norm: chuỗi đã normalize
+    - alpha: trọng số phạt cho coverage penalty
     """
-    num = 0.0
-    den = max(1e-9, sum(weights))
+    num = 0
+    den = 0
     for (dist_proxy, L), w in zip(dist_len_pairs, weights):
         num += w * (dist_proxy / (L + 1))
-    return num / den
+        den += w
+    base_score = num / den if den > 0 else 1.0
+
+    # penalty theo coverage
+    penalty = coverage_penalty(query_norm, candidate_norm)
+
+    return base_score + alpha * penalty
+
+def coverage_penalty(query_norm: str, candidate_norm: str) -> float:
+    q_tokens = set(query_norm.split())
+    c_tokens = set(candidate_norm.split())
+    miss = len(q_tokens - c_tokens)
+    return miss / (len(q_tokens) + 1)
+
 
 def search_address(
     query: str,
@@ -255,11 +274,13 @@ def search_address(
     """
     results: List[Match] = []
 
+    # normalize query một lần (chắc bạn đã có normalize() ở ngoài)
+    query_norm = normalize(query)
+
     # Step 1: Province candidates
     P = province_idx.query(query, k=topP, dice_min=0.20, max_dist=3, pr_min=55.0)
-
     if not P:
-        P = []  # still try district-first
+        P = []  # vẫn thử district-first
 
     for sidP, pname, pdist, pdice in P:
         prov = province_idx.entries[sidP]
@@ -275,7 +296,12 @@ def search_address(
         )
 
         if not D:
-            score = combined_score([(pdist, len(prov.norm))], weights=[1.0])
+            score = combined_score(
+                [(pdist, len(prov.norm))],
+                weights=[1.0],
+                query_norm=query_norm,
+                candidate_norm=prov.norm
+            )
             results.append(Match(pid, None, None, score, pieces={
                 "province": (pname, pdist, pdice)
             }))
@@ -297,7 +323,9 @@ def search_address(
             if not W:
                 score = combined_score(
                     [(pdist, len(prov.norm)), (ddist, len(dist_e.norm))],
-                    weights=[0.5, 0.5]
+                    weights=[0.5, 0.5],
+                    query_norm=query_norm,
+                    candidate_norm=f"{prov.norm} {dist_e.norm}"
                 )
                 results.append(Match(pid, did, None, score, pieces={
                     "province": (pname, pdist, pdice),
@@ -313,7 +341,9 @@ def search_address(
                         (ddist, len(dist_e.norm)),
                         (wdist, len(ward_e.norm))
                     ],
-                    weights=[0.4, 0.35, 0.25]
+                    weights=[0.4, 0.35, 0.25],
+                    query_norm=query_norm,
+                    candidate_norm=f"{prov.norm} {dist_e.norm} {ward_e.norm}"
                 )
                 results.append(Match(pid, did, ward_e.meta["ward_id"], score, pieces={
                     "province": (pname, pdist, pdice),
@@ -321,7 +351,7 @@ def search_address(
                     "ward":     (wname, wdist, wdice),
                 }))
 
-    # District-first start (helps when query mostly names a district/ward)
+    # District-first start (khi query chủ yếu là tên huyện/xã)
     if not results:
         D = district_idx.query(query, k=topD_per_P, dice_min=0.18, max_dist=3, pr_min=55.0)
         for sidD, dname, ddist, ddice in D:
@@ -337,7 +367,12 @@ def search_address(
                 allowed_parent_ids={did},
             )
             if not W:
-                score = combined_score([(ddist, len(dist_e.norm))], weights=[1.0])
+                score = combined_score(
+                    [(ddist, len(dist_e.norm))],
+                    weights=[1.0],
+                    query_norm=query_norm,
+                    candidate_norm=dist_e.norm
+                )
                 results.append(Match(pid, did, None, score, pieces={
                     "district": (dname, ddist, ddice)
                 }))
@@ -346,7 +381,9 @@ def search_address(
                     ward_e = ward_idx.entries[sidW]
                     score = combined_score(
                         [(ddist, len(dist_e.norm)), (wdist, len(ward_e.norm))],
-                        weights=[0.6, 0.4]
+                        weights=[0.6, 0.4],
+                        query_norm=query_norm,
+                        candidate_norm=f"{dist_e.norm} {ward_e.norm}"
                     )
                     results.append(Match(pid, did, ward_e.meta["ward_id"], score, pieces={
                         "district": (dname, ddist, ddice),
@@ -356,32 +393,90 @@ def search_address(
     def completeness(m: Match) -> int:
         return int(m.province_id is not None) + int(m.district_id is not None) + int(m.ward_id is not None)
 
+    # Ưu tiên: đủ cấp (prov+dist+ward) > score thấp > tie-break bằng repr
     results.sort(key=lambda m: (-completeness(m), m.score, repr(m.pieces)))
     return results[:10]
+
 
 # ------------------------------------------
 # Demo
 # ------------------------------------------
+# if __name__ == "__main__":
+#     tests = [
+#         "P Thủy Châu,T.X. hươngThủy,Thừa.t.Huế"
+#     ]
+#     for q in tests:
+#         #print(f"\nQuery: {q}")
+#         rs = search_address(q)
+#         print(f"\nQuery: {q} => {len(rs)} results")
+#         if not rs:
+#             print("  (no results)")
+#             continue
+#         for m in rs[:1]:
+#             def safe_name(piece): return piece[0] if piece else None
+#             p = safe_name(m.pieces.get("province"))
+#             d = safe_name(m.pieces.get("district"))
+#             w = safe_name(m.pieces.get("ward"))
+#             t0 = time.perf_counter()
+#             print(f"  -> score={m.score:.4f} | Province={p} | District={d} | Ward={w}")
+#             t1 = time.perf_counter()
+#             print(f"     Time taken: {t1 - t0:.6f}s")
+
+
 if __name__ == "__main__":
-    tests = [
-        "TT Tân Bình Huyện Yên Sơn, Tuyên Quang",
-        "357/28,Ng-T- Thuật,P1,Q3,TP.HồChíMinh.",
-        "284DBis Ng Văn Giáo, P3, Mỹ Tho, T.Giang.",
-        "Nà Làng Phú Bình, Chiêm Hoá, Tuyên Quang",
-        "59/12 Ng-B-Khiêm, Đa Kao Quận 1, TP. Hồ Chí Minh"
-    ]
-    for q in tests:
-        #print(f"\nQuery: {q}")
-        rs = search_address(q)
-        if not rs:
+    # Load test cases từ file JSON
+    with open("test.json", "r", encoding="utf-8") as f:
+        tests = json.load(f)
+
+    total = len(tests)
+    passed = 0
+
+    for case in tests:
+        query = case["text"]
+        expected = case["result"]
+
+        results = search_address(query)
+        print(f"\nQuery: {query}")
+        print(f"Expected: {expected}")
+
+        if not results:
             print("  (no results)")
             continue
-        for m in rs[:1]:
-            def safe_name(piece): return piece[0] if piece else None
-            p = safe_name(m.pieces.get("province"))
-            d = safe_name(m.pieces.get("district"))
-            w = safe_name(m.pieces.get("ward"))
-            t0 = time.perf_counter()
-            print(f"  -> score={m.score:.4f} | Province={p} | District={d} | Ward={w}")
-            t1 = time.perf_counter()
-            print(f"     Time taken: {t1 - t0:.6f}s")
+
+        # Lấy top 1 kết quả
+        top = results[0]
+
+        def safe_name(piece):
+            return piece[0] if piece else None
+
+        p = safe_name(top.pieces.get("province"))
+        d = safe_name(top.pieces.get("district"))
+        w = safe_name(top.pieces.get("ward"))
+
+        got = {"province": p, "district": d, "ward": w}
+        got_str = " | ".join([x for x in [p, d, w] if x])
+
+        print(f"Got: {got_str}")
+        print(f"Score: {top.score:.4f}")
+
+        # So sánh
+        ok = False
+        if isinstance(expected, str):
+            ok = (expected == got_str) or (expected in got_str)
+        elif isinstance(expected, dict):
+            ok = all(
+                expected.get(k) is None or expected.get(k) == got.get(k)
+                for k in ["province", "district", "ward"]
+            )
+
+        if ok:
+            print("✅ PASS")
+            passed += 1
+        else:
+            print("❌ FAIL")
+
+    # Tổng kết
+    accuracy = (passed / total) * 100 if total > 0 else 0
+    print("\n========== SUMMARY ==========")
+    print(f"Total: {total} | Passed: {passed} | Failed: {total - passed}")
+    print(f"Accuracy: {accuracy:.2f}%")
